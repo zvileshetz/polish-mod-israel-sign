@@ -1,0 +1,334 @@
+{
+  "NewTemplate1": {
+    "name": "NewTemplate1",
+    "class": "DecalData",
+    "persistentId": "fd4c3b5a-7d26-4cfe-8461-6b45b06c58e2",
+    "material": "WarningMaterial"
+  },
+  "NewTemplate10": {
+    "name": "NewTemplate10",
+    "class": "DecalData",
+    "persistentId": "febb1945-0cfe-4c56-b802-58431b658079",
+    "material": "WarningMaterial"
+  },
+  "NewTemplate2": {
+    "name": "NewTemplate2",
+    "class": "DecalData",
+    "persistentId": "e468db56-16d0-416f-86e8-547c8069f231",
+    "material": "WarningMaterial"
+  },
+  "NewTemplate9": {
+    "name": "NewTemplate9",
+    "class": "DecalData",
+    "persistentId": "ebe5162d-beb2-43bd-b36b-8342859f5e3a",
+    "material": "WarningMaterial"
+  },
+  "Road_01_damage01": {
+    "name": "Road_01_damage01",
+    "class": "DecalData",
+    "persistentId": "3eab883f-f6bd-4e2c-8ead-c2b85a686592",
+    "fadeEndPixelSize": 60,
+    "fadeStartPixelSize": 50,
+    "frame": 1,
+    "material": "AsphaltRoad_damage_sml_decal_01",
+    "randomize": true,
+    "renderPriority": 1,
+    "size": 2,
+    "texCols": 2,
+    "texRows": 2,
+    "textureCoordCount": 3,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.666666687,
+        0.5,
+        0.333333343
+      ],
+      [
+        0.5,
+        0.666666687,
+        0.5,
+        0.333333343
+      ],
+      [
+        0,
+        0.600000024,
+        0.5,
+        0.200000003
+      ],
+      [
+        0.5,
+        0.600000024,
+        0.5,
+        0.200000003
+      ],
+      [
+        0,
+        0.800000012,
+        0.5,
+        0.200000003
+      ],
+      [
+        0.5,
+        0.800000012,
+        0.5,
+        0.200000003
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "decal_graffiti": {
+    "name": "decal_graffiti",
+    "class": "DecalData",
+    "persistentId": "ec457370-ed2e-46bb-8b57-8ffc73e7ecec",
+    "fadeEndPixelSize": 60,
+    "fadeStartPixelSize": 50,
+    "frame": 1,
+    "material": "graffiti",
+    "randomize": true,
+    "renderPriority": 9,
+    "size": 3,
+    "texCols": 4,
+    "texRows": 4,
+    "textureCoordCount": 15,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0,
+        0.25,
+        0.25
+      ],
+      [
+        0,
+        0.25,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.25,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.25,
+        0.25,
+        0.25
+      ],
+      [
+        0,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.75,
+        0.25,
+        0.25
+      ]
+    ]
+  },
+  "italy_road_markings_instructions_decal": {
+    "name": "italy_road_markings_instructions_decal",
+    "class": "DecalData",
+    "persistentId": "48102876-87de-4570-9392-bc9d88595fb9",
+    "fadeEndPixelSize": 60,
+    "fadeStartPixelSize": 50,
+    "frame": 3,
+    "material": "imposter_mat__levels_polish_roads_v2_From_italy_italy_castle_statue.dae",
+    "renderPriority": 120,
+    "size": 3,
+    "texCols": 2,
+    "texRows": 2,
+    "textureCoordCount": 3,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.25
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.25
+      ],
+      [
+        0,
+        0.75,
+        0.5,
+        0.25
+      ],
+      [
+        0.5,
+        0.75,
+        0.5,
+        0.25
+      ],
+      [
+        0,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.75,
+        0.25,
+        0.25
+      ]
+    ]
+  }
+}

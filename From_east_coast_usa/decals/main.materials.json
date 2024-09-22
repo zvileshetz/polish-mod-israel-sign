@@ -1,0 +1,261 @@
+{
+  "damage": {
+    "name": "damage",
+    "mapTo": "damage",
+    "class": "Material",
+    "persistentId": "ff43e473-94fc-42f7-beed-ef7eb030b772",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_east_coast_usa/decals/decals_damage.dds",
+        "diffuseColor": [
+          0.9882353544235228,
+          0.9882353544235228,
+          0.9882353544235228,
+          0.600000024
+        ],
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "road",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "eca_decals_concrete_damage": {
+    "name": "eca_decals_concrete_damage",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "8ca7cf7c-54a6-4fb0-ad87-d9fc6189855e",
+    "Stages": [
+      {
+        "colorMap": "eca_decals_concrete_damage_d.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "eca_road_variation_and_damage": {
+    "name": "eca_road_variation_and_damage",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "9253836e-db47-44d7-bed1-484a19288cc3",
+    "Stages": [
+      {
+        "colorMap": "eca_road_variation_and_damage_d.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "graffiti": {
+    "name": "graffiti",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "2716d873-ff0a-4e3e-88e3-65b8af45be88",
+    "Stages": [
+      {
+        "colorMap": "decals_graffiti.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "road",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "graffiti_nekkit": {
+    "name": "graffiti_nekkit",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "2716d873-ff0a-4e3e-88e3-65b8af45be88",
+    "Stages": [
+      {
+        "colorMap": "decals_graffiti_nekkit.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "road",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "ind_decal_stuff_01": {
+    "name": "ind_decal_stuff_01",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "f8462b11-082f-4c27-a09b-faea18012180",
+    "Stages": [
+      {
+        "colorMap": "ind_decals_01.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "ind_decal_stuff_02": {
+    "name": "ind_decal_stuff_02",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "9c2a25dc-eb4a-4e2c-86f8-756b488a4dc4",
+    "Stages": [
+      {
+        "colorMap": "ind_decals_02_d.dds",
+        "specularMap": "ind_decals_02_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "ind_decal_stuff_02b": {
+    "name": "ind_decal_stuff_02b",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "72e0ab33-abce-438d-a158-e0d3cb1711d5",
+    "Stages": [
+      {
+        "colorMap": "ind_decals_02b_d.dds",
+        "specularMap": "ind_decals_02_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "nat_decals_fallen_leaves": {
+    "name": "nat_decals_fallen_leaves",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "116bd19a-ff61-4496-b492-382f7fdbf88a",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/From_east_coast_usa/decals/nat_decals_fallen_leaves_d.dds",
+        "specularMap": "/levels/polish_roads_v2/From_east_coast_usa/decals/nat_decals_fallen_leaves_s.dds",
+        "useAnisotropic": true
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      }
+    ],
+    "alphaTest": true,
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "translucent": true
+  },
+  "nat_decals_rocks_01": {
+    "name": "nat_decals_rocks_01",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "9a717521-be3e-4183-af7c-7105435319dc",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_east_coast_usa/decals/nat_decals_rocks_01.dds",
+        "diffuseColor": [
+          0.847058892,
+          0.847058892,
+          0.847058892,
+          1
+        ],
+        "normalMap": "/levels/polish_roads_V2/From_east_coast_usa/decals/nat_decals_rocks_01_n.dds",
+        "specularMap": "/levels/polish_roads_V2/From_east_coast_usa/decals/nat_decals_rocks_01_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 167,
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "specularStrength0": "0.784314",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "sawdust": {
+    "name": "sawdust",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "7b137986-c864-4d84-b6bc-a9926568f22a",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/From_east_coast_usa/decals/sawdust_d.dds",
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/decals/sawdust_n.dds",
+        "useAnisotropic": true
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      }
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "AsphaltRoad_track_skidmarks": {
+    "name": "AsphaltRoad_track_skidmarks",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "bf021f03-21af-4b15-9f58-34bb37c40325",
+    "Stages": [
+      {
+        "colorMap": "AsphaltRoad_track_skidmarks_d.dds",
+        "normalMap": "white_n.dds",
+        "roughnessFactor": 0.690170348,
+        "specularMap": "white.dds",
+        "useAnisotropic": true
+      },
+      {
+        "useAnisotropic": true
+      },
+      {},
+      {}
+    ],
+    "alphaRef": 80,
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "hirochi_raceway",
+    "specularStrength0": "1.37255",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "line_white": {
+    "name": "line_white",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "47d49486-e782-4df9-8786-cd5df7b4d80d",
+    "Stages": [
+      {
+        "colorMap": "levels/west_coast_usa/art/road/line_white_d.dds",
+        "normalMap": "levels/west_coast_usa/art/road/line_white_n.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 255,
+    "annotation": "SOLID_LINE",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "driver_training",
+    "specularColor0": "1 1 1 1",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "line_yellow": {
+    "name": "line_yellow",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "fc97840d-09f4-4ca1-8d17-1d4cb3567141",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/from_west_coast_usa/art/road/0",
+        "normalMap": "levels/west_coast_usa/art/road/line_white_n.dds",
+        "useAnisotropic": true
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      }
+    ],
+    "alphaRef": 255,
+    "annotation": "SOLID_LINE",
+    "castShadows": false,
+    "dynamicCubemap": true,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true
+  }
+}

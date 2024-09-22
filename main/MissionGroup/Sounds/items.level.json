@@ -1,0 +1,7 @@
+{"name":"Natural","class":"SimGroup","persistentId":"4467f2b2-0913-4165-8c99-a3a4e8bb0d74","__parent":"Sounds"}
+{"name":"Whooshes","class":"SimGroup","persistentId":"9e09be90-5d99-4ef8-a82c-cc1e557faa56","__parent":"Sounds"}
+{"name":"SmallerUrbanAreas","class":"SimGroup","persistentId":"a66d6c6f-f44d-4579-a1eb-033be706185d","__parent":"Sounds"}
+{"name":"Inside","class":"SimGroup","persistentId":"b5a8d7ae-739d-48f3-b2e6-2ea0be16af6e","__parent":"Sounds"}
+{"name":"ConstructionSites","class":"SimGroup","persistentId":"b8ec84cf-a55e-4a0a-bbde-60db06900b99","__parent":"Sounds"}
+{"class":"SFXEmitter","persistentId":"88504438-2688-4a5f-957d-18f6f2c35427","__parent":"Sounds","position":[369.296082,156.548752,21.8994141],"fadeInTime":0,"fadeOutTime":0,"is3D":false,"isLooping":false,"maxDistance":0.00999999978,"referenceDistance":0,"rotationMatrix":[1,0,0,0,0.999999762,-0.000690533896,0,0.000690533896,0.999999762],"scale":[0.00999999978,0.00999999978,0.00999999978],"track":"snapshot:>Reverb_EC","useTrackDescriptionOnly":true}
+{"class":"SFXEmitter","persistentId":"c2309438-a7ac-4c39-a484-fca386a4d8a0","__parent":"Sounds","position":[-426.700623,-385.905945,-17.8138428],"fadeInTime":0,"fadeOutTime":0,"is3D":false,"rotationMatrix":[1,0,0,0,0.999999762,-0.000690533896,0,0.000690533896,0.999999762],"scale":[100,100,100],"sourceGroup":"AudioChannelMaster","track":"amb_rain_medium","volume":0}
