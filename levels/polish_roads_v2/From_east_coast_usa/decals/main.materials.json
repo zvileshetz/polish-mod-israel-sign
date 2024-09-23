@@ -235,17 +235,22 @@
     "name": "sawdust",
     "mapTo": "unmapped_mat",
     "class": "Material",
-    "persistentId": "4e431f3f-5b93-4c3e-99f8-2e0763dd34a7",
+    "persistentId": "7b137986-c864-4d84-b6bc-a9926568f22a",
     "Stages": [
       {
-        "colorMap": "sawdust_d.dds",
-        "normalMap": "sawdust_n.dds",
-        "specularPower": 1,
+        "colorMap": "/levels/polish_roads_v2/From_east_coast_usa/decals/sawdust_d.dds",
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/decals/sawdust_n.dds",
         "useAnisotropic": true
       },
-      {},
-      {},
-      {}
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      },
+      {
+        "useAnisotropic": null
+      }
     ],
     "materialTag0": "decal",
     "materialTag1": "Industrial",

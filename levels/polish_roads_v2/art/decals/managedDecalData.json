@@ -1,4 +1,16 @@
 {
+  "NewTemplate1": {
+    "name": "NewTemplate1",
+    "class": "DecalData",
+    "persistentId": "fd4c3b5a-7d26-4cfe-8461-6b45b06c58e2",
+    "material": "WarningMaterial"
+  },
+  "NewTemplate10": {
+    "name": "NewTemplate10",
+    "class": "DecalData",
+    "persistentId": "febb1945-0cfe-4c56-b802-58431b658079",
+    "material": "WarningMaterial"
+  },
   "NewTemplate2": {
     "name": "NewTemplate2",
     "class": "DecalData",
@@ -155,6 +167,118 @@
         0.75,
         0.25,
         0.25,
+        0.25
+      ],
+      [
+        0,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.5,
+        0.75,
+        0.25,
+        0.25
+      ],
+      [
+        0.75,
+        0.75,
+        0.25,
+        0.25
+      ]
+    ]
+  },
+  "italy_road_markings_instructions_decal": {
+    "name": "italy_road_markings_instructions_decal",
+    "class": "DecalData",
+    "persistentId": "48102876-87de-4570-9392-bc9d88595fb9",
+    "fadeEndPixelSize": 60,
+    "fadeStartPixelSize": 50,
+    "frame": 3,
+    "material": "imposter_mat__levels_polish_roads_v2_From_italy_italy_castle_statue.dae",
+    "renderPriority": 120,
+    "size": 3,
+    "texCols": 2,
+    "texRows": 2,
+    "textureCoordCount": 3,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.25
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.25
+      ],
+      [
+        0,
+        0.75,
+        0.5,
+        0.25
+      ],
+      [
+        0.5,
+        0.75,
+        0.5,
         0.25
       ],
       [

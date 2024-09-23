@@ -54,12 +54,12 @@
       {
         "ambientOcclusionMap": "/levels/polish_roads_v2/SketchUpCK/slupek/ambientmetal.png",
         "baseColorFactor": [
-          1,
-          0.999989986,
-          0.999989986,
+          0.56734103,
+          0.56734103,
+          0.56734103,
           1
         ],
-        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds",
+        "baseColorMap": "/levels/polish_roads_v2/art/decals/Bumper.dds",
         "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_n.dds",
         "roughnessMap": "/levels/east_coast_usa/art/terrains/t_macro_grass_r.png"
       },

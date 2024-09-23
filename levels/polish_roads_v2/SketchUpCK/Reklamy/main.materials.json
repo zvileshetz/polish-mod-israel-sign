@@ -1,10 +1,14 @@
 {
-  "BilbDinoWejscie":{
-    "Stages":[
+  "BilbDinoWejscie": {
+    "name": "BilbDinoWejscie",
+    "mapTo": "BilbDinoWejscie",
+    "class": "Material",
+    "persistentId": "672e8d24-91dc-41aa-be43-bfdbac1facf3",
+    "Stages": [
       {
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/DinoBilboardNadWejsciem.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/modele/dinus/DinoBilboardabovetheentrance.png",
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/DinoBilboardNadWejsciem.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/modele/dinus/DinoBilboardabovetheentrance.png",
+        "diffuseColor": [
           1,
           0.999989986,
           0.999989986,
@@ -15,78 +19,25 @@
       {},
       {}
     ],
-    "alphaRef":40,
-    "alphaTest":true,
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"BilbDinoWejscie",
-    "name":"BilbDinoWejscie",
-    "persistentId":"672e8d24-91dc-41aa-be43-bfdbac1facf3",
-    "translucentBlendOp":"None"
+    "alphaRef": 40,
+    "alphaTest": true,
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "DuperPizza":{
-    "Stages":[
+  "DuperPizza": {
+    "name": "DupperPizza",
+    "mapTo": "DupperPizza",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
       {
-        "diffuseColor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/DUPER_PIZZA.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/DUPER_PIZZA.png",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"DupperPizza",
-    "name":"DupperPizza",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "DuperPizzaMenu":{
-    "Stages":[
-      {
-        "diffuseColor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/PizzaMenu.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/PizzaMenu.png",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"DupperPizzaMenu",
-    "name":"DupperPizzaMenu",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "KebabMenu":{
-    "Stages":[
-      {
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/kjebabmenu.png",
-        "detailScale":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/DUPER_PIZZA.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/DUPER_PIZZA.png",
+        "detailScale": [
           1,
           1
         ],
-        "diffuseColor":[
+        "diffuseColor": [
           1,
           0.999989986,
           0.999989986,
@@ -97,26 +48,26 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"KebabMenu",
-    "name":"KebabMenu",
-    "persistentId":"a0a80f96-a8ff-49cf-9f13-43b3644051bd",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "KebabReklama":{
-    "Stages":[
+  "DuperPizzaMenu": {
+    "name": "DupperPizzaMenu",
+    "mapTo": "DupperPizzaMenu",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/PizzaMenu.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/PizzaMenu.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Kebab_reklama.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/landaremaster.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -124,26 +75,25 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"KebabReklama",
-    "name":"KebabReklama",
-    "persistentId":"910865a2-22e5-42d0-903e-741c4b940fcc",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "PKPKCebulowo":{
-    "Stages":[
+  "KebabMenu": {
+    "name": "KebabMenu",
+    "mapTo": "KebabMenu",
+    "class": "Material",
+    "persistentId": "a0a80f96-a8ff-49cf-9f13-43b3644051bd",
+    "Stages": [
       {
-        "diffuseColor":[
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/kjebabmenu.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/PKPDworzec.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/PKPDworzec.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -151,28 +101,26 @@
       {},
       {}
     ],
-    "alphaRef":22,
-    "alphaTest":true,
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"PKPKCebulowo",
-    "name":"PKPKCebulowo",
-    "persistentId":"adfc0c66-4c4d-4f48-89d0-77becdbdc7ad",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "PKSCebulowo":{
-    "Stages":[
+  "KebabReklama": {
+    "name": "KebabReklama",
+    "mapTo": "KebabReklama",
+    "class": "Material",
+    "persistentId": "910865a2-22e5-42d0-903e-741c4b940fcc",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Kebab_reklama.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/landaremaster.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/DworzecPKSTxt.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/DworzecPKSTxt.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -180,94 +128,150 @@
       {},
       {}
     ],
-    "alphaRef":12,
-    "alphaTest":true,
-    "class":"material",
-    "doubleSided":true,
-    "mapTo":"PKSCebulowo",
-    "name":"PKSCebulowo",
-    "persistentId":"c774b2e5-26f6-460e-b17c-288bc9c5768e",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama10":{
-    "Stages":[
+  "PKPKCebulowo": {
+    "name": "PKPKCebulowo",
+    "mapTo": "PKPKCebulowo",
+    "class": "Material",
+    "persistentId": "adfc0c66-4c4d-4f48-89d0-77becdbdc7ad",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/PKPDworzec.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/PKPDworzec.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 22,
+    "alphaTest": true,
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "PKSCebulowo": {
+    "name": "PKSCebulowo",
+    "mapTo": "PKSCebulowo",
+    "class": "material",
+    "persistentId": "c774b2e5-26f6-460e-b17c-288bc9c5768e",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/DworzecPKSTxt.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/DworzecPKSTxt.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 12,
+    "alphaTest": true,
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "Reklama10": {
+    "name": "Reklama10",
+    "mapTo": "Reklama10",
+    "class": "Material",
+    "persistentId": "72803c72-6719-42d4-b892-69edbc77c857",
+    "Stages": [
+      {
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ZamekBillboard.png",
-        "detailScale":[
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/ZamekBillboard.png",
+        "detailScale": [
           0.200000003,
           0.200000003
         ],
-        "emissiveFactor":[
-          9.99999997e-07,
-          9.99999997e-07,
-          9.99999997e-07
+        "emissiveFactor": [
+          9.99999997e-7,
+          9.99999997e-7,
+          9.99999997e-7
         ],
-        "emissiveMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ZamekBillboard.png",
-        "glowFactor":[
+        "emissiveMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/ZamekBillboard.png",
+        "glowFactor": [
           1,
           0,
           0
         ]
       },
       {
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ZamekBillboard.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/ZamekBillboard.png"
       },
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Reklama10",
-    "name":"Reklama10",
-    "persistentId":"72803c72-6719-42d4-b892-69edbc77c857",
-    "translucentBlendOp":"None",
-    "version":1.5
+    "translucentBlendOp": "None",
+    "version": 1.5
   },
-  "Reklama105":{
-    "Stages":[
+  "Reklama105": {
+    "name": "Reklama105",
+    "mapTo": "Reklama105",
+    "class": "Material",
+    "persistentId": "163137ae-e1b3-4097-b5b7-9f846affbe5d",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/GazetaRegionalna.png",
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/GazetaRegionalna.png",
-        "detailScale":[
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/GazetaRegionalna.png",
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/GazetaRegionalna.png",
+        "detailScale": [
           1,
           1
         ],
-        "normalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Reklama105_nm.png"
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Reklama105_nm.png"
       },
       {},
       {},
       {}
     ],
-    "alphaRef":0,
-    "alphaTest":true,
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama105",
-    "name":"Reklama105",
-    "persistentId":"163137ae-e1b3-4097-b5b7-9f846affbe5d",
-    "translucentBlendOp":"None",
-    "version":1.5
+    "alphaRef": 0,
+    "alphaTest": true,
+    "doubleSided": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
   },
-  "Reklama11":{
-    "Stages":[
+  "Reklama11": {
+    "name": "Reklama11",
+    "mapTo": "Reklama11",
+    "class": "Material",
+    "persistentId": "014ad0f5-4ddc-4008-a7dd-ed8ce4b3e411",
+    "Stages": [
       {
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/MotorParkRemasterAD.png",
-        "detailScale":[
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/MotorParkRemasterAD.png",
+        "detailScale": [
           1,
           1
         ],
-        "diffuseColor":[
+        "diffuseColor": [
           1,
           0.99506402,
           0.99506402,
@@ -278,26 +282,26 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama11",
-    "name":"Reklama11",
-    "persistentId":"014ad0f5-4ddc-4008-a7dd-ed8ce4b3e411",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama12":{
-    "Stages":[
+  "Reklama12": {
+    "name": "Reklama12",
+    "mapTo": "Reklama12",
+    "class": "Material",
+    "persistentId": "8b55f529-0165-4de7-b71f-ddd587f57827",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/serwisaut23.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/serwisaut23.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/serwisaut23.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/serwisaut23.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -305,26 +309,62 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama12",
-    "name":"Reklama12",
-    "persistentId":"8b55f529-0165-4de7-b71f-ddd587f57827",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama13":{
-    "Stages":[
+  "Reklama13": {
+    "name": "Reklama13",
+    "mapTo": "Reklama13",
+    "class": "Material",
+    "persistentId": "37127797-09ba-4ba5-bcd3-8b3bd17b8cda",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/sprzedam_dzialke.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/WulkanizacjaOponAD.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
           1,
           0.999989986,
           0.999989986,
           1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/sprzedam_dzialke.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/sprzedam_dzialke.png",
-        "detailScale":[
+        ]
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      }
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "Reklama14": {
+    "name": "Reklama14",
+    "mapTo": "Reklama14",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Parking_zamek_cebulowski.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Parking_zamek_cebulowski.png",
+        "detailScale": [
           1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -332,92 +372,137 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama13",
-    "name":"Reklama13",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama14":{
-    "Stages":[
+  "Reklama15": {
+    "name": "Reklama15",
+    "mapTo": "Reklama15",
+    "class": "Material",
+    "persistentId": "caca552c-42c4-489f-bf36-71c420554881",
+    "Stages": [
       {
-        "diffuseColor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Parking_zamek_cebulowski.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Parking_zamek_cebulowski.png",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama14",
-    "name":"Reklama14",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "Reklama15":{
-    "Stages":[
-      {
-        "baseColorFactor":[
+        "baseColorFactor": [
           1,
           0.617424011,
           0.180619001,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png",
-        "detailMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png",
-        "detailScale":[
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png",
+        "detailMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png",
+        "detailScale": [
           1,
           1
         ],
-        "emissiveFactor":[
+        "emissiveFactor": [
           0.0177299995,
           0.0177299995,
           0.0177299995
         ],
-        "emissiveMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png",
-        "metallicFactor":0.142000005,
-        "metallicMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png"
+        "emissiveMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png",
+        "metallicFactor": 0.142000005,
+        "metallicMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/zamek_parking_kasa.png"
       },
       {},
       {},
       {}
     ],
-    "alphaRef":0,
-    "alphaTest":true,
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama15",
-    "name":"Reklama15",
-    "persistentId":"caca552c-42c4-489f-bf36-71c420554881",
-    "translucentBlendOp":"None",
-    "translucentZWrite":true,
-    "version":1.5
+    "alphaRef": 0,
+    "alphaTest": true,
+    "doubleSided": true,
+    "translucentBlendOp": "None",
+    "translucentZWrite": true,
+    "version": 1.5
   },
-  "Reklama16":{
-    "Stages":[
+  "Reklama16": {
+    "name": "Reklama16",
+    "mapTo": "Reklama16",
+    "class": "Material",
+    "persistentId": "ae490f75-ecdd-470e-b57d-2bba26650acf",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/ElewacajAD.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Logo.jpg",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
           1,
           0.999989986,
           0.999989986,
           1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ElewacajAD.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ElewacajAD.png",
-        "detailScale":[
+        ]
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      }
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "Reklama17": {
+    "name": "Reklama17",
+    "mapTo": "Reklama17",
+    "class": "Material",
+    "persistentId": "821e654a-b11d-46e6-a97e-228be7e50cff",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/TartakAD.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Ogrodzenie.png",
+        "detailScale": [
           1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ]
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      }
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "Reklama18": {
+    "name": "Reklama18",
+    "mapTo": "Reklama18",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/WynajecieAD.jpg",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/WynajecieAD.jpg",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -425,26 +510,26 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama16",
-    "name":"Reklama16",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama17":{
-    "Stages":[
+  "Reklama19": {
+    "name": "Reklama19",
+    "mapTo": "Reklama19",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/ZlomCebulowoAD.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/ZlomCebulowoAD.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/TartakAD.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/TartakAD.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -452,218 +537,91 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama17",
-    "name":"Reklama17",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama18":{
-    "Stages":[
+  "Reklama2": {
+    "name": "Reklama2",
+    "mapTo": "Reklama2",
+    "class": "Material",
+    "persistentId": "ee5f2f2e-2d43-4152-bb5d-79b4366c3851",
+    "Stages": [
       {
-        "diffuseColor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/WynajecieAD.jpg",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/WynajecieAD.jpg",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama18",
-    "name":"Reklama18",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "Reklama19":{
-    "Stages":[
-      {
-        "diffuseColor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ZlomCebulowoAD.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/ZlomCebulowoAD.png",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama19",
-    "name":"Reklama19",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "Reklama2":{
-    "Stages":[
-      {
-        "baseColorFactor":[
+        "baseColorFactor": [
           0.800000012,
           0.800000012,
           0.800000012,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeal.png",
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeal.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeal.png",
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeal.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Reklama2",
-    "name":"Reklama2",
-    "persistentId":"ee5f2f2e-2d43-4152-bb5d-79b4366c3851",
-    "translucentBlendOp":"None",
-    "version":1.5
+    "translucentBlendOp": "None",
+    "version": 1.5
   },
-  "Reklama2.1":{
-    "Stages":[
+  "Reklama2.1": {
+    "name": "Reklama2.1",
+    "mapTo": "Reklama2.1",
+    "class": "Material",
+    "persistentId": "656f458f-d4f2-4bc7-95d0-df0b1a4df553",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorFactor": [
           0.800000012,
           0.800000012,
           0.800000012,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeallewolewo.png",
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeallewolewo.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeallewolewo.png",
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadeallewolewo.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Reklama2.1",
-    "name":"Reklama2.1",
-    "persistentId":"656f458f-d4f2-4bc7-95d0-df0b1a4df553",
-    "translucentBlendOp":"None",
-    "version":1.5
+    "translucentBlendOp": "None",
+    "version": 1.5
   },
-  "Reklama2.2":{
-    "Stages":[
+  "Reklama2.2": {
+    "name": "Reklama2.2",
+    "mapTo": "Reklama2.2",
+    "class": "Material",
+    "persistentId": "c5a97db0-1c3c-4a06-88d1-88251ac61898",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadealprawoprawo.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/lidlakadealprawoprawo.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Reklama2.2",
-    "name":"Reklama2.2",
-    "persistentId":"c5a97db0-1c3c-4a06-88d1-88251ac61898",
-    "translucentBlendOp":"None",
-    "version":1.5
+    "translucentBlendOp": "None",
+    "version": 1.5
   },
-  "Reklama20":{
-    "Stages":[
+  "Reklama20": {
+    "name": "Reklama20",
+    "mapTo": "Reklama20",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/BjedronkaAD.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/BjedronkaAD.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/BjedronkaAD.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/BjedronkaAD.png",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama20",
-    "name":"Reklama20",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "Reklama21":{
-    "Stages":[
-      {
-        "diffuseColor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Dino_reklama.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Dino_reklama.png",
-        "detailScale":[
-          1,
-          1
-        ]
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama21",
-    "name":"Reklama21",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
-  },
-  "Reklama5":{
-    "Stages":[
-      {
-        "baseColorFactor":[
-          1,
-          0.999989986,
-          0.999989986,
-          1
-        ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Ogrodzenie.png",
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/Ogrodzenie.png"
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "mapTo":"Reklama5",
-    "name":"Reklama5",
-    "persistentId":"7e9202ce-1a6d-429c-bce7-2bdc39b150ab",
-    "translucentBlendOp":"None",
-    "version":1.5
-  },
-  "Reklama6":{
-    "Stages":[
-      {
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/WinogronReklama.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/WinogronReklama.png",
-        "diffuseColor":[
+        "diffuseColor": [
           1,
           0.999989986,
           0.999989986,
@@ -674,25 +632,26 @@
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Reklama6",
-    "name":"Reklama6",
-    "persistentId":"69a44b43-1375-400e-b94e-b84aeece4770",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama7":{
-    "Stages":[
+  "Reklama21": {
+    "name": "Reklama21",
+    "mapTo": "Reklama21",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Dino_reklama.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Dino_reklama.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/TottoAD.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/TottoAD.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -700,26 +659,45 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama7",
-    "name":"Reklama7",
-    "persistentId":"b9cff316-34e9-4a20-a7e6-7c2373e4a853",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   },
-  "Reklama9":{
-    "Stages":[
+  "Reklama5": {
+    "name": "Reklama5",
+    "mapTo": "Reklama5",
+    "class": "Material",
+    "persistentId": "7e9202ce-1a6d-429c-bce7-2bdc39b150ab",
+    "Stages": [
       {
-        "diffuseColor":[
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/BillboardNaukaJazdyy.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/BillboardNaukaJazdyy.png",
-        "detailScale":[
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Ogrodzenie.png",
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/Ogrodzenie.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "Reklama6": {
+    "name": "Reklama6",
+    "mapTo": "Reklama6",
+    "class": "Material",
+    "persistentId": "69a44b43-1375-400e-b94e-b84aeece4770",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/WinogronReklama.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/WinogronReklama.png",
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -727,26 +705,25 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"Reklama9",
-    "name":"Reklama9",
-    "persistentId":"2f992dc6-356a-4b04-a74c-6525032f8aeb",
-    "translucentBlendOp":"None"
+    "translucentBlendOp": "None"
   },
-  "SzpitalText":{
-    "Stages":[
+  "Reklama7": {
+    "name": "Reklama7",
+    "mapTo": "Reklama7",
+    "class": "Material",
+    "persistentId": "b9cff316-34e9-4a20-a7e6-7c2373e4a853",
+    "Stages": [
       {
-        "diffuseColor":[
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/TottoAD.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/TottoAD.png",
+        "detailScale": [
           1,
-          0.999989986,
-          0.999989986,
           1
         ],
-        "clearCoatBottomNormalMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/SzpitalText.png",
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Reklamy/SzpitalText.png",
-        "detailScale":[
+        "diffuseColor": [
           1,
+          0.999989986,
+          0.999989986,
           1
         ]
       },
@@ -754,11 +731,61 @@
       {},
       {}
     ],
-    "class":"Material",
-    "doubleSided":true,
-    "mapTo":"SzpitalText",
-    "name":"SzpitalText",
-    "persistentId":"29b7918e-5216-4128-b35d-3b41ce8955b4",
-    "translucentBlendOp":"None"
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "Reklama9": {
+    "name": "Reklama9",
+    "mapTo": "Reklama9",
+    "class": "Material",
+    "persistentId": "2f992dc6-356a-4b04-a74c-6525032f8aeb",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/BillboardNaukaJazdyy.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/BillboardNaukaJazdyy.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None"
+  },
+  "SzpitalText": {
+    "name": "SzpitalText",
+    "mapTo": "SzpitalText",
+    "class": "Material",
+    "persistentId": "29b7918e-5216-4128-b35d-3b41ce8955b4",
+    "Stages": [
+      {
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/SzpitalText.png",
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Reklamy/SzpitalText.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None"
   }
 }
