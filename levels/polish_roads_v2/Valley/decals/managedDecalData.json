@@ -1,0 +1,134 @@
+{
+  "AsphaltRoad_damage_large_decal_01d": {
+    "name": "AsphaltRoad_damage_large_decal_01d",
+    "class": "DecalData",
+    "persistentId": "9b980c46-5e1c-4b86-be14-123eebfd0cbb",
+    "fadeEndPixelSize": 70,
+    "fadeStartPixelSize": 60,
+    "frame": 1,
+    "material": "AsphaltRoad_damage_large_decal_01",
+    "randomize": true,
+    "renderPriority": 2,
+    "size": 2,
+    "texCols": 2,
+    "texRows": 2,
+    "textureCoordCount": 3,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    ]
+  },
+  "pit_mats_collection_001_decal": {
+    "name": "pit_mats_collection_001_decal",
+    "class": "DecalData",
+    "persistentId": "610b4f77-f08a-47cb-bfb7-bf66d2e7d06c",
+    "fadeEndPixelSize": 70,
+    "fadeStartPixelSize": 60,
+    "material": "m_pit_mats_collection_001_decal",
+    "randomize": true,
+    "renderPriority": 20,
+    "texCols": 2,
+    "texRows": 2,
+    "textureCoordCount": 3,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "spray_difficulty_sign_decal": {
+    "name": "spray_difficulty_sign_decal",
+    "class": "DecalData",
+    "persistentId": "a8c28777-599f-4fc6-8e66-548cdb4495f4",
+    "fadeEndPixelSize": 70,
+    "fadeStartPixelSize": 60,
+    "frame": 3,
+    "material": "m_spray_difficulty_sign_decal",
+    "renderPriority": 20,
+    "size": 0.400000006,
+    "texCols": 2,
+    "texRows": 2,
+    "textureCoordCount": 3,
+    "textureCoords": [
+      [
+        0,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0,
+        0.5,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "0.000000 0.000000 0.000000";
+
+   new BeamNGWaypoint(wp_12) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-46.8168526 -348.441162 -14.4311247";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_11) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-53.1405869 -359.260773 -14.4311247";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_10) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-82.9728775 -343.334259 -15.3974781";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_9) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-79.2075043 -116.917137 -15.3974781";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_8) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-79.2075043 53.1341629 -20.2812881";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_7) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-77.2782593 136.464432 -21.1608887";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_6) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-259.075684 378.08429 -15.7837276";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_5) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-292.451538 443.911407 -17.8389282";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_4) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-301.579376 503.436584 -15.9640913";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_3) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-297.196106 574.958801 -12.1960096";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_2) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-310.401642 586.664307 -12.1960096";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(wp_1) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-310.401642 608.363831 -11.5212173";
+      scale = "4 4 4";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGVehicle(scenario_player0) {
+      JBeam = "semi";
+      color = "1 0 0 1.20000005";
+      colorPalette0 = "White";
+      colorPalette1 = "White";
+      partConfig = "vehicles/semi/t75_fifthwheel.pc";
+      renderDistance = "500";
+      renderFade = "0.100000001";
+      datablock = "default_vehicle";
+      position = "-296.555817 620.702881 -9.00939846";
+      scale = "1 1 1";
+      rotationMatrix = "0.995512784 -0.0946300477 0 0.0946300477 0.995512784 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         colorPalette2 = "White";
+         colorPalette3 = "White";
+         isAIControlled = "0";
+         licenseText = "Car_Killer";
+   };
+   new BeamNGVehicle(trailer) {
+      JBeam = "tanker";
+      color = "White";
+      colorPalette0 = "White";
+      colorPalette1 = "White";
+      partConfig = "vehicles/tanker/petroleum.pc";
+      renderDistance = "500";
+      renderFade = "0.100000001";
+      datablock = "default_vehicle";
+      position = "-328.1763 586.958557 -11.7715626";
+      scale = "1 1 1";
+      rotationMatrix = "0.101099201 0.994876146 0 -0.994876146 0.101099201 0 0 0 1";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         colorPalette2 = "White";
+         colorPalette3 = "White";
+         isAIControlled = "0";
+         licenseText = "RPC-1709";
+   };
+};
+//--- OBJECT WRITE END ---
+

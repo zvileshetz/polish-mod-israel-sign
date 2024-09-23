@@ -1,0 +1,103 @@
+{
+  "tall_plant_vegetation": {
+    "name": "tall_plant_vegetation",
+    "mapTo": "tall_plant_vegetation",
+    "class": "Material",
+    "persistentId": "e36fab8f-056f-4955-b44d-7a4e055c0172",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/italy/art/shapes/trees/trees_italy/t_tall_plant_ao.data.png",
+        "baseColorFactor": [
+          1,
+          0.999998987,
+          0.999989986,
+          1
+        ],
+        "baseColorMap": "/levels/italy/art/shapes/trees/trees_italy/t_tall_plant_b.color.png",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          1,
+          1
+        ],
+        "normalMap": "/levels/italy/art/shapes/trees/trees_italy/t_tall_plant_nm.normal.png",
+        "normalMapStrength": 2,
+        "opacityMap": "/levels/italy/art/shapes/trees/trees_italy/t_tall_plant_o.data.png",
+        "roughnessMap": "/levels/italy/art/shapes/trees/trees_italy/t_tall_plant_r.data.png",
+        "specular": [
+          0.988234997,
+          0.988234997,
+          0.988234997,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 84,
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "groundType": "LEAVES_THIN",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "specularStrength0": "0.784314",
+    "version": 1.5
+  },
+  "zborzee": {
+    "name": "zborzee",
+    "mapTo": "zborzee",
+    "class": "material",
+    "persistentId": "1b066718-eadf-49fd-86a6-aeb94b5a816d",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          1,
+          0.954460979,
+          0.846983016,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/trees/tree_italy/zborze.png",
+        "normalMapStrength": 0.5,
+        "opacityMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/trees/tree_italy/zborzee_opacity.png"
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "alphaRef": 136,
+    "alphaTest": true,
+    "castShadows": false,
+    "doubleSided": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

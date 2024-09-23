@@ -1,0 +1,60 @@
+{
+  "mat_0001_city_limits_poland_city_exit_mat": {
+    "name": "mat_0001_city_limits_poland_city_exit_mat",
+    "mapTo": "mat_0001_city_limits_poland_city_exit",
+    "class": "Material",
+    "persistentId": "4981aa2e-c11f-4e5f-b1c4-36891655e8d6",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/SCS/pl_city_enter/city_limits_poland_city_exit.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "pl_city_enter_mat_0000_city_limits_poznan_enter": {
+    "name": "pl_city_enter_mat_0000_city_limits_poznan_enter",
+    "mapTo": "mat_0000_city_limits_poznan_enter",
+    "class": "Material",
+    "persistentId": "7cfc1aed-e143-432d-8b9e-cec457db29b1",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/SCS/pl_city_enter/city_limits_poznan_enter.dds",
+        "diffuseColor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "roughnessFactor": 0.644401252
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "pl_city_enter_mat_0001_city_limits_poland_city_enter": {
+    "name": "pl_city_enter_mat_0001_city_limits_poland_city_enter",
+    "mapTo": "mat_0001_city_limits_poland_city_enter",
+    "class": "Material",
+    "persistentId": "6b1d7358-0b73-432a-be5b-d222c97a1a0b",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/SCS/pl_city_enter/city_limits_poland_city_enter.dds",
+        "diffuseColor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "roughnessFactor": 0.644401252
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}

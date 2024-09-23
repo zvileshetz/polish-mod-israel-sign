@@ -1,0 +1,163 @@
+{
+  "DachowkaDomWaboll": {
+    "name": "DachowkaDomWaboll",
+    "mapTo": "DachowkaDomWaboll",
+    "class": "Material",
+    "persistentId": "cc44e564-a51e-4533-addc-f99ff66ea304",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          1,
+          0.856296003,
+          0.639670014,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/dach1_diff.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/dach1_nm.png",
+        "roughnessMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/dach1.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "DachowkaDomWaboll2": {
+    "name": "DachowkaDomWaboll2",
+    "mapTo": "DachowkaDomWaboll2",
+    "class": "material",
+    "persistentId": "99aab59b-471d-4257-b3d4-9947e20371a2",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.600181997,
+          0.591293991,
+          0.591293991,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/dach2.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/dach2_nm.png",
+        "roughnessMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/dach2_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "version": 1.5
+  },
+  "DeskiDomWaboll": {
+    "name": "DeskiDomWaboll",
+    "mapTo": "DeskiDomWaboll",
+    "class": "Material",
+    "persistentId": "6f615344-a59e-4ad1-9227-32ec165d3660",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.5804380179999999,
+          0.530161023,
+          0.454374999,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/drewno1k.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/drewienko_nm.png",
+        "roughnessMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/drewienko_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "version": 1.5
+  },
+  "DomWabollMetal": {
+    "name": "DomWabollMetal",
+    "mapTo": "DomWabollMetal",
+    "class": "Material",
+    "persistentId": "3c9f980f-855a-4c30-ba49-76161600c0ef",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.698902011,
+          0.630111992,
+          0.52641201,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/rustymetal.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/zardzewialymetal.png",
+        "roughnessMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/zardzewialymatal_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "version": 1.5
+  },
+  "ElewacjaDomWaboll": {
+    "name": "ElewacjaDomWaboll",
+    "mapTo": "ElewacjaDomWaboll",
+    "class": "Material",
+    "persistentId": "41d6d7a5-0a6c-4fd7-a85d-6ae7536f5638",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/sciana.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/domwaboll/sciana_nm.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "version": 1.5
+  },
+  "LodBialyBardziej": {
+    "name": "LodBialyBardziej",
+    "mapTo": "LodBialyBardziej",
+    "class": "Material",
+    "persistentId": "6c142df7-f3a3-423b-8de2-a82e4e71f401",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.703837991,
+          0.703831017,
+          0.703831017,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ]
+  }
+}

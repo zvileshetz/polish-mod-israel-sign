@@ -1,0 +1,62 @@
+{
+  "spd_mat_0001_speedcamera_hw_pl": {
+    "name": "spd_mat_0001_speedcamera_hw_pl",
+    "mapTo": "mat_0001_speedcamera_hw_pl",
+    "class": "Material",
+    "persistentId": "713184bd-a18b-4e92-96dc-50a9720571eb",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/SCS/speedcamera/speed_camera_ao.png",
+        "baseColorFactor": [
+          1,
+          0.999997973,
+          0.999989986,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_V2/SCS/speedcamera/speedcamera_hw_pl.dds",
+        "colorPaletteMap": "levels/polish_roads_V2/SCS/speedcamera/speedcamera_hw_pl.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/SCS/speedcamera/speed_camera_nm.png",
+        "detailNormalMapStrength": 0.400000006,
+        "detailScale": [
+          1,
+          1
+        ],
+        "metallicFactor": 0.51700002,
+        "normalMap": "/levels/polish_roads_v2/SCS/speedcamera/speed_camera_nm.png",
+        "opacityMap": "levels/polish_roads_V2/SCS/speedcamera/speedcamera_hw_pl.dds",
+        "roughnessFactor": 0.245000005
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "NATURE",
+    "cubemap": "eca_cubemap_road_sky_reflection",
+    "doubleSided": true,
+    "materialTag0": "beamng",
+    "materialTag1": "building",
+    "materialTag2": "east_coast_usa",
+    "specularColor0": "1 1 1 1",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

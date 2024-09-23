@@ -1,0 +1,22 @@
+{
+  "rubbermarks" : {
+    "name" : "rubbermarks",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "7051beb9-6903-4888-874e-52d0ead5fc83",
+    "Stages" : [
+      {
+        "colorMap" : "rubbermarks.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "decal",
+    "materialTag1" : "beamng",
+    "translucent" : true,
+    "translucentZWrite" : true
+  }
+}

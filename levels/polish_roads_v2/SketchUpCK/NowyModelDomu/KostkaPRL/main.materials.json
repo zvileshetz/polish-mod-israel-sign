@@ -1,0 +1,32 @@
+{
+  "BaranekNowyDom": {
+    "name": "BaranekNowyDom",
+    "mapTo": "BaranekNowyDom",
+    "class": "Material",
+    "persistentId": "0786196c-0343-446c-8b9f-400e006d8f29",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.807494998,
+          0.791365981,
+          0.727778971,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/KostkaPRL/baranek1k.png",
+        "detailNormalMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/KostkaPRL/baranek1k_nm.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/KostkaPRL/baranek1k_nm.png",
+        "roughnessMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/KostkaPRL/baranek1k_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  }
+}

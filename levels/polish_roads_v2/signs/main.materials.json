@@ -1,0 +1,25 @@
+{
+  "italy_road_sign_dir_portino_l_italy_road_sign_BG":{
+    "Stages":[
+      {
+        "colorMap":"levels/italy/art/shapes/buildings/italy_road_sign_BG",
+        "specular":[
+          0,
+          0,
+          0,
+          1
+        ],
+        "specularPower":10
+      },
+      {},
+      {},
+      {}
+    ],
+    "class":"Material",
+    "groundType":"METAL",
+    "mapTo":"italy_road_sign_BG",
+    "name":"italy_road_sign_dir_portino_l_italy_road_sign_BG",
+    "persistentId":"0ede533a-55a5-4dbf-9589-18f4873c78f7",
+    "translucentBlendOp":"None"
+  }
+}

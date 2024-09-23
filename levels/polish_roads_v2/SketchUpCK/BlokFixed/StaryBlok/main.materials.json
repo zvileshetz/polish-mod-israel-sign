@@ -1,0 +1,44 @@
+{
+  "pol_stary": {
+    "name": "pol_stary",
+    "mapTo": "pol_stary",
+    "class": "Material",
+    "persistentId": "8d09aeca-46ba-41f1-ad37-1202a66375f4",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_V2/SketchUpCK/BlokFixed/NoweTexturyIPBR/bloki_ao.png",
+        "baseColorFactor": [
+          0.797622979,
+          0.797614992,
+          0.797614992,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_V2/SketchUpCK/BlokFixed/StaryBlok/SmutnyStaryBlok.png",
+        "detailMap": "levels/polish_roads_V2/From_derby/shapes/buildings/detail_grunge_01.dds",
+        "detailScale": [
+          5,
+          5
+        ],
+        "normalMapStrength": 0.699999988
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      }
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

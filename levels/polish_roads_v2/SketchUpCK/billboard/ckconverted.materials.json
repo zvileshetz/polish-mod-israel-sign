@@ -1,0 +1,168 @@
+{
+  "Material_001_mat": {
+    "name": "Material_001_mat",
+    "mapTo": "Material_001",
+    "class": "material",
+    "persistentId": "0eeff251-3785-47a6-9b07-15d754403e81",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads/SketchUpCK/billboard/luksor.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "bil2_mat": {
+    "name": "bil2_mat",
+    "mapTo": "bil2",
+    "class": "material",
+    "persistentId": "a6aaadb8-ad58-40f0-98df-c959de696620",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/billboard/lul2.dds",
+        "metallicFactor": 0.252999991,
+        "roughnessFactor": 0.899999976,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds"
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "annotation": "SIDEWALK",
+    "materialTag0": "beamng",
+    "materialTag1": "building",
+    "materialTag2": "east_coast_usa",
+    "version": 1.5
+  },
+  "bil3_mat": {
+    "name": "bil3_mat",
+    "mapTo": "bil3",
+    "class": "material",
+    "persistentId": "631f0c49-6623-483d-894d-da163caaa3db",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/billboard/lul.dds",
+        "metallicFactor": 0.252999991,
+        "roughnessFactor": 0.899999976,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds"
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "annotation": "SIDEWALK",
+    "materialTag0": "beamng",
+    "materialTag1": "building",
+    "materialTag2": "east_coast_usa",
+    "version": 1.5
+  },
+  "bill_bil1": {
+    "name": "bill_bil1",
+    "mapTo": "bil1",
+    "class": "material",
+    "persistentId": "0c998bb7-6f44-414c-bbcf-1ba38a8814d5",
+    "Stages": [
+      {
+        "animFlags": 1,
+        "baseColorFactor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/billboard/test_texture.dds",
+        "clearCoatBottomNormalMap": "/levels/polish_roads_v2/SketchUpCK/billboard/test_texture.dds",
+        "clearCoatBottomNormalMapStrength": 1.5,
+        "emissive": true,
+        "emissiveFactor": [
+          1,
+          0.99506402,
+          0.99506402
+        ],
+        "emissiveMap": "/levels/polish_roads_v2/SketchUpCK/billboard/test_texture.dds",
+        "rotPivotOffset": [
+          0,
+          -0.100000001
+        ],
+        "roughnessFactor": 0.806999981,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds",
+        "scrollDir": [
+          0,
+          0.0340000018
+        ],
+        "scrollSpeed": 0.781000018,
+        "sequenceSegmentSize": 0.0182849001,
+        "specular": [
+          0.25,
+          0.25,
+          0.25,
+          1
+        ]
+      },
+      {
+        "animFlags": null,
+        "baseColorFactor": null,
+        "clearCoatBottomNormalMapStrength": null,
+        "emissive": null,
+        "emissiveFactor": null,
+        "rotPivotOffset": null,
+        "roughnessFactor": null,
+        "scrollDir": null,
+        "scrollSpeed": null,
+        "sequenceSegmentSize": null,
+        "specular": null
+      },
+      {
+        "animFlags": null,
+        "baseColorFactor": null,
+        "clearCoatBottomNormalMapStrength": null,
+        "emissive": null,
+        "emissiveFactor": null,
+        "rotPivotOffset": null,
+        "roughnessFactor": null,
+        "scrollDir": null,
+        "scrollSpeed": null,
+        "sequenceSegmentSize": null,
+        "specular": null
+      },
+      {
+        "animFlags": null,
+        "baseColorFactor": null,
+        "clearCoatBottomNormalMapStrength": null,
+        "emissive": null,
+        "emissiveFactor": null,
+        "rotPivotOffset": null,
+        "roughnessFactor": null,
+        "scrollDir": null,
+        "scrollSpeed": null,
+        "sequenceSegmentSize": null,
+        "specular": null
+      }
+    ],
+    "annotation": "SIDEWALK",
+    "materialTag0": "beamng",
+    "materialTag1": "building",
+    "materialTag2": "east_coast_usa",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

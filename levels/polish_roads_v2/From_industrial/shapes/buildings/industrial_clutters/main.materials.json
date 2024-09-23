@@ -1,0 +1,113 @@
+{
+  "ind_pvc_cloth": {
+    "name": "ind_pvc_cloth",
+    "mapTo": "ind_pvc_cloth",
+    "class": "material",
+    "persistentId": "bd29d24a-29fc-4c24-83e2-3a1d11ae4964",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/pvc_covering.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/pvc_covering.normal.dds",
+        "overlayMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/utah_breakup_texture.dds",
+        "specularMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/pvc_covering_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "ind_wood_stack": {
+    "name": "ind_wood_stack",
+    "mapTo": "ind_wood_stack",
+    "class": "material",
+    "persistentId": "173da68f-ab02-45e2-87d5-e7308b28fd50",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/industrial/art/shapes/buildings/industrial_clutters/wood_stack_d.color.png",
+        "normalMap": "/levels/industrial/art/shapes/buildings/industrial_clutters/wood_stack_nm.normal.png",
+        "normalMapStrength": 2,
+        "overlayMap": "/levels/industrial/art/shapes/buildings/utah_breakup_texture.dds",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png",
+        "vertColor": true
+      },
+      {
+        "normalMapStrength": null,
+        "vertColor": null
+      },
+      {
+        "normalMapStrength": null,
+        "vertColor": null
+      },
+      {
+        "normalMapStrength": null,
+        "vertColor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "metal_clutters_coll01": {
+    "name": "metal_clutters_coll01",
+    "mapTo": "metal_clutters_coll01",
+    "class": "Material",
+    "persistentId": "04989f56-3c76-4cc0-a94e-2a31ba1fb84e",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/metal_clutters_coll01.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/metal_clutters_coll01.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/metal_clutters_coll01_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "non_metal_clutters_coll01": {
+    "name": "non_metal_clutters_coll01",
+    "mapTo": "non_metal_clutters_coll01",
+    "class": "Material",
+    "persistentId": "8ffcf87b-500e-4d25-b429-e5236cd449f2",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/non_metal_clutters_coll01.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/non_metal_clutters_coll01.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/non_metal_clutters_coll01_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "waste_tile": {
+    "name": "waste_tile",
+    "mapTo": "waste_tile",
+    "class": "Material",
+    "persistentId": "7f574669-5862-4966-ba74-f2412df0012c",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/waste_tile.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/waste_tile.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/waste_tile_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "wood_clutters_a": {
+    "name": "wood_clutters_a",
+    "mapTo": "wood_clutters_a",
+    "class": "Material",
+    "persistentId": "441239b5-8f72-40a6-95cb-4844f9ff041d",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/wood_clutters_a.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/wood_clutters_a.normal.dds",
+        "overlayMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/utah_breakup_texture.dds",
+        "specularMap": "/levels/polish_roads_V2/From_derby/shapes/buildings/industrial_clutters/wood_clutters_a_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  }
+}

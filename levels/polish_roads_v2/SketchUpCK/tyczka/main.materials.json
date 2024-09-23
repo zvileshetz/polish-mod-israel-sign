@@ -1,0 +1,79 @@
+{
+  "tyczka1": {
+    "name": "tyczka1",
+    "mapTo": "tyczka1",
+    "class": "Material",
+    "persistentId": "4cbba3bc-c88e-440b-9bc9-78f9cb4181eb",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/tyczka/__Blacktop_New_1.jpg",
+        "metallicFactor": 0.0869999975,
+        "roughnessFactor": 0.563000023,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds"
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "tyczka2": {
+    "name": "tyczka2",
+    "mapTo": "tyczka2",
+    "class": "Material",
+    "persistentId": "a5e21cd3-8d31-483f-85dd-48d3387cacca",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/tyczka/Polished_Concrete_Old.jpg",
+        "roughnessFactor": 0.847000003,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds"
+      },
+      {
+        "roughnessFactor": null
+      },
+      {
+        "roughnessFactor": null
+      },
+      {
+        "roughnessFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "version": 1.5
+  },
+  "tyczka3": {
+    "name": "tyczka3",
+    "mapTo": "tyczka3",
+    "class": "Material",
+    "persistentId": "0391e78e-d1b8-41d8-ba77-219c53bcbda5",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/tyczka/__Polished_Concrete_Old_1.jpg",
+        "metallicFactor": 0.246000007,
+        "roughnessFactor": 0.509000003
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "version": 1.5
+  }
+}

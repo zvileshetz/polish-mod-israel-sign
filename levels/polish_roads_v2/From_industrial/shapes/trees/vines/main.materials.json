@@ -1,0 +1,42 @@
+{
+  "vine_leaves": {
+    "name": "vine_leaves",
+    "mapTo": "vine_leaves",
+    "class": "Material",
+    "persistentId": "cf668c93-56b2-4284-be49-74b796b5920e",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/Industrial/art/shapes/trees/vines/t_ind_vine_ao.data.dds",
+        "baseColorFactor": [
+          0.996078491,
+          0.996078491,
+          0.996078491,
+          1
+        ],
+        "baseColorMap": "/levels/Industrial/art/shapes/trees/vines/t_ind_vine_b.color.dds",
+        "normalMap": "/levels/Industrial/art/shapes/trees/vines/t_ind_vine_nm.normal.dds",
+        "opacityMap": "/levels/Industrial/art/shapes/trees/vines/t_ind_vine_o.data.dds",
+        "roughnessMap": "/levels/Industrial/art/shapes/trees/vines/t_ind_vine_r.data.dds"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "alphaRef": 12,
+    "alphaTest": true,
+    "doubleSided": true,
+    "groundType": "LEAVES_THIN",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "materialTag3": "vegetation",
+    "materialTag4": "east_coast_usa",
+    "version": 1.5
+  }
+}

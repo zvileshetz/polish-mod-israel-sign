@@ -1,0 +1,31 @@
+{
+  "CzarnyKominIndus":{
+    "Stages":[
+      {
+        "baseColorFactor":[
+          0.200000003,
+          0.200000003,
+          0.200000003,
+          1
+        ],
+        "baseColorMap":"levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_bld_concrete_d.dds",
+        "detailMap":"levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/detail_grunge_01b_low_desat.dds",
+        "detailNormalMap":"levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_bld_concrete_n.dds",
+        "detailScale":[
+          1,
+          5
+        ],
+        "normalMap":"levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_bld_concrete_n.dds",
+        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "class":"Material",
+    "mapTo":"CzarnyKomin",
+    "name":"CzarnyKominIndus",
+    "persistentId":"84c81fc6-666d-414d-bb97-043d5d7c1cfb",
+    "version":1.5
+  }
+}

@@ -1,0 +1,74 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "706.298035 -229.420212 53.348244";
+
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_post.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-0.667175293 0.628982544 -3.81469727e-06";
+      scale = "1 1 1";
+      rotationMatrix = "0.715964258 -0.698136926 0 0.698136926 0.715964258 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+      persistentId = "d1c536b8-c3c0-4975-86c5-512b8d2aac07";
+   };
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_post.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-0.000305175781 0.00633239746 -3.81469727e-06";
+      scale = "1 1 1";
+      rotationMatrix = "-0.733086169 0.680135787 0 -0.680135787 -0.733086169 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+      persistentId = "38862023-7650-4068-989a-94874bdac863";
+   };
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_post.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0.667297363 -0.635314941 -3.81469727e-06";
+      scale = "1 1 1";
+      rotationMatrix = "0.715964258 -0.698136926 0 0.698136926 0.715964258 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+      persistentId = "2b2c493e-17cc-42eb-8266-88c16c5b2ab5";
+   };
+};
+//--- OBJECT WRITE END ---

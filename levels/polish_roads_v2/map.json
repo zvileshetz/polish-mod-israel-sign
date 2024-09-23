@@ -1,0 +1,17 @@
+{
+    "segments" : {
+    //parking
+        "s1" : {
+            "nodes" : ["bridgeai", "bridgeai1"],
+            "drivability" : 1
+        },
+        "s2" : {
+            "nodes" : ["autostradalewaai1","autostradalewaai2","autostradalewaai3", "autostradalewaai4", "autostradalewaai5", "autostradalewaai6", "autostradalewaai7", "autostradalewaai8", "autostradalewaai10", "autostradalewaai11", "autostradalewaai12", "autostradalewaai13", "autostradalewaai14", "autostradalewaai15", "autostradalewaai16", "autostradalewaai17", "autostradalewaai18", "autostradalewaai19", "autostradalewaai20", "autostradalewaai21", "autostradalewaai22", "autostradalewaai23"],
+            "drivability" : 1
+        },
+		"s3" : {
+            "nodes" : ["autostradaprawa2","autostradaprawa3", "autostradaprawa4", "autostradaprawa5", "autostradaprawa6", "autostradaprawa7", "autostradaprawa8", "autostradaprawa9", "autostradaprawa10", "autostradaprawa11", "autostradaprawa12", "autostradaprawa13", "autostradaprawa14", "autostradaprawa15", "autostradaprawa16", "autostradaprawa17", "autostradaprawa18", "autostradaprawa19", "autostradaprawa20", "autostradaprawa21", "autostradaprawa22", "autostradaprawa23"],
+            "drivability" : 1
+        }
+    }
+}

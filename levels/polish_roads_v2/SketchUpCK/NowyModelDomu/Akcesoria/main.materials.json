@@ -1,0 +1,99 @@
+{
+  "GumaDoSkakania": {
+    "name": "GumaDoSkakania",
+    "mapTo": "GumaDoSkakania",
+    "class": "Material",
+    "persistentId": "2c4cd6de-abd7-4dd2-a55f-f66427dd2124",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.229978994,
+          0.229976997,
+          0.229976997,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/fabric_generic_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/fabric_generic_n.dds",
+        "detailNormalMapStrength": 2,
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/fabric_generic_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "GumaTrampolina": {
+    "name": "GumaTrampolina",
+    "mapTo": "GumaTrampolina",
+    "class": "Material",
+    "persistentId": "e6666951-6664-489e-a69e-9cf5bc431c28",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.205299005,
+          0.324422002,
+          1,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/fabric_generic_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/fabric_generic_n.dds",
+        "detailNormalMapStrength": 2,
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/fabric_generic_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "SiatkaTrampolina": {
+    "name": "SiatkaTrampolina",
+    "mapTo": "SiatkaTrampolina",
+    "class": "Material",
+    "persistentId": "878d5e56-0477-45d9-859a-41bcc2560642",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/Akcesoria/grille_hex_d.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/Akcesoria/grille_hex_n.png",
+        "opacityMap": "/levels/polish_roads_v2/SketchUpCK/NowyModelDomu/Akcesoria/grille_hex_o.data.DDS",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 108,
+    "alphaTest": true,
+    "doubleSided": true,
+    "version": 1.5
+  }
+}

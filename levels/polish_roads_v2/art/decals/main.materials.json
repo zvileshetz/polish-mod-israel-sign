@@ -1,0 +1,168 @@
+{
+  "eca_decals_concrete_damage": {
+    "name": "eca_decals_concrete_damage",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "88b04cc3-aa0b-41a4-9937-85037232b6c2",
+    "Stages": [
+      {
+        "colorMap": "eca_decals_concrete_damage_d.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "eca_road_variation_and_damage": {
+    "name": "eca_road_variation_and_damage",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "ce09af26-5a4f-4071-83b6-e95ae4134dd0",
+    "Stages": [
+      {
+        "colorMap": "eca_road_variation_and_damage_d.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "ind_decal_stuff_01": {
+    "name": "ind_decal_stuff_01",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "80c877fc-0451-4d07-904d-9be74a5fe719",
+    "Stages": [
+      {
+        "colorMap": "ind_decals_01.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "ind_decal_stuff_02": {
+    "name": "ind_decal_stuff_02",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "8f7ba3c2-b19e-40a9-81f4-04c9fe24fad5",
+    "Stages": [
+      {
+        "colorMap": "ind_decals_02_d.dds",
+        "specularMap": "ind_decals_02_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "ind_decal_stuff_02b": {
+    "name": "ind_decal_stuff_02b",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "63bfd7ba-c464-4232-b567-6a73d04a48af",
+    "Stages": [
+      {
+        "colorMap": "ind_decals_02b_d.dds",
+        "specularMap": "ind_decals_02_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "nat_decals_fallen_leaves": {
+    "name": "nat_decals_fallen_leaves",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "116bd19a-ff61-4496-b492-382f7fdbf88a",
+    "Stages": [
+      {
+        "colorMap": "nat_decals_fallen_leaves_d.dds",
+        "specularMap": "nat_decals_fallen_leaves_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "nat_decals_rocks_01": {
+    "name": "nat_decals_rocks_01",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "f5864384-ae18-4865-8888-ab4ebd2a9f5f",
+    "Stages": [
+      {
+        "colorMap": "nat_decals_rocks_01.dds",
+        "normalMap": "nat_decals_rocks_01_n.dds",
+        "specularMap": "nat_decals_rocks_01_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 167,
+    "materialTag0": "decal",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "specularStrength0": "0.784314",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "sawdust": {
+    "name": "sawdust",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "7b137986-c864-4d84-b6bc-a9926568f22a",
+    "Stages": [
+      {
+        "colorMap": "sawdust_d.dds",
+        "normalMap": "sawdust_n.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "decal",
+    "materialTag1": "Industrial",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  }
+}

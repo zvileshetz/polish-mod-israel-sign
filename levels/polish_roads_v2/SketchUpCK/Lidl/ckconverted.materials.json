@@ -1,0 +1,326 @@
+{
+  "lidl_10": {
+    "name": "lidl_10",
+    "mapTo": "lidl_10",
+    "class": "Material",
+    "persistentId": "c7411f43-5b7b-493f-8e31-83b26d41166f",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Lidl/lidl_10",
+        "metallicFactor": 0.504999995
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_13": {
+    "name": "lidl_13",
+    "mapTo": "lidl_13",
+    "class": "Material",
+    "persistentId": "0a10001c-7c7b-4aa1-9586-b12352dd2c59",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_13"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_13_0": {
+    "name": "lidl_13_0",
+    "mapTo": "lidl_13_0",
+    "class": "Material",
+    "persistentId": "f91aea46-cdfb-4684-809d-3f6d0ac1e8e8",
+    "Stages": [
+      {
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_13_0",
+        "metallicFactor": 0.493000001
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_13_1": {
+    "name": "lidl_13_1",
+    "mapTo": "lidl_13_1",
+    "class": "Material",
+    "persistentId": "e1e9d939-4dda-415f-908e-3f1340e74cc5",
+    "Stages": [
+      {
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_13_1",
+        "metallicFactor": 0.5
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_14": {
+    "name": "lidl_14",
+    "mapTo": "lidl_14",
+    "class": "Material",
+    "persistentId": "439c76c8-f335-414a-a75f-3b176c7da465",
+    "Stages": [
+      {
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_14",
+        "metallicFactor": 0.501999974
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_15": {
+    "name": "lidl_15",
+    "mapTo": "lidl_15",
+    "class": "Material",
+    "persistentId": "a41621c9-d192-4865-a81d-221b3a4b4489",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.886470973,
+          0.702693999,
+          0.702693999,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_15",
+        "metallicFactor": 0.504999995
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_2": {
+    "name": "lidl_2",
+    "mapTo": "lidl_2",
+    "class": "Material",
+    "persistentId": "3d089d11-5a1f-42ad-93a2-15736a181967",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_2",
+        "metallicFactor": 0.5
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_3": {
+    "name": "lidl_3",
+    "mapTo": "lidl_3",
+    "class": "Material",
+    "persistentId": "05f55998-8c7e-4e7b-a363-ff5878b39e29",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_3"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_4": {
+    "name": "lidl_4",
+    "mapTo": "lidl_4",
+    "class": "Material",
+    "persistentId": "41a7fa55-60d0-46a7-85a9-ee4a79a770a1",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_4"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_5": {
+    "name": "lidl_5",
+    "mapTo": "lidl_5",
+    "class": "Material",
+    "persistentId": "f3f4d3f8-789b-41c8-a02e-da1e769924f5",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_5"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_6": {
+    "name": "lidl_6",
+    "mapTo": "lidl_6",
+    "class": "Material",
+    "persistentId": "604891cb-1a9e-406c-8628-995a609d8d65",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_6"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_Color_C07": {
+    "name": "lidl_Color_C07",
+    "mapTo": "Color_C07",
+    "class": "Material",
+    "persistentId": "ebfdd8cb-f2c5-443b-8a2a-6a8bbaaddee1",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.376470596,
+          0.223529398,
+          0.0745097995,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl___DimGray_": {
+    "name": "lidl___DimGray_",
+    "mapTo": "__DimGray_",
+    "class": "Material",
+    "persistentId": "6cb884c7-1efe-4279-bf07-f128eaa4f019",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.411764711,
+          0.411764711,
+          0.411764711,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl___LightGray_1": {
+    "name": "lidl___LightGray_1",
+    "mapTo": "__LightGray_1",
+    "class": "Material",
+    "persistentId": "5817a97d-24cc-4b25-b461-e38a0c9be604",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.662745118,
+          0.662745118,
+          0.662745118,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_l_10": {
+    "name": "lidl_l_10",
+    "mapTo": "l_10",
+    "class": "Material",
+    "persistentId": "f189c59b-c3e7-4a52-aaed-a73c347fde50",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/l_10"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}

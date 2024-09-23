@@ -1,0 +1,54 @@
+{
+  "road_asphalt_2lane": {
+    "name": "road_asphalt_2lane",
+    "mapTo": "road_asphalt_2lane",
+    "class": "Material",
+    "persistentId": "7dc14be7-24b4-4d23-b491-83c09f000527",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/west_coast_usa/art/road/t_road_asphalt1_ao.data.png",
+        "baseColorFactor": [
+          0.536013007,
+          0.536008,
+          0.536008,
+          1
+        ],
+        "baseColorMap": "/levels/west_coast_usa/art/terrains/t_asphalt_b.png",
+        "detailMap": "/levels/west_coast_usa/art/terrains/t_asphalt_b.png",
+        "detailNormalMap": "/levels/west_coast_usa/art/road/t_asphalt_track_nm.normal.png",
+        "detailScale": [
+          6,
+          4
+        ],
+        "metallicFactor": 0.532999992,
+        "normalMap": "/levels/west_coast_usa/art/road/t_road_asphalt1_nm.normal.png",
+        "roughnessMap": "/levels/west_coast_usa/art/road/t_asphalt1_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "metallicFactor": null
+      }
+    ],
+    "alphaRef": 255,
+    "annotation": "STREET",
+    "dynamicCubemap": true,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularColor0": "0 0 0",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  }
+}

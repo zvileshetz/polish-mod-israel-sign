@@ -1,0 +1,87 @@
+{
+  "debris_metals": {
+    "name": "debris_metals",
+    "mapTo": "debris_metals",
+    "class": "Material",
+    "persistentId": "ae581cbc-9d6c-4854-bd6f-b95733e1243e",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_metals.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_metals.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_metals_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "debris_piles_bigsmall": {
+    "name": "debris_piles_bigsmall",
+    "mapTo": "debris_piles_bigsmall",
+    "class": "Material",
+    "persistentId": "59c56976-ae34-402d-bc67-d19c300e0cdc",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_piles_bigsmall.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_piles_bigsmall.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_piles_bigsmall_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 10,
+    "alphaTest": true
+  },
+  "debris_piles_medium": {
+    "name": "debris_piles_medium",
+    "mapTo": "debris_piles_medium",
+    "class": "Material",
+    "persistentId": "cb0d0ec9-cbdb-485a-b97f-5f913d305ccc",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_piles_medium.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_piles_medium.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_piles_medium_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 50,
+    "alphaTest": true,
+    "translucentZWrite": true
+  },
+  "debris_single_a": {
+    "name": "debris_single_a",
+    "mapTo": "debris_single_a",
+    "class": "Material",
+    "persistentId": "d3a4884c-770b-48a2-bbcd-fac455b800dd",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_single_a.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_single_a.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_single_a_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "debris_single_b": {
+    "name": "debris_single_b",
+    "mapTo": "debris_single_b",
+    "class": "Material",
+    "persistentId": "458156eb-a232-4335-9329-30a379ce1896",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_single_b.color.dds",
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_single_b.normal.dds",
+        "specularMap": "/levels/polish_roads_V2/From_industrial/shapes/buildings/debris/debris_single_b_s.color.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  }
+}

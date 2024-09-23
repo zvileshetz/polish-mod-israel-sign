@@ -1,0 +1,86 @@
+{
+  "Google_Earth_Snapshot3_mat": {
+    "name": "Google_Earth_Snapshot3_mat",
+    "mapTo": "Google_Earth_Snapshot3",
+    "class": "material",
+    "persistentId": "bf3168f5-901b-4ee1-b15e-3760bdc9ec50",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.679157972,
+          0.679150999,
+          0.679150999,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/blok1/blok1/Google_Earth_Snapshot3.jpg",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/chodnik_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "_1_mat": {
+    "name": "_1_mat",
+    "mapTo": "_1",
+    "class": "material",
+    "persistentId": "f8451a4b-5cc3-47cb-be8e-27fcefcf3577",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/blok1/blok1/_1.jpg"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "_1b_mat": {
+    "name": "_1b_mat",
+    "mapTo": "_1b",
+    "class": "material",
+    "persistentId": "92cd785e-bd35-48fc-802c-482ac8c0d7fa",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/blok1/blok1/_1b.jpg"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "_2_mat": {
+    "name": "_2_mat",
+    "mapTo": "_2",
+    "class": "material",
+    "persistentId": "a47d0fc2-348f-4246-9db1-52b898515d10",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/blok1/blok1/_2.jpg"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "_3_mat": {
+    "name": "_3_mat",
+    "mapTo": "_3",
+    "class": "material",
+    "persistentId": "29c120fa-ad8c-4a11-807f-6238a9b77fff",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/blok1/blok1/_3.jpg"
+      },
+      {},
+      {},
+      {}
+    ]
+  }
+}

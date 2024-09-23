@@ -1,0 +1,48 @@
+{
+  "oldcar": {
+    "name": "oldcar",
+    "mapTo": "oldcar",
+    "class": "Material",
+    "persistentId": "62593ca3-72e0-41a9-b2d3-ef38d50bc9f5",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/oldcars/oldcar_c.dds",
+        "detailNormalMap": "levels/polish_roads_V2/oldcars/oldcar_n.dds",
+        "detailScale": [
+          3,
+          3
+        ],
+        "diffuseColor": [
+          0.970384002,
+          0.831478,
+          0.831478,
+          0.00800000038
+        ],
+        "normalMap": "levels/polish_roads_V2/oldcars/oldcar_n.dds",
+        "opacityMap": "levels/polish_roads_V2/oldcars/oldcar_c.dds",
+        "roughnessFactor": 0.693000019,
+        "specularMap": "levels/polish_roads_V2/oldcars/oldcar_s.dds",
+        "useAnisotropic": true
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null,
+        "roughnessFactor": null,
+        "useAnisotropic": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null,
+        "roughnessFactor": null,
+        "useAnisotropic": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null,
+        "roughnessFactor": null,
+        "useAnisotropic": null
+      }
+    ],
+    "cubemap": "BNG_Sky_02_cubemap"
+  }
+}

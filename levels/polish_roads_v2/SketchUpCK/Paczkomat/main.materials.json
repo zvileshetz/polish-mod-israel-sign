@@ -1,0 +1,189 @@
+{
+  "Kraweznik_paczkomat": {
+    "name": "Kraweznik_paczkomat",
+    "mapTo": "Kraweznik_paczkomat",
+    "class": "Material",
+    "persistentId": "ff22af48-7bc7-4f89-8756-0ab0e2d9f2f9",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.77294302,
+          0.765312016,
+          0.765312016,
+          1
+        ],
+        "baseColorMap": "/levels/italy/art/shapes/buildings/italy_curb_concrete_d.dds",
+        "normalMap": "/levels/italy/art/shapes/buildings/italy_curb_concrete_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Metal_Paczkomat": {
+    "name": "Metal_Paczkomat",
+    "mapTo": "Metal_Paczkomat",
+    "class": "Material",
+    "persistentId": "7cb42a82-15e4-4b59-8d46-76385ba317af",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.822302997,
+          0.82229501,
+          0.82229501,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "detailNormalMapStrength": 3,
+        "metallicFactor": 0.451000005,
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "normalMapStrength": 3,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_r.dds"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Paczkomat_BlackMetal": {
+    "name": "Paczkomat_BlackMetal",
+    "mapTo": "Paczkomat_BlackMetal",
+    "class": "Material",
+    "persistentId": "e93a8602-d9dc-4ab2-a19c-fa6e77e1df64",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.348444015,
+          0.348441005,
+          0.348441005,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "detailNormalMapStrength": 3,
+        "metallicFactor": 0.532000005,
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "normalMapStrength": 3,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_d.dds"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Paczkomat_chodnik": {
+    "name": "Paczkomat_chodnik",
+    "mapTo": "Paczkomat_chodnik",
+    "class": "Material",
+    "persistentId": "634ce856-7777-49bd-8660-a0d0387b8921",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.703837991,
+          0.703831017,
+          0.703831017,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/terrain/kosteczka_osiedlowa.png",
+        "normalMap": "/levels/italy/art/shapes/buildings/italy_hpaver_n.dds",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "PudlomatFront": {
+    "name": "PudlomatFront",
+    "mapTo": "PudlomatFront",
+    "class": "Material",
+    "persistentId": "9b0d1b54-71ea-485e-94e2-eb56f587cad6",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/SketchUpCK/Paczkomat/front_ao.png",
+        "baseColorFactor": [
+          0.787751019,
+          0.787742972,
+          0.787742972,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Paczkomat/PudlomatFront.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/Paczkomat/front_nm.png",
+        "roughnessFactor": 0.700999975,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_stronger2_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      }
+    ],
+    "version": 1.5
+  }
+}

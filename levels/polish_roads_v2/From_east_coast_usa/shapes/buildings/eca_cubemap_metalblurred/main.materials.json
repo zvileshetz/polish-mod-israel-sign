@@ -1,0 +1,15 @@
+{
+  "eca_cubemap_metalblurred":{
+    "persistentId":"56cd7ecd-8ca5-48fc-8b9c-43560f4b6309",
+    "class":"CubemapData",
+    "cubeFace":[
+      "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_cubemap_metalblurred/cubemap/skybox_1",
+      "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_cubemap_metalblurred/cubemap/skybox_2",
+      "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_cubemap_metalblurred/cubemap/skybox_3",
+      "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_cubemap_metalblurred/cubemap/skybox_4",
+      "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_cubemap_metalblurred/cubemap/skybox_5",
+      "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_cubemap_metalblurred/cubemap/skybox_6"
+    ],
+    "name":"eca_cubemap_metalblurred"
+  }
+}

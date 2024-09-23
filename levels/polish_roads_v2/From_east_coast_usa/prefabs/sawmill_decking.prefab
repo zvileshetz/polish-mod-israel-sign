@@ -1,0 +1,80 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+  canSave = "1";
+  canSaveDynamicFields = "1";
+  groupPosition = "0 0 0";
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "313.83197021484375 -797.9111328125 46.166847229003906";
+    rotationMatrix = "0.6635140776634216 0.7481638193130493 -0.0 -0.7481638193130493 0.6635140776634216 0.0 0.0 0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "152.09169006347656 -785.1300659179688 46.33671569824219";
+    rotationMatrix = "0.46344858407974243 0.8861228227615356 0.0013223257847130299 -0.8398695588111877 0.4397326707839966 -0.31820476055145264 -0.28254997730255127 0.14636097848415375 0.9480210542678833";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "280.9870910644531 -803.6856079101562 45.87038040161133";
+    rotationMatrix = "0.6268488764762878 -0.7791375517845154 -0.0022726659663021564 0.7713565826416016 0.6209948062896729 -0.13919228315353394 0.10986124724149704 0.08549948781728745 0.9902627468109131";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "160.38731384277344 -789.578857421875 47.88227081298828";
+    rotationMatrix = "0.4513569474220276 0.8923435211181641 -1.8626449271863521e-09 -0.8923435211181641 0.4513569474220276 1.1102230246251565e-16 8.407178286873318e-10 1.662118997991513e-09 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "167.90957641601562 -793.109130859375 47.88227081298828";
+    rotationMatrix = "-0.45135700702667236 -0.8923434615135193 1.8626449271863521e-09 0.8923434615135193 -0.45135700702667236 0.0 8.407178286873318e-10 1.662118997991513e-09 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "174.8553466796875 -796.9578247070312 47.88227081298828";
+    rotationMatrix = "0.4513569474220276 0.8923435211181641 -1.8626449271863521e-09 -0.8923435211181641 0.4513569474220276 1.1102230246251565e-16 8.407178286873318e-10 1.662118997991513e-09 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "182.46585083007812 -800.4717407226562 47.88227081298828";
+    rotationMatrix = "-0.45135700702667236 -0.8923434615135193 1.8626449271863521e-09 0.8923434615135193 -0.45135700702667236 0.0 8.407178286873318e-10 1.662118997991513e-09 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/sawmill_decking.dae";
+    position = "189.4376983642578 -804.3034057617188 47.69947052001953";
+    rotationMatrix = "0.45135682821273804 0.8923435807228088 1.8626449271863521e-09 -0.8911899924278259 0.45077335834503174 0.05083037167787552 0.04535815492272377 -0.022942638024687767 0.9987072944641113";
+    scale = "1.0 1.0 1.0";
+    decalType = "Visible Mesh Final";
+    collisionType = "Collision Mesh";
+  };
+
+};
+//--- OBJECT WRITE END ---

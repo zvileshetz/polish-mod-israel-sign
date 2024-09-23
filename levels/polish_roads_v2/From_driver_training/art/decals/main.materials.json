@@ -1,0 +1,40 @@
+{
+  "roadmarkings1": {
+    "name": "roadmarkings1",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "6503db56-f4ea-4e91-b2e4-413d0292ff11",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/From_driver_training/art/decals/roadmarkings1.dds",
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "specularMap": "/levels/polish_roads_v2/From_driver_training/art/decals/ZnakiZiemne_specular.png",
+        "useAnisotropic": true
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      }
+    ],
+    "alphaRef": 0,
+    "alphaTest": true,
+    "materialTag0": "decal",
+    "materialTag1": "road",
+    "materialTag2": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  }
+}

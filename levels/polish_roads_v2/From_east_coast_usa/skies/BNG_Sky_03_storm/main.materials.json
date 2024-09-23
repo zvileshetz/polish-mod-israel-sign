@@ -1,0 +1,15 @@
+{
+  "BNG_Sky_03_storm_cubemap" : {
+    "name" : "BNG_Sky_03_storm_cubemap",
+    "class" : "CubemapData",
+    "persistentId" : "e3de655f-2573-42d4-82ce-930b94ffed83",
+    "cubeFace" : [
+      "/levels/polish_roads_V2/From_east_coast_usa/skies/BNG_Sky_03_storm/cubemap/skybox_1",
+      "/levels/polish_roads_V2/From_east_coast_usa/skies/BNG_Sky_03_storm/cubemap/skybox_2",
+      "/levels/polish_roads_V2/From_east_coast_usa/skies/BNG_Sky_03_storm/cubemap/skybox_3",
+      "/levels/polish_roads_V2/From_east_coast_usa/skies/BNG_Sky_03_storm/cubemap/skybox_4",
+      "/levels/polish_roads_V2/From_east_coast_usa/skies/BNG_Sky_03_storm/cubemap/skybox_5",
+      "/levels/polish_roads_V2/From_east_coast_usa/skies/BNG_Sky_03_storm/cubemap/skybox_6"
+    ]
+  }
+}

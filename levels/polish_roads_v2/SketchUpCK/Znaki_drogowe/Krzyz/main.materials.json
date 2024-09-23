@@ -1,0 +1,22 @@
+{
+  "Material_002":{
+    "Stages":[
+      {
+        "diffuseColor":[
+          0.698191226,
+          0.698191226,
+          0.698191226,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "class":"Material",
+    "mapTo":"Material.002",
+    "name":"Material_002",
+    "persistentId":"273c15a2-b5ef-402b-ada7-54c745c6e26b",
+    "translucentBlendOp":"None"
+  }
+}

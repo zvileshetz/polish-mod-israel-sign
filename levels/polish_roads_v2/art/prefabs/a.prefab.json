@@ -1,0 +1,2 @@
+{"class":"DecalRoad","persistentId":"bfb198ce-e02a-4548-b81e-8f81f7a65242","__parent":"a_group","position":[-43.9517136,-374.427917,-14.5419388],"improvedSpline":true,"material":"BlankWhite","nodes":[[-43.9517136,-374.427917,-14.5419388,1],[-53.7814064,-375.243958,-14.5419388,1]]}
+{"name":"a_group","class":"SimGroup","persistentId":"e7878c77-603a-4a85-afa5-5f500ca488bd","groupPosition":"-43.951713562012 -374.42791748047 -14.541938781738"}

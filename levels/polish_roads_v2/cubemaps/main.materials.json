@@ -1,0 +1,15 @@
+{
+  "skybox2": {
+    "name": "skybox2",
+    "mapTo": "skybox2",
+    "class": "Material",
+    "persistentId": "464ed26e-a09a-482b-9455-a67e008a9965",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "cubemap": "CubemapData_1"
+  }
+}

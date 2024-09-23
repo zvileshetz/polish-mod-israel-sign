@@ -1,0 +1,272 @@
+{
+  "BNGGrass": {
+    "name": "BNGGrass",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "b2d38e39-359b-4603-b334-a3263a4bcc57",
+    "Stages": [
+      {
+        "colorMap": "/levels/italy/art/shapes/groundcover/Grass_green_d.color.dds",
+        "detailNormalMap": "/levels/italy/art/shapes/groundcover/Grass_green_n.normal.dds",
+        "detailNormalMapStrength": 0.5,
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "normalMap": "/levels/italy/art/shapes/groundcover/Grass_green_n.normal.dds",
+        "opacityMap": "/levels/italy/art/shapes/groundcover/Grass_green_d.color.dds",
+        "overlayMap": "/levels/italy/art/shapes/groundcover/Grass_green_d.color.dds",
+        "specular": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "specularMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/groundcover/trawa_specular.png",
+        "useAnisotropic": true
+      },
+      {
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "diffuseColor": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "diffuseColor": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "diffuseColor": null,
+        "specular": null,
+        "useAnisotropic": null
+      }
+    ],
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "vegetation",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "translucentBlendOp": "None"
+  },
+  "Groundcover_spring": {
+    "name": "Groundcover_spring",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "f68bc39e-8fb1-4aaf-80c0-469fedd808f3",
+    "Stages": [
+      {
+        "colorMap": "/levels/driver_training/art/shapes/groundcover/forest_vegetation_d.color.DDS",
+        "diffuseColor": [
+          0.945097983,
+          0.945097983,
+          0.945097983,
+          1
+        ],
+        "normalMap": "/levels/driver_training/art/shapes/groundcover/forest_vegetation_nm.normal.DDS",
+        "normalMapStrength": 2,
+        "overlayMap": "/levels/driver_training/art/shapes/groundcover/forest_vegetation_d.color.DDS",
+        "specular": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "specularMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/groundcover/Groundcover_jeden_specular.png",
+        "useAnisotropic": true
+      },
+      {
+        "diffuseColor": null,
+        "normalMapStrength": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "normalMapStrength": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "normalMapStrength": null,
+        "specular": null,
+        "useAnisotropic": null
+      }
+    ],
+    "alphaRef": 38,
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "vegetation",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa"
+  },
+  "Groundcover_spring2": {
+    "name": "Groundcover_spring2",
+    "mapTo": "Groundcover_spring2",
+    "class": "Material",
+    "persistentId": "cde132f1-62a7-47f3-8d38-6e386a210a15",
+    "Stages": [
+      {
+        "colorMap": "/levels/driver_training/art/shapes/groundcover/spring_ground_cover_d.color.DDS",
+        "diffuseColor": [
+          0.94569999,
+          0.945703983,
+          0.945694029,
+          1
+        ],
+        "normalMap": "/levels/driver_training/art/shapes/groundcover/spring_ground_cover_nm.normal.DDS",
+        "opacityMap": "/levels/driver_training/art/shapes/groundcover/spring_ground_cover_d.color.DDS",
+        "specularMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/groundcover/groundcover_dwa_specular.png"
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "vegetation",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa"
+  },
+  "NewGrass": {
+    "name": "NewGrass",
+    "mapTo": "NewGrass",
+    "class": "Material",
+    "persistentId": "dfb7d4fb-89d9-42f1-9c82-b981f766eea0",
+    "Stages": [
+      {
+        "colorMap": "/levels/jungle_rock_island/art/shapes/groundcover/tropical_undergrowth_d.color.DDS",
+        "diffuseColor": [
+          0.945097983,
+          0.945097983,
+          0.945097983,
+          1
+        ],
+        "normalMap": "/levels/jungle_rock_island/art/shapes/groundcover/tropical_undergrowth_n.normal.DDS",
+        "overlayMap": "/levels/jungle_rock_island/art/shapes/groundcover/tropical_undergrowth_d.color.DDS",
+        "specularMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/groundcover/Chwasty_specularr_test.png"
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "alphaRef": 64,
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "vegetation",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa"
+  },
+  "SuchaTrawa2": {
+    "name": "SuchaTrawa2",
+    "mapTo": "SuchaTrawa2",
+    "class": "Material",
+    "persistentId": "f9e0e9f8-2e3b-4285-a0c1-7c0decc360b5",
+    "Stages": [
+      {
+        "colorMap": "/levels/italy/art/shapes/groundcover/Grass_Dry_d.dds",
+        "normalMap": "/levels/italy/art/shapes/groundcover/Grass_green_n.normal.dds",
+        "specularMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/groundcover/SuchaTrawa_specular.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 64,
+    "alphaTest": true
+  },
+  "forest_vegetation": {
+    "name": "forest_vegetation",
+    "mapTo": "forest_vegetation",
+    "class": "Material",
+    "persistentId": "7c001266-ad0a-45da-97db-b3d7086c0f64",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/east_coast_usa/art/shapes/groundcover/t_undergrowth_01_ao.data.png",
+        "baseColorFactor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "baseColorMap": "/levels/east_coast_usa/art/shapes/groundcover/t_undergrowth_01_b.color.png",
+        "normalMap": "/levels/east_coast_usa/art/shapes/groundcover/t_undergrowth_01_nm.normal.png",
+        "normalMapStrength": 2,
+        "opacityMap": "/levels/east_coast_usa/art/shapes/groundcover/t_undergrowth_01_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/east_coast_usa/art/shapes/groundcover/t_undergrowth_01_r.data.png",
+        "specular": [
+          0.501960993,
+          0.501960993,
+          0.501960993,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null,
+        "pixelSpecular": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null,
+        "pixelSpecular": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null,
+        "pixelSpecular": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 80,
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "vegetation",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "version": 1.5
+  }
+}

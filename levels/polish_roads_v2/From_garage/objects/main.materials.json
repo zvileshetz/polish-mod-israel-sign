@@ -1,0 +1,37 @@
+{
+  "stripes":{
+    "Stages":[
+      {
+        "baseColorFactor":[
+          1,
+          1,
+          1,
+          0.600000024
+        ],
+        "baseColorMap":"levels/polish_roads_v2/garage/objects/stripes_d.dds",
+        "detailMap":"levels/polish_roads_v2/garage/objects/stripes_d.dds",
+        "detailScale":[
+          1,
+          1
+        ],
+        "metallicMap":"levels/polish_roads_v2/garage/objects/stripes_d.dds",
+        "pixelSpecular":true,
+        "roughnessFactor":0.607767701
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef":0,
+    "castShadows":false,
+    "class":"Material",
+    "mapTo":"stripes",
+    "materialTag0":"beamng",
+    "materialTag1":"vehicle",
+    "name":"stripes",
+    "persistentId":"505e6a1d-5857-42b7-bc34-481e737aecaf",
+    "translucent":true,
+    "translucentZWrite":true,
+    "version":1.5
+  }
+}

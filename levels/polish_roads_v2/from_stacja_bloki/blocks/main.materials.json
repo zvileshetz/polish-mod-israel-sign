@@ -1,0 +1,205 @@
+{
+  "LodZolty": {
+    "name": "LodZolty",
+    "mapTo": "LodZolty",
+    "class": "Material",
+    "persistentId": "b15a028a-edc1-46be-811a-d3ae88e55684",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.802559018,
+          0.732924998,
+          0.560909986,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ]
+  },
+  "highrise": {
+    "name": "highrise",
+    "mapTo": "highrise",
+    "class": "Material",
+    "persistentId": "7ecdcd3d-c3c2-4e5f-84bd-aacd67b0d034",
+    "Stages": [
+      {
+        "colorMap": "levels/west_coast_usa/art/shapes/buildings/highrise_d.dds",
+        "normalMap": "levels/west_coast_usa/art/shapes/buildings/highrise_n.dds",
+        "pixelSpecular": true,
+        "reflectivityMap": "levels/west_coast_usa/art/shapes/buildings/highrise_r.dds",
+        "roughnessFactor": 0.607767701,
+        "specularMap": "levels/west_coast_usa/art/shapes/buildings/highrise_s.dds",
+        "useAnisotropic": true,
+        "vertColor": true
+      },
+      {
+        "colorMap": "levels/west_coast_usa/art/shapes/buildings/highrise_g.dds",
+        "emissive": true
+      },
+      {},
+      {}
+    ],
+    "alphaRef": 0,
+    "annotation": "BUILDINGS",
+    "cubemap": "cubemap_buildings_reflection",
+    "materialTag0": "beamng",
+    "materialTag1": "building",
+    "order_simset": 0,
+    "translucentBlendOp": "None"
+  },
+  "mtt_block_ramp": {
+    "name": "mtt_block_ramp",
+    "mapTo": "mtt_block_ramp",
+    "class": "Material",
+    "persistentId": "8293bd0f-73f6-414a-a746-3f32be522e24",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.812430978,
+          0.812422991,
+          0.812422991,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds",
+        "detailMap": "levels/polish_roads_V2/From_derby/shapes/buildings/detail_grunge_01_low_desat.dds",
+        "detailScale": [
+          1,
+          1
+        ],
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      }
+    ],
+    "annotation": "BUILDINGS",
+    "groundType": "ASPHALT_OLD",
+    "invertBackFaceNormals": true,
+    "materialTag0": "beamng",
+    "materialTag1": "polish_roads_v2",
+    "specularStrength0": "1.3",
+    "specularStrength1": "0.2",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "mtt_block_roof": {
+    "name": "mtt_block_roof",
+    "mapTo": "mtt_block_roof",
+    "class": "Material",
+    "persistentId": "8293bd0f-73f6-414a-a746-3f32be522e23",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.605117977,
+          0.596157014,
+          0.596157014,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/from_stacja_bloki/blocks/block_roof_c.png",
+        "detailNormalMap": "/levels/polish_roads_v2/from_stacja_bloki/blocks/block_roof_n.png",
+        "detailScale": [
+          5,
+          5
+        ],
+        "normalMap": "/levels/polish_roads_v2/from_stacja_bloki/blocks/block_roof_n.png",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      }
+    ],
+    "annotation": "BUILDINGS",
+    "groundType": "METAL",
+    "invertBackFaceNormals": true,
+    "materialTag0": "beamng",
+    "materialTag1": "polish_roads_v2",
+    "specularStrength0": "1.3",
+    "specularStrength1": "0.2",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "mtt_block_wall": {
+    "name": "mtt_block_wall",
+    "mapTo": "mtt_block_wall",
+    "class": "Material",
+    "persistentId": "8293bd0f-73f6-414a-a746-3f32be522e22",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.985192001,
+          0.917935014,
+          0.751770973,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/from_stacja_bloki/blocks/block_wall_c.png",
+        "detailMap": "levels/polish_roads_V2/From_derby/shapes/buildings/detail_grunge_01_low_desat.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/from_stacja_bloki/blocks/block_wall_n.png",
+        "detailNormalMapStrength": 3,
+        "detailScale": [
+          0.5,
+          0.5
+        ],
+        "normalMap": "/levels/polish_roads_v2/from_stacja_bloki/blocks/block_wall_n.png",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      }
+    ],
+    "annotation": "BUILDINGS",
+    "groundType": "ASPHALT_OLD",
+    "invertBackFaceNormals": true,
+    "materialTag0": "beamng",
+    "materialTag1": "polish_roads_v2",
+    "specularStrength0": "1.3",
+    "specularStrength1": "0.2",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

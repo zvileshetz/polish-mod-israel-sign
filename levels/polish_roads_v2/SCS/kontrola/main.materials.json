@@ -1,0 +1,24 @@
+{
+  "kontrola_mat_0000_speedcamera_sign_pl": {
+    "name": "kontrola_mat_0000_speedcamera_sign_pl",
+    "mapTo": "mat_0000_speedcamera_sign_pl",
+    "class": "Material",
+    "persistentId": "53551656-cb5d-484e-b8a6-7defa8b4577e",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/SCS/kontrola/speedcamera_sign_pl.dds",
+        "diffuseColor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "roughnessFactor": 0.549030423
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}

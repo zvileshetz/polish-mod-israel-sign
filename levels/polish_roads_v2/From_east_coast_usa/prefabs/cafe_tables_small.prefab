@@ -1,0 +1,92 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "613.495544 -131.453674 53.341621";
+
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_wood_stool.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-0.20703125 -0.226531982 0.00154495239";
+      scale = "1 1 1";
+      rotationMatrix = "0.975854039 -0.218421251 0 0.218421251 0.975854039 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_wood_stool.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0.323303223 -0.163909912 0.00154495239";
+      scale = "1 1 1";
+      rotationMatrix = "0.973313153 0.229479715 0 -0.229479715 0.973313153 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_wood_stool.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-0.196777344 0.321838379 0.00154495239";
+      scale = "1 1 1";
+      rotationMatrix = "-0.631346464 0.775500953 0 -0.775500953 -0.631346464 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "levels/polish_roads_V2/From_east_coast_usa/shapes/clutter/clutter_city_wood_table_small.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0.0804443359 0.0685882568 -0.00464630127";
+      scale = "1 1 1";
+      rotationMatrix = "0.724017262 -0.689781666 0 0.689781666 0.724017262 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+};
+//--- OBJECT WRITE END ---

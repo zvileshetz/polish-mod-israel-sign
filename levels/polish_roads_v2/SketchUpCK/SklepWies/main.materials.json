@@ -1,0 +1,383 @@
+{
+  "DachSklep": {
+    "name": "DachSklep",
+    "mapTo": "DachSklep",
+    "class": "Material",
+    "persistentId": "ca6bba7a-31b9-495f-9d9d-e89873d7a945",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/dach_ao.png",
+        "baseColorFactor": [
+          0.837110996,
+          0.837103009,
+          0.837103009,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/material_3.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/dach_nm.png",
+        "normalMapStrength": 3,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "DrzwiSklepu": {
+    "name": "DrzwiSklepu",
+    "mapTo": "DrzwiSklepu",
+    "class": "Material",
+    "persistentId": "79fef9dc-8cf0-4b1f-8cf2-6816ccb487bf",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_doors_windows_d.dds",
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_doors_windows_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_doors_windows_r.dds"
+      },
+      {
+        "normalMapStrength": null
+      },
+      {
+        "normalMapStrength": null
+      },
+      {
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "LepszyBeton": {
+    "name": "LepszyBeton",
+    "mapTo": "LepszyBeton",
+    "class": "Material",
+    "persistentId": "e2b03c4e-61b4-47f3-8229-24863f1446e1",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/sciana_ao.png",
+        "baseColorFactor": [
+          0.812430978,
+          0.804409981,
+          0.804409981,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/Polished_Concrete.jpg",
+        "detailNormalMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/sciana_nm.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/sciana_nm.png",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "ParapetSklep": {
+    "name": "ParapetSklep",
+    "mapTo": "ParapetSklep",
+    "class": "Material",
+    "persistentId": "b0ce88e3-dff6-4206-a8ae-68fed038d110",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.570564985,
+          0.550248027,
+          0.536769986,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/ParapetenMahen.jpg",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Sklep_BetonStary": {
+    "name": "Sklep_BetonStary",
+    "mapTo": "Sklep_BetonStary",
+    "class": "Material",
+    "persistentId": "c9da3ec6-d03d-4448-b07d-00059b54a724",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/sciana_ao.png",
+        "baseColorFactor": [
+          0.848658025,
+          1,
+          0.748263001,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/Polished_Concrete_Old.jpg",
+        "detailNormalMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/sciana_nm.png",
+        "normalMap": "/levels/polish_roads_v2/SketchUpCK/Zabka/sciana_nm.png",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "SzareCegly": {
+    "name": "SzareCegly",
+    "mapTo": "SzareCegly",
+    "class": "Material",
+    "persistentId": "afcf52da-24f1-411c-aec3-922e37e5ef5f",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.540948987,
+          0.54094398,
+          0.54094398,
+          1
+        ],
+        "baseColorMap": "/levels/italy/art/shapes/buildings/italy_hpaver_d.dds",
+        "normalMap": "/levels/italy/art/shapes/buildings/italy_hpaver_n.dds",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Wentylator": {
+    "name": "Wentylator",
+    "mapTo": "Wentylator",
+    "class": "Material",
+    "persistentId": "9bd03677-bdda-4052-ae91-195f0673d52f",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.624862015,
+          0.621776998,
+          0.621776998,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "roughnessFactor": 0.563000023,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_r.dds"
+      },
+      {
+        "baseColorFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "costam": {
+    "name": "costam",
+    "mapTo": "costam",
+    "class": "Material",
+    "persistentId": "b1e1962c-3342-44e0-9441-c03f0ff9619f",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.77294302,
+          0.765312016,
+          0.765312016,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/Steel_Brushed_Stainless.jpg",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "doubleSided": true,
+    "version": 1.5
+  },
+  "cosv2": {
+    "name": "cosv2",
+    "mapTo": "cosv2",
+    "class": "Material",
+    "persistentId": "1adedf75-eec1-443f-a0d9-f27445b60110",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/Polished_Concrete.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "version": 1.5
+  },
+  "material_dwa": {
+    "name": "material_dwa",
+    "mapTo": "material_dwa",
+    "class": "Material",
+    "persistentId": "75936682-ba29-42f6-a11d-c47468ccc6a9",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.842046976,
+          0.829577982,
+          0.829577982,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/material_2.png",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "material_jedenn": {
+    "name": "material_jedenn",
+    "mapTo": "material_jedenn",
+    "class": "Material",
+    "persistentId": "f8cc6310-c36c-47ff-8ba0-35a9804b9ee2",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_doors_windows_d.dds",
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_doors_windows_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_doors_windows_r.dds"
+      },
+      {
+        "normalMapStrength": null
+      },
+      {
+        "normalMapStrength": null
+      },
+      {
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "metal_shiny": {
+    "name": "metal_shiny",
+    "mapTo": "metal_shiny",
+    "class": "Material",
+    "persistentId": "e376ffe4-d764-4f8e-826b-103c8aabda7e",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.422484994,
+          0.422479987,
+          0.422479987,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/SklepWies/Metal_Corrugated_Shiny.jpg",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "wentylatortxt": {
+    "name": "wentylatortxt",
+    "mapTo": "wentylatortxt",
+    "class": "Material",
+    "persistentId": "c9104ac6-60d5-4327-a9d7-b0b5219197e5",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.861791015,
+          0.861783028,
+          0.861783028,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "detailNormalMapStrength": 3,
+        "normalMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "normalMapStrength": 3,
+        "roughnessFactor": 0.824000001,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_r.dds"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      }
+    ],
+    "version": 1.5
+  }
+}

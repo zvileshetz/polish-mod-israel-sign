@@ -1,0 +1,763 @@
+{
+  "airduct" : {
+    "name" : "airduct",
+    "mapTo" : "airduct",
+    "class" : "Material",
+    "persistentId" : "58f744c8-808f-4003-b114-59c07717cae4",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/airduct_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/airduct_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/airduct_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/airduct_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/airduct_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "brickcolumn1" : {
+    "name" : "brickcolumn1",
+    "mapTo" : "brickcolumn1",
+    "class" : "Material",
+    "persistentId" : "636bfcc5-e2f2-4d43-86b4-52d07d4a8ad0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/brickcolumn1_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/brickcolumn_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/brickcolumn_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "brickcolumn2" : {
+    "name" : "brickcolumn2",
+    "mapTo" : "brickcolumn2",
+    "class" : "Material",
+    "persistentId" : "c46325aa-6077-4da8-a8eb-089eac35ec25",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/brickcolumn2_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/brickcolumn_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/brickcolumn_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "brickwall1" : {
+    "name" : "brickwall1",
+    "mapTo" : "brickwall1",
+    "class" : "Material",
+    "persistentId" : "6c18b653-c905-4b79-b585-30ef1fe21fcb",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/brickwall1_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/brickwall_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/brickwall_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "brickwall2" : {
+    "name" : "brickwall2",
+    "mapTo" : "brickwall2",
+    "class" : "Material",
+    "persistentId" : "d879f2ea-b71e-49ab-86b0-2595e12fe134",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/brickwall2_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/brickwall_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/brickwall_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "brickwall3" : {
+    "name" : "brickwall3",
+    "mapTo" : "brickwall3",
+    "class" : "Material",
+    "persistentId" : "c1bd0e96-b57b-4e08-acba-8576519251eb",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/brickwall3_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/brickwall_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/brickwall_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "concrete_floor" : {
+    "name" : "concrete_floor",
+    "mapTo" : "concrete_floor",
+    "class" : "Material",
+    "persistentId" : "efcd13f8-fff5-497a-9efe-f81fcece0165",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/concrete_floor_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/concrete_floor_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/concrete_floor_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/concrete_floor_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/concrete_floor_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "concrete_precast" : {
+    "name" : "concrete_precast",
+    "mapTo" : "concrete_precast",
+    "class" : "Material",
+    "persistentId" : "7fd4983d-9f36-4d4c-bb49-00d3095bdc87",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/concrete_precast_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/concrete_precast_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/concrete_precast_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/concrete_precast_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/concrete_precast_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "doors1" : {
+    "name" : "doors1",
+    "mapTo" : "doors1",
+    "class" : "Material",
+    "persistentId" : "e4c9041e-f1f8-4de0-9777-ca84c1ae264e",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/doors1_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/doors1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/doors1_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/doors1_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/doors1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "garage_carpet" : {
+    "name" : "garage_carpet",
+    "mapTo" : "garage_carpet",
+    "class" : "Material",
+    "persistentId" : "6fa125e7-665d-458e-8d7e-7a6c1b484bfb",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/garage_carpet_n.dds",
+        "pixelSpecular" : true,
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/garage_carpet_s.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/garage_carpet_n.dds",
+        "pixelSpecular" : true,
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "garage_glass" : {
+    "name" : "garage_glass",
+    "mapTo" : "garage_glass",
+    "class" : "Material",
+    "persistentId" : "390cdd4d-4298-4e3e-8b3a-ce28cbb5745a",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/glass_base_2.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "vehicles/common/null.dds",
+        "specularPower" : 128,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "castShadows" : false,
+    "cubemap" : "cubemap_garage_reflection",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "garage_glass_int" : {
+    "name" : "garage_glass_int",
+    "mapTo" : "garage_glass_int",
+    "class" : "Material",
+    "persistentId" : "7c8c0413-02ff-4cb0-93a4-ec8b7a6a31fc",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/glass_base_2.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "vehicles/common/null.dds",
+        "specularPower" : 128,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "castShadows" : false,
+    "cubemap" : "cubemap_garage_reflection",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "AddAlpha"
+  },
+  "garagedoor" : {
+    "name" : "garagedoor",
+    "mapTo" : "garagedoor",
+    "class" : "Material",
+    "persistentId" : "4b077776-079b-4e40-b13c-14cd2f329941",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/garagedoor_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/garagedoor_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/garagedoor_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/garagedoor_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/garagedoor_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "industrial_metal1" : {
+    "name" : "industrial_metal1",
+    "mapTo" : "industrial_metal1",
+    "class" : "Material",
+    "persistentId" : "fa85b778-6f81-4ea4-82f0-87c6321a6165",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/metal1_d.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/metal1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "industrial_metal2" : {
+    "name" : "industrial_metal2",
+    "mapTo" : "industrial_metal2",
+    "class" : "Material",
+    "persistentId" : "a943e6c7-4e8d-4f82-8c49-decd55c03611",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/metal2_d.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/metal1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "industrial_windows1" : {
+    "name" : "industrial_windows1",
+    "mapTo" : "industrial_windows1",
+    "class" : "Material",
+    "persistentId" : "16970345-ad02-4516-aa46-ac6d9a4be711",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/windows1_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/windows1_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/windows1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "industrial_windows2" : {
+    "name" : "industrial_windows2",
+    "mapTo" : "industrial_windows2",
+    "class" : "Material",
+    "persistentId" : "da4cfb04-c7ff-4446-a4ad-4296f25725f4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/windows2_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/windows1_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/windows1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "insulation" : {
+    "name" : "insulation",
+    "mapTo" : "insulation",
+    "class" : "Material",
+    "persistentId" : "afb74911-123f-4b4d-97f5-b1ebff17bb43",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/insulation_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "vehicles/common/null.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/insulation_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/insulation_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "vehicles/common/null.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "metal_blue" : {
+    "name" : "metal_blue",
+    "mapTo" : "metal_blue",
+    "class" : "Material",
+    "persistentId" : "cb957917-2646-4b46-80d8-e0d56ecbba4f",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/metal_blue_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/metal_blue_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/metal_blue_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/metal_blue_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/metal_blue_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true,
+        "useAnisotropic" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "metal_connection" : {
+    "name" : "metal_connection",
+    "mapTo" : "metal_connection",
+    "class" : "Material",
+    "persistentId" : "7ea5b15a-7bb0-474b-a243-bbcb862b9ab0",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/metal_connection_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/metal_connection_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/metal_connection_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/metal_connection_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/metal_connection_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "pediment1" : {
+    "name" : "pediment1",
+    "mapTo" : "pediment1",
+    "class" : "Material",
+    "persistentId" : "921bd070-8424-44b1-bf21-d45d2c6bee2b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/pediment1_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/pediment1_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/pediment1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "plywood" : {
+    "name" : "plywood",
+    "mapTo" : "plywood",
+    "class" : "Material",
+    "persistentId" : "7efdac91-a487-492c-8e9e-3a6ec785cfab",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/plywood_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/plywood_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/plywood_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/plywood_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/plywood_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "road1" : {
+    "name" : "road1",
+    "mapTo" : "road1",
+    "class" : "Material",
+    "persistentId" : "61df56a9-4373-4bb7-ac5e-b71023c52f13",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/road1_d.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "sidewalk1" : {
+    "name" : "sidewalk1",
+    "mapTo" : "sidewalk1",
+    "class" : "Material",
+    "persistentId" : "8f51b15f-a40d-4530-8a69-6b90d824c55e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/eca_road_sidewalk_concrete_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/eca_road_sidewalk_concrete_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/eca_road_sidewalk_concrete_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "streetcurb1" : {
+    "name" : "streetcurb1",
+    "mapTo" : "streetcurb1",
+    "class" : "Material",
+    "persistentId" : "844df98d-ba9e-4ed8-af8c-f3d0a60cf068",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/curb1_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/curb1_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/curb1_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "timber_flooring" : {
+    "name" : "timber_flooring",
+    "mapTo" : "timber_flooring",
+    "class" : "Material",
+    "persistentId" : "6b2a3804-868a-4853-bc72-19e5570383a2",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "vehicles/common/null.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/wood_planks_d.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "vehicles/common/null.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  },
+  "trim_alum" : {
+    "name" : "trim_alum",
+    "mapTo" : "trim_alum",
+    "class" : "Material",
+    "persistentId" : "6e810847-2f56-4277-a5cc-fe7825284088",
+    "Stages" : [
+      {
+        "colorMap" : "vehicles/common/null.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/trim_alum_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/trim_alum_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "colorMap" : "levels/polish_roads_v2/garage/structure/trim_alum_d.dds",
+        "normalMap" : "levels/polish_roads_v2/garage/structure/trim_alum_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/polish_roads_v2/garage/structure/trim_alum_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "instanceDiffuse" : true
+      },
+      {}
+    ],
+    "alphaRef" : 0,
+    "cubemap" : "global_cubemap_metalblurred",
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "None"
+  }
+}

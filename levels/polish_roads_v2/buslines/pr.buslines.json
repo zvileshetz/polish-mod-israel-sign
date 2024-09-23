@@ -1,0 +1,245 @@
+{
+    "version": 1,
+    "routes":[
+        {"routeID":"1",
+            "variance":"a",
+            "direction":"25-Lecia PRL",
+			"date": 1537120800,
+            "routeColor": "#3b9c00",
+            "vehicle" : {
+                "model": "citybus",
+                "config": "cebultrans"
+            },
+            "tasklist":[
+                "dworzec4",
+                "przystanek1",
+                "przystanek4",
+				"przystanek5",
+				"przystanek6"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -575.475,"y": -544.107,"z": -11.219},
+                "rotAngAxisF": {"x": 0.00296662,"y": 0.00799196,"z": 0.999964,"w": 175.007}
+            },
+            "previews":[
+                "251.png"
+            ]
+        },
+        {"routeID":"3",
+        "variance":"a",
+        "direction":"Osiedle Zwyciestwa",
+        "date": 1537120800,
+        "routeColor": "#3b9c00",
+        "vehicle" : {
+            "model": "citybus",
+            "config": "cebultrans"
+        },
+        "tasklist":[
+            "przystanek6",
+            "przystanek7",
+            "przystanek8",
+            "przystanek9",
+            "przystanek10",
+            "przystanek11",
+            "przystanek12",
+            "przystanek25",
+            "przystanek20",
+            "przystanek24"
+        ],
+        "spawnLocation": {
+            "pos": {"x": -575.475,"y": -544.107,"z": -11.219},
+            "rotAngAxisF": {"x": 0.00296662,"y": 0.00799196,"z": 0.999964,"w": 175.007}
+        },
+        "previews":[
+            "zwy1.png"
+        ]
+    },
+		{"routeID":"1",
+            "variance":"b",
+            "direction":"Cebulowo Dworzec",
+            "routeColor": "#3b9c00",
+			"date": 1537120800,
+            "vehicle" : {
+                "model": "citybus",
+                "config": "cebultrans"
+            },
+			"navhelp":{
+				"przystanek8":["navhelp7","navhelp8"],
+                "dworzec4":["navhelp1","navhelp2","navhelp3"]
+            },
+            "tasklist":[
+                "przystanek6",
+                "przystanek7",
+                "przystanek8",
+				"przystanek9",
+				"przystanek10",
+				"dworzec4"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -603.619,"y": 574.443,"z": -20.2191},
+                "rotAngAxisF": {"x": -0.00785686,"y": 0.00803553,"z": 0.999937,"w": 172.04}
+            },
+            "previews":[
+                "252.png"
+            ]
+        },
+		{"routeID":"D1",
+            "variance":"a",
+            "direction":"DEAL Darmowy",
+            "routeColor": "#3b9c00",
+			"date": 1537120800,
+            "vehicle" : {
+                "model": "citybus",
+                "config": "base"
+            },
+			"navhelp":{
+                "przystanek13":["navhelp10","navhelp4","navhelp5"],
+				"dworzec5":["navhelp6","navhelp2","navhelp3"],
+				"przystanek2":["navhelp9"]
+            },
+            "tasklist":[
+                "przystanek6",
+                "przystanek7",
+                "przystanek16",
+				"przystanek18",
+				"przystanek13",
+				"dworzec5",
+				"przystanek1",
+				"przystanek2",
+				"przystanek3"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -603.619,"y": 574.443,"z": -20.2191},
+                "rotAngAxisF": {"x": -0.00785686,"y": 0.00803553,"z": 0.999937,"w": 172.04}
+            },
+            "previews":[
+                "d11.png"
+            ]
+        },
+		{"routeID":"D1",
+            "variance":"b",
+            "direction":"DEAL Darmowy",
+            "routeColor": "#3b9c00",
+			"date": 1537120800,
+            "vehicle" : {
+                "model": "citybus",
+                "config": "base"
+            },
+			"navhelp":{
+				"dworzec6":["navhelp1","navhelp2","navhelp3"],
+				"przystanek19":["navhelp5","navhelp4","navhelp10"]
+            },
+            "tasklist":[
+                "przystanek3",
+                "przystanek10",
+				"dworzec6",
+                "przystanek12",
+				"przystanek19",
+				"przystanek17",
+				"przystanek14",
+				"przystanek15"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -487.895,"y": -213.797,"z": -12.1199},
+                "rotAngAxisF": {"x": -0.0108588,"y": 0.00876634,"z": 0.999903,"w": 89.8416}
+            },
+            "previews":[
+                "d12.png"
+            ]
+        },
+		{"routeID":"2",
+            "variance":"a",
+            "direction":"Cebulowo Osada",
+            "routeColor": "#3b9c00",
+			"date": 1537120800,
+            "vehicle" : {
+                "model": "citybus",
+                "config": "cebultrans"
+            },
+			"navhelp":{
+				"dworzec2":["navhelp5","navhelp4","navhelp10"]
+			},
+            "tasklist":[
+                "dworzec3",
+                "przystanek11",
+                "przystanek12",
+				"dworzec2",
+				"przystanek1",
+				"przystanek2"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -590.684,"y": -583.34,"z": -9.36852},
+                "rotAngAxisF": {"x": 0.0695931,"y": 0.0607819,"z": 0.995722,"w": 150.039}
+            },
+            "previews":[
+                "os1.png"
+            ]
+        },
+        {"routeID":"2",
+            "variance":"a",
+            "direction":"Os. Zwyciestwa/Cebulowo",
+            "routeColor": "#3b9c00",
+			"date": 1537120800,
+            "vehicle" : {
+                "model": "citybus",
+                "config": "cebultrans"
+            },
+			"navhelp":{
+				"dworzec2":["navhelp5","navhelp4","navhelp10"]
+			},
+            "tasklist":[
+                "dworzec3",
+                "przystanek11",
+                "przystanek12",
+                "przystanek25",
+                "przystanek20",
+                "przystanek22",
+                "przystanek27",
+                "przystanek23",
+                "przystanek21",
+                "przystanek8",
+				"dworzec2",
+				"przystanek1",
+				"przystanek2"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -590.684,"y": -583.34,"z": -9.36852},
+                "rotAngAxisF": {"x": 0.0695931,"y": 0.0607819,"z": 0.995722,"w": 150.039}
+            },
+            "previews":[
+                "os1.png"
+            ]
+        },
+		{"routeID":"2",
+            "variance":"b",
+            "direction":"Cebulowo",
+            "routeColor": "#3b9c00",
+			"date": 1537120800,
+            "vehicle" : {
+                "model": "citybus",
+                "config": "cebultrans"
+            },
+			"navhelp":{
+				"dworzec3":["navhelp1","navhelp2","navhelp3"],
+                "przystanek13":["navhelp10","navhelp4","navhelp5"],
+				"dworzec2":["navhelp6","navhelp2","navhelp3"]
+			},
+            "tasklist":[
+                "przystanek2",
+                "przystanek3",
+                "przystanek10",
+				"dworzec3",
+                "przystanek13",
+                "przystanek11",
+				"dworzec2"
+            ],
+            "spawnLocation": {
+                "pos": {"x": -452.804,"y": -347.395,"z": -12.1187},
+                "rotAngAxisF": {"x": -0.00427283,"y": -0.00389408,"z": -0.999983,"w": 88.0725}
+            },
+            "previews":[
+                "zwy2.png"
+            ]
+        }
+    ]
+}

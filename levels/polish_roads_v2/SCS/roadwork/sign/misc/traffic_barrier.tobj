@@ -1,0 +1,5 @@
+map 2d
+     /model/sign/misc/traffic_barrier.dds
+addr
+     clamp_to_edge
+     clamp_to_edge

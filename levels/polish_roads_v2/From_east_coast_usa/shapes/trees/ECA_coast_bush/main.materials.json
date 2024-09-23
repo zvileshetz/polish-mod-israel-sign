@@ -1,0 +1,220 @@
+{
+  "cork_oak": {
+    "name": "cork_oak",
+    "mapTo": "cork_oak",
+    "class": "Material",
+    "persistentId": "3d343fb9-d454-483d-83b1-7836ba6989ad",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_d.dds",
+        "normalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_n.dds",
+        "specularMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 68,
+    "alphaTest": true,
+    "doubleSided": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural"
+  },
+  "cork_oak_trunk": {
+    "name": "cork_oak_trunk",
+    "mapTo": "cork_oak_trunk",
+    "class": "Material",
+    "persistentId": "d185c77f-d4bb-4937-b7a5-ae16a0217b82",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_trunk_d.dds",
+        "detailNormalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_trunk_n.dds",
+        "detailScale": [
+          0.2000000029802322,
+          0.2000000029802322
+        ],
+        "normalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_trunk_n.dds",
+        "specularMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/cork_oak_trunk_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 85,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural"
+  },
+  "generibush_leaves": {
+    "name": "generibush_leaves",
+    "mapTo": "generibush_leaves",
+    "class": "Material",
+    "persistentId": "7c594c09-94d1-45ca-9e30-2c12d24652d4",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/italy/art/shapes/trees/trees_italy/t_generic_bush_ao.data.png",
+        "baseColorMap": "/levels/italy/art/shapes/trees/trees_italy/t_generic_bush_b.color.png",
+        "normalMap": "/levels/italy/art/shapes/trees/trees_italy/t_generic_bush_nm.normal.png",
+        "normalMapStrength": 2,
+        "opacityMap": "/levels/italy/art/shapes/trees/trees_italy/t_generic_bush_o.data.png"
+      },
+      {
+        "normalMapStrength": null
+      },
+      {
+        "normalMapStrength": null
+      },
+      {
+        "normalMapStrength": null
+      }
+    ],
+    "alphaRef": 84,
+    "alphaTest": true,
+    "annotation": "NATURE",
+    "doubleSided": true,
+    "groundType": "GRASS",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "version": 1.5
+  },
+  "holm_oak_branches": {
+    "name": "holm_oak_branches",
+    "mapTo": "holm_oak_branches",
+    "class": "Material",
+    "persistentId": "f5c74b9f-901e-4c53-9d56-17c0c05f4126",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/holm_oak_branches_d.dds",
+        "normalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/holm_oak_branches_n.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 100,
+    "alphaTest": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "specularStrength0": "0.490196"
+  },
+  "holm_oak_trunk": {
+    "name": "holm_oak_trunk",
+    "mapTo": "holm_oak_trunk",
+    "class": "Material",
+    "persistentId": "5beea73f-0bbe-4142-9211-840c569e4302",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/tree_trunk_scan_d.dds",
+        "normalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/tree_trunk_scan_n.dds",
+        "specularMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/tree_trunk_scan_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 85,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural"
+  },
+  "scots_pine": {
+    "name": "scots_pine",
+    "mapTo": "scots_pine",
+    "class": "Material",
+    "persistentId": "e8f32c57-88d9-4695-808b-6282d597aade",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/scots_pine_d.dds",
+        "minnaertConstant": -2,
+        "normalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/scots_pine_n.dds",
+        "pixelSpecular": true,
+        "specularMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/scots_pine_s.dds",
+        "specularPower": 1,
+        "subSurfaceColor": [
+          1,
+          0.823529005,
+          0,
+          1
+        ],
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 93,
+    "alphaTest": true,
+    "doubleSided": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "materialTag3": "Natural"
+  },
+  "scots_pine_branches": {
+    "name": "scots_pine_branches",
+    "mapTo": "scots_pine_branches",
+    "class": "Material",
+    "persistentId": "132fad37-3917-4fd8-afda-5da8d13e4497",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/ECA_coast_bush/scots_pine_branches_d.dds",
+        "diffuseColor": [
+          0.9960780143737792,
+          0.9960780143737792,
+          0.9960780143737792,
+          1
+        ],
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 100,
+    "alphaTest": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural"
+  },
+  "scots_pine_trunk": {
+    "name": "scots_pine_trunk",
+    "mapTo": "scots_pine_trunk",
+    "class": "Material",
+    "persistentId": "69c92e20-11c6-4cd9-95ab-db7b46525f14",
+    "Stages": [
+      {
+        "colorMap": "scots_pine_bark_d.dds",
+        "normalMap": "scots_pine_bark_n.dds",
+        "specularMap": "scots_pine_bark_s.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 85,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural"
+  }
+}

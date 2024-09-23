@@ -1,0 +1,59 @@
+{
+    "title": "Polish Roads Remastered 2.4",
+    "description": "A map located somewhere in southern Poland",
+    "previews": ["polish_roads_preview1.png", "polish_roads_preview2.png", "polish_roads_preview3.png"],
+    "size": [2048,2048],
+    "biome": "Europe, Poland",
+	"date": 1537120800,
+    "roads": "Many",
+    "authors": "Original: AiTorror, BLIJo, Car_Killer, chris_lucas, meywue, Re:Z_IA, synsol, The Shotty, thomatoes50, waboll, Remaster: WhiteBird",
+	"defaultSpawnPointName":"spawns_estate1",
+	"country":"levels.common.country.Poland",
+	"spawnPoints":[
+	{
+		"translationId":"Cebulowo 25-Lecia PRL",
+		"objectname":"spawns_estate2",
+		"preview":"polish_roads_estate2.png"
+	},
+	{
+		"translationId":"Cebulowo Wieczorka",
+		"objectname":"spawns_estate1",
+		"preview":"polish_roads_estate1.png"
+	},
+	{
+		"translationId":"Osiedle Zwyciestwa",
+		"objectname":"spawns_estate3",
+		"preview":"polish_roads_osiedle.png"
+	},
+	{
+		"translationId":"Cebulowko",
+		"objectname":"spawns_countryside",
+		"preview":"polish_roads_countryside.png"
+	},
+	{
+		"translationId":"Cebulowo Przemyslowa",
+		"objectname":"spawns_industrial",
+		"preview":"polish_roads_industrial.png"
+	},
+	{
+		"translationId":"Tartak",
+		"objectname":"spawns_sawmill",
+		"preview":"polish_roads_sawmill.png"
+	},
+	{
+		"translationId":"Plac manewrowy",
+			"objectname":"spawns_drivingtran",
+			"preview":"placnaukizdj.png"
+		},
+		{
+			"translationId":"Cebulowski Zamek",
+				"objectname":"spawns_castle",
+				"preview":"cebulowskizamek.png"
+	},
+	{
+		"translationId":"MotorPark Cebulowko",
+			"objectname":"spawns_drifttrack",
+			"preview":"drifttrack.png"
+}
+	   ]
+}

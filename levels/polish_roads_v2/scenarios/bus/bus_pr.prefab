@@ -1,0 +1,31 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "0.000000 0.000000 0.000000";
+
+   new BeamNGVehicle(scenario_player0) {
+      JBeam = "citybus";
+      color = "0.99000001 0.99000001 0.99000001 1.60000002";
+      colorPalette0 = "1 0 0 1.20000005";
+      colorPalette1 = "White";
+      renderDistance = "500";
+      renderFade = "0.100000001";
+      dataBlock = "default_vehicle";
+      position = "126.534088 15.6322918 0.312481999";
+      scale = "1 1 1";
+      rotationMatrix = "-0.99987781 0.0156156048 0 -0.0156156048 -0.99987781 0 0 0 1";
+      partConfig = "vehicles/citybus/base.pc";
+      annotation = "CAR";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         colorPalette2 = "Fire Red";
+         colorPalette3 = "Fire Red";
+         isAIControlled = "0";
+         licenseText = "BUS-4242";
+   };
+};
+//--- OBJECT WRITE END ---
+
+

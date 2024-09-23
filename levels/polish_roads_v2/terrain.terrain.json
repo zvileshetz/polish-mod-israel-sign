@@ -1,0 +1,14 @@
+{
+  "binaryFormat": "version(char), size(unsigned int), heightMap(heightMapSize * heightMapItemSize), layerMap(layerMapSize * layerMapItemSize), layerTextureMap(layerMapSize * layerMapItemSize), materialNames",
+  "datafile": "/levels/polish_roads_v2/terrain8.ter",
+  "heightMapItemSize": 2,
+  "heightMapSize": 65536,
+  "heightmapImage": "/levels/polish_roads_v2/terrain8.terrainheightmap.png",
+  "layerMapItemSize": 1,
+  "layerMapSize": 65536,
+  "materials": [
+    "warning_material"
+  ],
+  "size": 256,
+  "version": 8
+}

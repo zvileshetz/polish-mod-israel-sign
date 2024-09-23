@@ -1,0 +1,15 @@
+{
+  "cypress": {
+    "name": "cypress",
+    "mapTo": "cypress",
+    "class": "Material",
+    "persistentId": "8ac5dd63-e4e3-470f-963f-12f33ffe2934",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "translucent": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "german_road_signs_solid": {
+    "name": "german_road_signs_solid",
+    "mapTo": "german_road_signs_solid",
+    "class": "Material",
+    "persistentId": "2abcda2d-69a0-42a8-9313-69e6ad5c9fe4",
+    "Stages": [
+      {
+        "baseColorMap": "game:levels/polish_roads_V2/From_east_coast_usa/shapes/german_road_signs/german_road_signs_solid_d.dds",
+        "metallicFactor": 0.514999986,
+        "pixelSpecular": true,
+        "roughnessFactor": 0.870000005,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
+        "vertColor": true
+      },
+      {
+        "metallicFactor": null,
+        "pixelSpecular": null,
+        "roughnessFactor": null,
+        "vertColor": null
+      },
+      {
+        "metallicFactor": null,
+        "pixelSpecular": null,
+        "roughnessFactor": null,
+        "vertColor": null
+      },
+      {
+        "metallicFactor": null,
+        "pixelSpecular": null,
+        "roughnessFactor": null,
+        "vertColor": null
+      }
+    ],
+    "annotation": "BUILDINGS",
+    "doubleSided": true,
+    "materialTag0": "beamng",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

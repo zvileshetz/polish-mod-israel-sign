@@ -1,0 +1,295 @@
+{
+  "Color_C07_001": {
+    "name": "Color_C07_001",
+    "mapTo": "Color_C07.001",
+    "class": "Material",
+    "persistentId": "9b09a1e8-b2d6-4ce2-ab2e-8033119567e7",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.376470596,
+          0.223529398,
+          0.0745097995,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "__DimGray__001": {
+    "name": "__DimGray__001",
+    "mapTo": "__DimGray_.001",
+    "class": "Material",
+    "persistentId": "7229d345-b0d4-4c76-a395-b2b1b6300316",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.411764711,
+          0.411764711,
+          0.411764711,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "__LightGray_1_001": {
+    "name": "__LightGray_1_001",
+    "mapTo": "__LightGray_1.001",
+    "class": "Material",
+    "persistentId": "83003f4b-8c53-4868-9cba-c6387f7c30b6",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.662745118,
+          0.662745118,
+          0.662745118,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "l_10_001": {
+    "name": "l_10_001",
+    "mapTo": "l_10.001",
+    "class": "Material",
+    "persistentId": "39e1e9e8-c66b-459a-8ecc-4bafcf73c6aa",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/l_10.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_10_001": {
+    "name": "lidl_10_001",
+    "mapTo": "lidl_10.001",
+    "class": "Material",
+    "persistentId": "6fa6ff79-eb84-4d68-95b7-1f56e29f7d7f",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_10.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_13_001": {
+    "name": "lidl_13_001",
+    "mapTo": "lidl_13.001",
+    "class": "Material",
+    "persistentId": "d85c7001-2b21-4c05-896f-3b344351b785",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/l_10.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_13_0_001": {
+    "name": "lidl_13_0_001",
+    "mapTo": "lidl_13_0.001",
+    "class": "Material",
+    "persistentId": "0b68ab0d-362a-4844-8119-976d5e7911d5",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_13_0.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_13_1_001": {
+    "name": "lidl_13_1_001",
+    "mapTo": "lidl_13_1.001",
+    "class": "Material",
+    "persistentId": "f4e55b89-eedb-497c-bd0f-177947616ffd",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_13_1.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_14_001": {
+    "name": "lidl_14_001",
+    "mapTo": "lidl_14.001",
+    "class": "Material",
+    "persistentId": "aacd4a14-6000-40d8-89fb-069534c16164",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_14.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_15_001": {
+    "name": "lidl_15_001",
+    "mapTo": "lidl_15.001",
+    "class": "Material",
+    "persistentId": "e1f86954-ce99-400a-b3d3-85ac39e02511",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.358316004,
+          0.358312994,
+          0.358312994,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_15.jpg",
+        "roughnessMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/chodnik_r.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_2_001": {
+    "name": "lidl_2_001",
+    "mapTo": "lidl_2.001",
+    "class": "Material",
+    "persistentId": "acb7737a-af8f-4758-ae3a-c0cd2e72e79a",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_2.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_3_001": {
+    "name": "lidl_3_001",
+    "mapTo": "lidl_3.001",
+    "class": "Material",
+    "persistentId": "3e023ebb-68e3-465b-a1a3-637442088312",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_3.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_4_001": {
+    "name": "lidl_4_001",
+    "mapTo": "lidl_4.001",
+    "class": "Material",
+    "persistentId": "6ac6fb55-87ed-4181-9b1d-b5127ce59f9f",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_4.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_5_001": {
+    "name": "lidl_5_001",
+    "mapTo": "lidl_5.001",
+    "class": "Material",
+    "persistentId": "b8d364e4-c353-487d-98f0-8858b853a49e",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_5.jpg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_6_001": {
+    "name": "lidl_6_001",
+    "mapTo": "lidl_6.001",
+    "class": "Material",
+    "persistentId": "2988c15b-8685-4655-b103-c61430e6ad5e",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.644605994,
+          0.64459902,
+          0.64459902,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_6.jpg",
+        "detailMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_6.jpg",
+        "detailScale": [
+          1,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "cebulkowo_end": {
+    "name": "cebulkowo_end",
+    "mapTo": "cebulkowo_end",
+    "class": "Material",
+    "persistentId": "8ebbeb98-7dc4-476b-9711-6c1712d550d9",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/SCS/cebulkowo/CebulkowoSingEND.png",
+        "detailMap": "/levels/polish_roads_V2/SCS/cebulkowo/CebulkowoSingEND.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "diffuseColor": [
+          0.777879,
+          0.777871013,
+          0.777871013,
+          1
+        ]
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      },
+      {
+        "detailScale": null,
+        "diffuseColor": null
+      }
+    ]
+  },
+  "cebulkowo_ent": {
+    "name": "cebulkowo_ent",
+    "mapTo": "cebulkowo_ent",
+    "class": "Material",
+    "persistentId": "4981aa2e-c11f-4e5f-b1c4-36891655e8d6",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/SCS/cebulkowo/CebulkowoSing.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "pl_city_enter_mat_0000_city_limits_poznan_enter": {
+    "name": "pl_city_enter_mat_0000_city_limits_poznan_enter",
+    "mapTo": "mat_0000_city_limits_poznan_enter",
+    "class": "Material",
+    "persistentId": "7cfc1aed-e143-432d-8b9e-cec457db29b1",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_V2/SCS/pl_city_enter/city_limits_poznan_enter.dds",
+        "diffuseColor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "roughnessFactor": 0.644401252
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}

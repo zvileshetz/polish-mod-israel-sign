@@ -1,0 +1,77 @@
+{
+  "containers_shipping": {
+    "name": "containers_shipping",
+    "mapTo": "containers_shipping",
+    "class": "Material",
+    "persistentId": "54ab4b85-e352-4833-a604-3fb87a8fddd6",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.992156982,
+          0.992156982,
+          0.992156982,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_industrial/shapes/misc/containers_d.color.DDS",
+        "detailNormalMap": "/levels/polish_roads_V2/From_industrial/shapes/misc/containers_n.normal.png",
+        "detailScale": [
+          0.5,
+          1
+        ],
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/misc/containers_n.normal.png",
+        "opacityMap": "/levels/polish_roads_V2/From_industrial/shapes/misc/containers_s.color.png",
+        "roughnessMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/chodnik_r.png",
+        "vertColor": true
+      },
+      {
+        "baseColorFactor": null,
+        "baseColorMap": "/levels/polish_roads_V2/From_industrial/shapes/misc/containers_d.color.png",
+        "detailScale": null,
+        "normalMap": "/levels/polish_roads_V2/From_industrial/shapes/misc/containers_n.normal.png",
+        "vertColor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "vertColor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "vertColor": null
+      }
+    ],
+    "groundType": "METAL",
+    "materialTag0": "beamng",
+    "materialTag1": "Industrial",
+    "version": 1.5
+  },
+  "containers_shipping_branding": {
+    "name": "containers_shipping_branding",
+    "mapTo": "containers_shipping_branding",
+    "class": "Material",
+    "persistentId": "db16d184-65a8-47b8-b1c7-39e2f545323d",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_V2/From_industrial/shapes/misc/containers_branding.png",
+        "diffuseColor": [
+          0.992156982,
+          0.992156982,
+          0.992156982,
+          1
+        ],
+        "useAnisotropic": true,
+        "vertColor": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "castShadows": false,
+    "groundType": "ASPHALT_OLD",
+    "materialTag0": "beamng",
+    "materialTag1": "Industrial",
+    "translucent": true,
+    "translucentZWrite": true
+  }
+}

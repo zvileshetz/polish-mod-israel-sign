@@ -1,0 +1,195 @@
+Header {
+    FormatVersion: 1
+    Source: "ConverterPIX v1.0"
+    Type: "Trait"
+    Name: "single_pl"
+}
+Global {
+    LookCount: 1
+    VariantCount: 2
+    PartCount: 3
+    MaterialCount: 4
+}
+Look {
+    Name: "default"
+    Material {
+        Alias: "mat_0000"
+        Effect: "eut2.shadowonly"
+        Flags: 0
+        AttributeCount: 1
+        TextureCount: 0
+        Attribute {
+            Format: FLOAT
+            Tag: "shadow_bias"
+            Value: ( 0.000000 )
+        }
+    }
+    Material {
+        Alias: "mat_0001_traffic_signs_pl"
+        Effect: "eut2.dif.spec"
+        Flags: 0
+        AttributeCount: 5
+        TextureCount: 1
+        Attribute {
+            Format: FLOAT
+            Tag: "add_ambient"
+            Value: ( 0.000000 )
+        }
+        Attribute {
+            Format: FLOAT3
+            Tag: "diffuse"
+            Value: ( 1.000000  1.000000  1.000000 )
+        }
+        Attribute {
+            Format: FLOAT
+            Tag: "reflection"
+            Value: ( 0.000000 )
+        }
+        Attribute {
+            Format: FLOAT
+            Tag: "shininess"
+            Value: ( 25.000000 )
+        }
+        Attribute {
+            Format: FLOAT3
+            Tag: "specular"
+            Value: ( 0.983480  0.983480  0.983480 )
+        }
+        Texture {
+            Tag: "texture[0]:texture_base"
+            Value: "/model/sign/traffic/traffic_signs_pl"
+        }
+    }
+    Material {
+        Alias: "mat_0002_traffic_lights_de"
+        Effect: "eut2.dif.spec.weight"
+        Flags: 0
+        AttributeCount: 5
+        TextureCount: 1
+        Attribute {
+            Format: FLOAT
+            Tag: "add_ambient"
+            Value: ( 0.000000 )
+        }
+        Attribute {
+            Format: FLOAT3
+            Tag: "diffuse"
+            Value: ( 1.000000  1.000000  1.000000 )
+        }
+        Attribute {
+            Format: FLOAT
+            Tag: "reflection"
+            Value: ( 0.000000 )
+        }
+        Attribute {
+            Format: FLOAT
+            Tag: "shininess"
+            Value: ( 15.000000 )
+        }
+        Attribute {
+            Format: FLOAT3
+            Tag: "specular"
+            Value: ( 0.800000  0.800000  0.800000 )
+        }
+        Texture {
+            Tag: "texture[0]:texture_base"
+            Value: "/model/traffic_light/traffic_lights_de"
+        }
+    }
+    Material {
+        Alias: "mat_0003_traffic_lights_de"
+        Effect: "eut2.lamp"
+        Flags: 0
+        AttributeCount: 4
+        TextureCount: 2
+        Attribute {
+            Format: FLOAT
+            Tag: "add_ambient"
+            Value: ( 0.000000 )
+        }
+        Attribute {
+            Format: FLOAT3
+            Tag: "diffuse"
+            Value: ( 1.000000  1.000000  1.000000 )
+        }
+        Attribute {
+            Format: FLOAT
+            Tag: "shininess"
+            Value: ( 90.000000 )
+        }
+        Attribute {
+            Format: FLOAT3
+            Tag: "specular"
+            Value: ( 0.700000  0.700000  0.700000 )
+        }
+        Texture {
+            Tag: "texture[0]:texture_base"
+            Value: "/model/traffic_light/traffic_lights_de"
+        }
+        Texture {
+            Tag: "texture[1]:texture_mask"
+            Value: "/model/traffic_light/traffic_lights_de"
+        }
+    }
+}
+Variant {
+    Name: "major"
+    Part {
+        Name: "defaultpart"
+        AttributeCount: 1
+        Attribute {
+            Format: INT
+            Tag: "visible"
+            Value: ( 1 )
+        }
+    }
+    Part {
+        Name: "minor"
+        AttributeCount: 1
+        Attribute {
+            Format: INT
+            Tag: "visible"
+            Value: ( 0 )
+        }
+    }
+    Part {
+        Name: "major"
+        AttributeCount: 1
+        Attribute {
+            Format: INT
+            Tag: "visible"
+            Value: ( 1 )
+        }
+    }
+}
+Variant {
+    Name: "minor"
+    Part {
+        Name: "defaultpart"
+        AttributeCount: 1
+        Attribute {
+            Format: INT
+            Tag: "visible"
+            Value: ( 1 )
+        }
+    }
+    Part {
+        Name: "minor"
+        AttributeCount: 1
+        Attribute {
+            Format: INT
+            Tag: "visible"
+            Value: ( 1 )
+        }
+    }
+    Part {
+        Name: "major"
+        AttributeCount: 1
+        Attribute {
+            Format: INT
+            Tag: "visible"
+            Value: ( 0 )
+        }
+    }
+}
+

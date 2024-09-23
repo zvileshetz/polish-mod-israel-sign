@@ -1,0 +1,45 @@
+{
+  "pol_cytrynowy": {
+    "name": "pol_cytrynowy",
+    "mapTo": "pol_cytrynowy",
+    "class": "Material",
+    "persistentId": "a1f1b04a-8f4a-49bd-8222-2e61116ef44f",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/SketchUpCK/BlokFixed/NoweTexturyIPBR/bloki_ao.png",
+        "baseColorFactor": [
+          0.937255025,
+          0.937255025,
+          0.937255025,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/BlokFixed/Cytrynowy/CytrynowyBlok.png",
+        "detailMap": "levels/polish_roads_V2/From_derby/shapes/buildings/detail_grunge_01_low_desat.dds",
+        "detailScale": [
+          0.300000012,
+          0.300000012
+        ],
+        "normalMapStrength": 0.800000012,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      }
+    ],
+    "doubleSided": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

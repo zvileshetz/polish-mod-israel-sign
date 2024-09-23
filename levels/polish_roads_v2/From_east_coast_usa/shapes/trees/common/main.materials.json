@@ -1,0 +1,52 @@
+{
+  "trunk_chopped" : {
+    "name" : "trunk_chopped",
+    "mapTo" : "trunk_chopped",
+    "class" : "Material",
+    "persistentId" : "968bb891-2ebe-4aad-8f53-1b29629c3844",
+    "groundType" : "WOOD",
+    "Stages" : [
+      {
+        "colorMap" : "trunk_chopped_d.dds",
+        "specularMap" : "trunk_chopped_s.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "NATURE",
+    "materialTag0" : "beamng",
+    "materialTag1" : "Natural",
+    "materialTag2" : "vegetation"
+  },
+  "wood_splinters" : {
+    "name" : "wood_splinters",
+    "mapTo" : "wood_splinters",
+    "class" : "Material",
+    "persistentId" : "604ba5de-7cf5-492c-96e5-be4ce841d61b",
+    "groundType" : "WOOD",
+    "Stages" : [
+      {
+        "colorMap" : "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/common/wood_splinters_d.dds",
+        "minnaertConstant" : 0,
+        "normalMap" : "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/common/wood_splinters_n.dds",
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/common/wood_splinters_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 0.4666669964790344, 1, 0, 1 ],
+        "subSurfaceRolloff" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 90,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "vegetation",
+    "materialTag1" : "beamng",
+    "materialTag2" : "Natural"
+  }
+}

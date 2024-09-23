@@ -1,0 +1,17 @@
+{
+  "tabliczkadomowa1": {
+    "name": "tabliczkadomowa1",
+    "mapTo": "tabliczkadomowa1",
+    "class": "Material",
+    "persistentId": "a8980301-5201-4e58-8e8d-5f3cd6da8b02",
+    "Stages": [
+      {
+        "colorMap": "TabliczkaAdresowa"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}

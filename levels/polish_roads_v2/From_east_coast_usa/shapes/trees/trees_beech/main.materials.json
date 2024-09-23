@@ -1,0 +1,202 @@
+{
+  "beech_blocker": {
+    "name": "beech_blocker",
+    "mapTo": "beech_blocker",
+    "class": "Material",
+    "persistentId": "686852d1-bdff-4086-855b-682867a406e0",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_blocker_ao.data.png",
+        "baseColorFactor": [
+          0.996078491,
+          0.996078491,
+          0.996078491,
+          1
+        ],
+        "baseColorMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_blocker_b.color.png",
+        "normalMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_blocker_nm.normal.png",
+        "opacityMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_blocker_o.data.png",
+        "roughnessMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_blocker_r.data.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "alphaRef": 50,
+    "alphaTest": true,
+    "doubleSided": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "materialTag3": "vegetation",
+    "version": 1.5
+  },
+  "beech_branch_01": {
+    "name": "beech_branch_01",
+    "mapTo": "beech_branch_01",
+    "class": "Material",
+    "persistentId": "04850e85-8d18-4173-a93b-076f274aec7a",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_branch_ao.data.png",
+        "baseColorFactor": [
+          0.996078491,
+          0.996078491,
+          0.996078491,
+          1
+        ],
+        "baseColorMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_branch_b.color.png",
+        "normalMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_branch_nm.normal.png",
+        "opacityMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_branch_o.data.png",
+        "roughnessMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_branch_r.data.png",
+        "specular": [
+          0.992156982,
+          0.992156982,
+          0.992156982,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 75,
+    "alphaTest": true,
+    "doubleSided": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "materialTag3": "vegetation",
+    "version": 1.5
+  },
+  "beech_leaves": {
+    "name": "beech_leaves",
+    "mapTo": "beech_leaves",
+    "class": "Material",
+    "persistentId": "e30d3c35-800f-4509-ac97-51eb4efe7194",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_leaves_ao.data.png",
+        "baseColorFactor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "baseColorMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_leaves_b.color.png",
+        "detailNormalMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_leaves_nm.normal.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "normalMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_leaves_nm.normal.png",
+        "opacityMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_leaves_o.data.png",
+        "roughnessMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_leaves_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      }
+    ],
+    "alphaRef": 19,
+    "alphaTest": true,
+    "doubleSided": true,
+    "groundType": "LEAVES_THIN",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "materialTag3": "vegetation",
+    "materialTag4": "east_coast_usa",
+    "version": 1.5
+  },
+  "beech_trunk": {
+    "name": "beech_trunk",
+    "mapTo": "beech_trunk",
+    "class": "Material",
+    "persistentId": "0af016fd-dc8c-45eb-80b0-edd232cad636",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_bark_ao.data.png",
+        "baseColorFactor": [
+          0.996078491,
+          0.996078491,
+          0.996078491,
+          1
+        ],
+        "baseColorMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_bark_b.color.png",
+        "detailNormalMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_bark_nm.normal.png",
+        "detailScale": [
+          1,
+          1
+        ],
+        "normalMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_bark_nm.normal.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/east_coast_usa/art/shapes/trees/trees_beech/t_beech_bark_r.data.png",
+        "specular": [
+          0.149019614,
+          0.149019614,
+          0.149019614,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/trees/trees_beech/Moss_03_d.dds",
+        "detailScale": null,
+        "pixelSpecular": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "pixelSpecular": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "pixelSpecular": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 10,
+    "alphaTest": true,
+    "groundType": "WOOD",
+    "materialTag0": "beamng",
+    "materialTag1": "vegetation",
+    "materialTag2": "Natural",
+    "specularStrength0": "0.392157",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

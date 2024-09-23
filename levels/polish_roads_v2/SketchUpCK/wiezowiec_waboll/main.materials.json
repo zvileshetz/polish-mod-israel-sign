@@ -1,0 +1,26 @@
+{
+  "papaa":{
+    "Stages":[
+      {
+        "baseColorFactor":[
+          0.601450026,
+          0.63597703,
+          0.649541974,
+          1
+        ],
+        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/wiezowiec_waboll/papa.png",
+        "normalMap":"/levels/polish_roads_v2/SketchUpCK/wiezowiec_waboll/papa_nm.png",
+        "normalMapStrength":0.5,
+        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "class":"Material",
+    "mapTo":"papaa",
+    "name":"papaa",
+    "persistentId":"b55fd221-9dd6-47ad-9780-653d53e076e1",
+    "version":1.5
+  }
+}

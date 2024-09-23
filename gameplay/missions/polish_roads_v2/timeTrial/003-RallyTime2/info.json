@@ -1,0 +1,77 @@
+{
+  "additionalAttributes":{
+    "difficulty":"low",
+    "vehicle":"provided"
+  },
+  "author":"MrCryingCat",
+  "careerSetup":{
+    "defaultStarKeys":{},
+    "showInFreeroam":true,
+    "starOutroTexts":{},
+    "starRewards":{},
+    "starsActive":{}
+  },
+  "customAdditionalAttributes":{},
+  "date":1691080431,
+  "description":"You are participating in a time trial rally race, try to beat the previous driver's time! Good luck!",
+  "devMission":false,
+  "grouping":{
+    "id":"",
+    "label":""
+  },
+  "missionType":"timeTrial",
+  "missionTypeData":{
+    "allowRollingStart":false,
+    "bronzeTime":180,
+    "closed":false,
+    "defaultLaps":1,
+    "endScreenText":"Wow! You did it!!!",
+    "goldTime":60,
+    "mapPreviewMode":"waypoints",
+    "reversible":false,
+    "silverTime":120,
+    "startScreenText":"Rally Time 2!"
+  },
+  "name":"Rally Time 2!",
+  "retryBehaviour":"infiniteRetries",
+  "setupModules":{
+    "timeOfDay":{
+      "enabled":false
+    },
+    "traffic":{
+      "enabled":false
+    },
+    "vehicles":{
+      "enabled":true,
+      "isCustomConfig":false,
+      "mode":"provided",
+      "playerConfig":"gravel_SQ",
+      "playerConfigPath":"vehicles/vivace/gravel_SQ.pc",
+      "playerModel":"vivace",
+      "playerPaintName":"",
+      "usePresetVehicle":false
+    }
+  },
+  "startCondition":{
+    "type":"always"
+  },
+  "startTrigger":{
+    "level":"polish_roads_v2",
+    "pos":[
+      683.5878296,
+      -883.1064453,
+      -15.60944748
+    ],
+    "radius":3,
+    "rot":[
+      0,
+      0,
+      0.8312027454,
+      0.5559694767
+    ],
+    "type":"coordinates"
+  },
+  "visibleCondition":{
+    "type":"always"
+  }
+}

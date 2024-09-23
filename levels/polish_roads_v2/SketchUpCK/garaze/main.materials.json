@@ -1,0 +1,122 @@
+{
+  "Blacha": {
+    "name": "Blacha",
+    "mapTo": "Blacha",
+    "class": "Material",
+    "persistentId": "980ca38e-7c27-4048-ab35-cfb35cd232c8",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_ao.png",
+        "baseColorFactor": [
+          0.827238977,
+          0.82723099,
+          0.82723099,
+          1
+        ],
+        "baseColorMap": "/art/shapes/garage_and_dealership/Clutter/eca_bld_moderncorrugated_tin_d.dds",
+        "detailMap": "levels/italy/art/shapes/buildings/detail_grunge_03.dds",
+        "detailNormalMapStrength": 0,
+        "detailScale": [
+          1,
+          1
+        ],
+        "normalMap": "/art/shapes/garage_and_dealership/Clutter/eca_bld_moderncorrugated_tin_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "MetaloweCzesci": {
+    "name": "MetaloweCzesci",
+    "mapTo": "MetaloweCzesci",
+    "class": "Material",
+    "persistentId": "f54318fc-b723-487f-8644-93b29782b5d8",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.313892007,
+          0.313888997,
+          0.313888997,
+          1
+        ],
+        "baseColorMap": "levels/italy/art/shapes/buildings/italy_bld_metal_d.dds",
+        "detailMap": "levels/italy/art/shapes/buildings/detail_grunge_03.dds",
+        "detailNormalMap": "/levels/italy/art/shapes/buildings/italy_bld_metal_n.dds",
+        "detailNormalMapStrength": 6,
+        "detailScale": [
+          1,
+          1
+        ],
+        "metallicFactor": 0.414000005,
+        "normalMap": "/levels/italy/art/shapes/buildings/italy_bld_metal_n.dds",
+        "normalMapStrength": 6
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "metallicFactor": null,
+        "normalMapStrength": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Szarylodgaraz": {
+    "name": "Szarylodgaraz",
+    "mapTo": "Szarylodgaraz",
+    "class": "Material",
+    "persistentId": "72f4cfc6-5758-45d2-8260-5e9307237f76",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.244788006,
+          0.229080006,
+          0.229080006,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "eca_rocks": {
+    "name": "eca_rocks",
+    "mapTo": "eca_rocks",
+    "class": "Material",
+    "persistentId": "7ed6ec7d-833f-44d7-87f4-b102ed9777d0",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/east_coast_usa/art/shapes/rocks/t_rocks_eca_ao.data.png",
+        "baseColorFactor": [
+          1,
+          1,
+          0.999000013,
+          1
+        ],
+        "baseColorMap": "/levels/east_coast_usa/art/shapes/rocks/t_rocks_eca_b.color.png",
+        "detailMap": "/levels/east_coast_usa/art/shapes/rocks/t_rocks_eca_detail_b.data.png",
+        "detailNormalMap": "/levels/east_coast_usa/art/shapes/rocks/t_rocks_eca_detail_nm.normal.DDS",
+        "detailScale": [
+          8,
+          8
+        ],
+        "normalMap": "/levels/east_coast_usa/art/shapes/rocks/t_rocks_eca_nm.normal.png",
+        "roughnessMap": "/levels/east_coast_usa/art/shapes/rocks/t_rocks_eca_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null
+      }
+    ],
+    "doubleSided": true,
+    "groundType": "ROCK",
+    "materialTag0": "beamng",
+    "materialTag1": "Natural",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "rock_01_a": {
+    "name": "rock_01_a",
+    "mapTo": "rocks_01_a",
+    "class": "Material",
+    "persistentId": "5fe9b75a-99bf-4abf-8eaf-94d425eead15",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.649541974,
+          0.649535,
+          0.649535,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/rocks/moss_rocks_01_a_d.dds",
+        "normalMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/rocks/moss_rocks_01_a_n.dds",
+        "normalMapStrength": 2,
+        "roughnessFactor": 0.856000006,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_stronger2_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      }
+    ],
+    "annotation": "ROCK",
+    "doubleSided": true,
+    "groundType": "ROCK",
+    "materialTag0": "beamng",
+    "materialTag1": "Natural",
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "bus_pr",
+        "description": "bus_pr",
+        "authors": "Car_Killer",
+        "introType": "none",
+        "difficulty": "27",
+        "restrictToCampaign": true,
+        "uilayout": "busRouteScenario",
+        // TODO: extension to load: busdriver
+        "vehicles": {
+            "scenario_player0": {
+                "playerUsable": true,
+                "startFocus": true
+            },
+            "*": {"playerUsable": false}
+        },
+    
+        "radiusMultiplierAI": 2,
+        "dialogs": {
+    
+            "scenario_objective_1":  [
+                {
+                    "type": "images",
+                    "imgs": [
+                        "scenarios/chapter_2/chapter_2_6_canyon.jpg"
+                    ]
+                }
+            ]
+        },
+        "extensions": ["busdriver"],
+        "busdriver": {
+            "routeID": "007",
+            "variance": "a"
+        },
+        "statistics":
+        {
+            "disableEndUI": true
+        }
+    }
+]

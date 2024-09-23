@@ -1,0 +1,334 @@
+{
+  "lidl_10": {
+    "name": "lidl_10",
+    "mapTo": "lidl_10",
+    "class": "Material",
+    "persistentId": "fb59b4c1-85f1-49fc-a6e4-eb2d08fc4084",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Biedra/lidl_10",
+        "metallicFactor": 0.504999995
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_13": {
+    "name": "lidl_13",
+    "mapTo": "lidl_13",
+    "class": "Material",
+    "persistentId": "c7db6922-8581-4748-8d24-7a0824d340f2",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_13"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_13_0": {
+    "name": "lidl_13_0",
+    "mapTo": "lidl_13_0",
+    "class": "Material",
+    "persistentId": "c3db8cbe-f786-4fe2-a378-c6183868ce0a",
+    "Stages": [
+      {
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_13_0",
+        "metallicFactor": 0.493000001
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_13_1": {
+    "name": "lidl_13_1",
+    "mapTo": "lidl_13_1",
+    "class": "Material",
+    "persistentId": "35bffbe4-b82b-4f82-ba20-4e2c8acbd55f",
+    "Stages": [
+      {
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_13_1",
+        "metallicFactor": 0.5
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_14": {
+    "name": "lidl_14",
+    "mapTo": "lidl_14",
+    "class": "Material",
+    "persistentId": "b719cf59-1e61-463e-8307-0cc80f0e2926",
+    "Stages": [
+      {
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_14",
+        "metallicFactor": 0.501999974
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_15": {
+    "name": "lidl_15",
+    "mapTo": "lidl_15",
+    "class": "Material",
+    "persistentId": "084bf006-c750-4ee9-b13b-c9f2465d3058",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.886470973,
+          0.702693999,
+          0.702693999,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_15",
+        "metallicFactor": 0.504999995,
+        "metallicMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_15",
+        "roughnessMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/chodnik_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "lidl_2": {
+    "name": "lidl_2",
+    "mapTo": "lidl_2",
+    "class": "Material",
+    "persistentId": "c56f2cca-35e7-4c87-847b-da6a803de5c7",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Lidl/lidl/lidl_2",
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_3": {
+    "name": "lidl_3",
+    "mapTo": "lidl_3",
+    "class": "Material",
+    "persistentId": "00187234-c18b-425f-880d-11886d0d31e3",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_3"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_4": {
+    "name": "lidl_4",
+    "mapTo": "lidl_4",
+    "class": "Material",
+    "persistentId": "71a01873-1087-4e10-ac53-9f7853f19ed3",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_4"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_5": {
+    "name": "lidl_5",
+    "mapTo": "lidl_5",
+    "class": "Material",
+    "persistentId": "ae95369e-4ab1-405f-b1a6-0bf569977f6e",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_5"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_6": {
+    "name": "lidl_6",
+    "mapTo": "lidl_6",
+    "class": "Material",
+    "persistentId": "9761c694-3004-4a33-b0bd-774928225f06",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/SketchUpCK/Biedra/lidl/lidl_6"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_Color_C07": {
+    "name": "lidl_Color_C07",
+    "mapTo": "Color_C07",
+    "class": "Material",
+    "persistentId": "96cbd215-8fd1-4776-a31b-897423df3927",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.376470596,
+          0.223529398,
+          0.0745097995,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl___DimGray_": {
+    "name": "lidl___DimGray_",
+    "mapTo": "__DimGray_",
+    "class": "Material",
+    "persistentId": "4915b011-5310-4516-8697-0c5a84b14723",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.411764711,
+          0.411764711,
+          0.411764711,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl___LightGray_1": {
+    "name": "lidl___LightGray_1",
+    "mapTo": "__LightGray_1",
+    "class": "Material",
+    "persistentId": "7cadeba3-8dd7-4686-ae54-757e6a65113f",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.662745118,
+          0.662745118,
+          0.662745118,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "lidl_l_10": {
+    "name": "lidl_l_10",
+    "mapTo": "l_10",
+    "class": "Material",
+    "persistentId": "7c60daa3-8d07-4223-834e-2b24b7ebd8be",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.684094012,
+          0.684086978,
+          0.684086978,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  }
+}

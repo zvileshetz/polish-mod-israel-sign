@@ -1,0 +1,130 @@
+{
+  "DachPrzystanekBlacha": {
+    "name": "DachPrzystanekBlacha",
+    "mapTo": "DachPrzystanekBlacha",
+    "class": "Material",
+    "persistentId": "0c7f3a89-f877-415a-a0b8-e7222a7f04ee",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_ao.png",
+        "baseColorFactor": [
+          0.25466001,
+          0.238947004,
+          0.201865003,
+          1
+        ],
+        "baseColorMap": "/art/shapes/garage_and_dealership/Clutter/eca_bld_moderncorrugated_tin_d.dds",
+        "detailMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/detail_grunge_01b_low_desat.dds",
+        "detailNormalMap": "/art/shapes/garage_and_dealership/Clutter/eca_bld_moderncorrugated_tin_n.dds",
+        "detailScale": [
+          1,
+          1
+        ],
+        "metallicFactor": 0.505999982,
+        "normalMap": "/art/shapes/garage_and_dealership/Clutter/eca_bld_moderncorrugated_tin_n.dds",
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "metallicFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "version": 1.5
+  },
+  "eca_bld_concrete_przystanek": {
+    "name": "eca_bld_concrete_przystanek",
+    "mapTo": "eca_bld_concrete_przystanek",
+    "class": "Material",
+    "persistentId": "59a9e189-6efa-48bb-863e-a4e73795a852",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/universal_ao.png",
+        "baseColorFactor": [
+          0.763071001,
+          0.857562006,
+          1,
+          1
+        ],
+        "baseColorMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_bld_concrete_d.dds",
+        "detailMap": "levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/detail_grunge_01b_low_desat.dds",
+        "detailNormalMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_bld_concrete_n.dds",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          0.200000003,
+          0.200000003
+        ],
+        "normalMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/eca_bld_concrete_n.dds",
+        "normalMapStrength": 2,
+        "roughnessMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "version": 1.5
+  },
+  "lawkaprzystanek": {
+    "name": "lawkaprzystanek",
+    "mapTo": "lawkaprzystanek",
+    "class": "Material",
+    "persistentId": "ebae170c-6332-4cb6-b9aa-9792f59689ab",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_ao.png",
+        "baseColorFactor": [
+          0.471845001,
+          0.471839994,
+          0.471839994,
+          1
+        ],
+        "metallicFactor": 0.68599999,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_r.png"
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "metallicFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "version": 1.5
+  }
+}

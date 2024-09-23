@@ -1,0 +1,37 @@
+{
+  "SOFT_COLLISION_GENERAL":{
+    "Stages":[
+      {},
+      {},
+      {},
+      {}
+    ],
+    "class":"Material",
+    "groundDepth":1,
+    "groundType":"leaves_thin",
+    "mapTo":"SOFT_COLLISION_GENERAL",
+    "name":"SOFT_COLLISION_GENERAL",
+    "persistentId":"fb988423-8b8e-46a4-9b3b-9edd4a3d784b"
+  },
+  "lod_vertcol":{
+    "Stages":[
+      {
+        "vertColor":true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation":"BUILDINGS",
+    "class":"Material",
+    "mapTo":"lod_vertcol",
+    "materialTag0":"beamng",
+    "materialTag1":"building",
+    "materialTag2":"east_coast_usa",
+    "name":"lod_vertcol",
+    "persistentId":"ed4b786d-24b7-470b-905a-5a96b3e2bc47",
+    "specularColor0":"0.1 0.1 0.1 0.1",
+    "specularStrength0":"0.05",
+    "translucentBlendOp":"None"
+  }
+}
