@@ -1,1294 +1,1965 @@
 {
-  "MetaloweCiemniejsze":{
-    "Stages":[
+  "MetaloweCiemniejsze": {
+    "name": "MetaloweCiemniejsze",
+    "mapTo": "MetaloweCiemniejsze",
+    "class": "Material",
+    "persistentId": "873e61dd-2744-4e71-a3b0-f07805475170",
+    "Stages": [
       {
-        "ambientOcclusionMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
-        "baseColorFactor":[
+        "ambientOcclusionMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/From_italy/italy_bld_metal_d.dds",
-        "detailNormalMap":"/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
-        "detailNormalMapStrength":3,
-        "metallicFactor":0.497000009,
-        "normalMap":"/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
-        "normalMapStrength":2,
-        "roughnessFactor":0.911000013,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
+        "detailNormalMapStrength": 3,
+        "metallicFactor": 0.497000009,
+        "normalMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
+        "normalMapStrength": 2,
+        "roughnessFactor": 0.911000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "dynamicCubemap":true,
-    "mapTo":"MetaloweCiemniejsze",
-    "name":"MetaloweCiemniejsze",
-    "persistentId":"873e61dd-2744-4e71-a3b0-f07805475170",
-    "version":1.5
-  },
-  "MetaloweJasniejsze":{
-    "Stages":[
       {
-        "baseColorFactor":[
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      }
+    ],
+    "dynamicCubemap": true,
+    "version": 1.5
+  },
+  "MetaloweJasniejsze": {
+    "name": "MetaloweJasniejsze",
+    "mapTo": "MetaloweJasniejsze",
+    "class": "Material",
+    "persistentId": "873e61dd-2744-4e71-a3b0-f07805475170",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_n.dds",
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/From_italy/italy_bld_metal_d.dds",
-        "detailNormalMap":"/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
-        "detailNormalMapStrength":3,
-        "metallicFactor":0.505999982,
-        "normalMap":"/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
-        "normalMapStrength":3,
-        "roughnessFactor":0.911000013,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_r.dds"
+        "baseColorMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
+        "detailNormalMapStrength": 3,
+        "metallicFactor": 0.497000009,
+        "normalMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
+        "normalMapStrength": 2,
+        "roughnessFactor": 0.911000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "dynamicCubemap":true,
-    "mapTo":"MetaloweJasniejsze",
-    "name":"MetaloweJasniejsze",
-    "persistentId":"49320054-fa6c-4028-ac78-922317168609",
-    "version":1.5
-  },
-  "PlastikPomaranczowy":{
-    "Stages":[
       {
-        "baseColorFactor":[
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "metallicFactor": null,
+        "normalMapStrength": null,
+        "roughnessFactor": null
+      }
+    ],
+    "dynamicCubemap": true,
+    "version": 1.5
+  },
+  "PlastikPomaranczowy": {
+    "name": "PlastikPomaranczowy",
+    "mapTo": "PlastikPomaranczowy",
+    "class": "Material",
+    "persistentId": "d8846b39-adb4-429a-a9b9-d00b7e480685",
+    "Stages": [
+      {
+        "baseColorFactor": [
           0.975319982,
           0.725130022,
           0.190604001,
           1
         ],
-        "emissiveFactor":[
-          9.99999997e-07,
-          9.99999997e-07,
-          9.99999997e-07
+        "emissiveFactor": [
+          9.99999997e-7,
+          9.99999997e-7,
+          9.99999997e-7
         ],
-        "emissiveMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds",
-        "metallicFactor":0.513000011,
-        "roughnessFactor":0.838,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "emissiveMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_plastic_rough_d.dds",
+        "metallicFactor": 0.513000011,
+        "roughnessFactor": 0.838,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"PlastikPomaranczowy",
-    "name":"PlastikPomaranczowy",
-    "persistentId":"d8846b39-adb4-429a-a9b9-d00b7e480685",
-    "version":1.5
+    "version": 1.5
   },
-  "Znak100":{
-    "Stages":[
+  "Znak-103": {
+    "name": "Znak-103",
+    "mapTo": "Znak-103",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-104": {
+    "name": "Znak-104",
+    "mapTo": "Znak-104",
+    "class": "Material",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/OgraniczenieDuze.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.89200002
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/104.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-106": {
+    "name": "Znak-106",
+    "mapTo": "Znak-106",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-107": {
+    "name": "Znak-107",
+    "mapTo": "Znak-107",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-108": {
+    "name": "Znak-108",
+    "mapTo": "Znak-108",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-109": {
+    "name": "Znak-109",
+    "mapTo": "Znak-109",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-110": {
+    "name": "Znak-110",
+    "mapTo": "Znak-110",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-111": {
+    "name": "Znak-111",
+    "mapTo": "Znak-111",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-112-L": {
+    "name": "Znak-112-L",
+    "mapTo": "Znak-112-L",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-112-R": {
+    "name": "Znak-112-R",
+    "mapTo": "Znak-112-R",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-113": {
+    "name": "Znak-113",
+    "mapTo": "Znak-113",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-114": {
+    "name": "Znak-114",
+    "mapTo": "Znak-114",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-116": {
+    "name": "Znak-116",
+    "mapTo": "Znak-116",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-117": {
+    "name": "Znak-117",
+    "mapTo": "Znak-117",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-118": {
+    "name": "Znak-118",
+    "mapTo": "Znak-118",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-119": {
+    "name": "Znak-119",
+    "mapTo": "Znak-119",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-120": {
+    "name": "Znak-120",
+    "mapTo": "Znak-120",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-121": {
+    "name": "Znak-121",
+    "mapTo": "Znak-121",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-122": {
+    "name": "Znak-122",
+    "mapTo": "Znak-122",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-123": {
+    "name": "Znak-123",
+    "mapTo": "Znak-123",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-124": {
+    "name": "Znak-124",
+    "mapTo": "Znak-124",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-125": {
+    "name": "Znak-125",
+    "mapTo": "Znak-125",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-126": {
+    "name": "Znak-126",
+    "mapTo": "Znak-126",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-127": {
+    "name": "Znak-127",
+    "mapTo": "Znak-127",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-127_b": {
+    "name": "Znak-127_b",
+    "mapTo": "Znak-127_b",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-128": {
+    "name": "Znak-128",
+    "mapTo": "Znak-128",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-129": {
+    "name": "Znak-129",
+    "mapTo": "Znak-129",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-130_L": {
+    "name": "Znak-130_L",
+    "mapTo": "Znak-130_L",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-130_R": {
+    "name": "Znak-130_R",
+    "mapTo": "Znak-130_R",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-131_L": {
+    "name": "Znak-131_L",
+    "mapTo": "Znak-131_L",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-131_R": {
+    "name": "Znak-131_R",
+    "mapTo": "Znak-131_R",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-132_L": {
+    "name": "Znak-132_L",
+    "mapTo": "Znak-132_L",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-132_R": {
+    "name": "Znak-132_R",
+    "mapTo": "Znak-132_R",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-133": {
+    "name": "Znak-133",
+    "mapTo": "Znak-133",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-134": {
+    "name": "Znak-134",
+    "mapTo": "Znak-134",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-135": {
+    "name": "Znak-135",
+    "mapTo": "Znak-135",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-136": {
+    "name": "Znak-136",
+    "mapTo": "Znak-136",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-137": {
+    "name": "Znak-137",
+    "mapTo": "Znak-137",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-138": {
+    "name": "Znak-138",
+    "mapTo": "Znak-138",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-139": {
+    "name": "Znak-139",
+    "mapTo": "Znak-139",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-140": {
+    "name": "Znak-140",
+    "mapTo": "Znak-140",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-141": {
+    "name": "Znak-141",
+    "mapTo": "Znak-141",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-142": {
+    "name": "Znak-142",
+    "mapTo": "Znak-142",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-143": {
+    "name": "Znak-143",
+    "mapTo": "Znak-143",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-144": {
+    "name": "Znak-144",
+    "mapTo": "Znak-144",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-145": {
+    "name": "Znak-145",
+    "mapTo": "Znak-145",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-146": {
+    "name": "Znak-146",
+    "mapTo": "Znak-146",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-147": {
+    "name": "Znak-147",
+    "mapTo": "Znak-147",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-148": {
+    "name": "Znak-148",
+    "mapTo": "Znak-148",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-149": {
+    "name": "Znak-149",
+    "mapTo": "Znak-149",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-150": {
+    "name": "Znak-150",
+    "mapTo": "Znak-150",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-151": {
+    "name": "Znak-151",
+    "mapTo": "Znak-151",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-151_b": {
+    "name": "Znak-151_b",
+    "mapTo": "Znak-151_b",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak-303": {
+    "name": "Znak-303",
+    "mapTo": "Znakc-303",
+    "class": "Material",
+    "persistentId": "be7ca19b-02f2-44ab-bdf4-c2fdffbc1afe",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/303.png",
+        "metallicFactor": 0.493999988,
+        "roughnessFactor": 0.866999984,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "dynamicCubemap":true,
-    "mapTo":"Znak100",
-    "name":"Znak100",
-    "persistentId":"ab08e176-ee6c-489a-9691-20db448fdaee",
-    "version":1.5
+    "version": 1.5
   },
-  "Znak30":{
-    "Stages":[
+  "Znak100": {
+    "name": "Znak100",
+    "mapTo": "Znak100",
+    "class": "Material",
+    "persistentId": "ab08e176-ee6c-489a-9691-20db448fdaee",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/Ograniczenie30.jpg",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.888000011
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/OgraniczenieDuze.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.89200002,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znak30",
-    "name":"Znak30",
-    "persistentId":"384e9622-ec71-46bf-87ff-a261c70f2ff2",
-    "version":1.5
+    "dynamicCubemap": true,
+    "version": 1.5
   },
-  "Znak40":{
-    "Stages":[
+  "Znak30": {
+    "name": "Znak30",
+    "mapTo": "Znak30",
+    "class": "Material",
+    "persistentId": "384e9622-ec71-46bf-87ff-a261c70f2ff2",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/PredkoscMalaheh.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/Ograniczenie30.jpg",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.888000011,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znak40",
-    "name":"Znak40",
-    "persistentId":"c02f6d7e-f444-4ae8-8efd-3cb598fb6309",
-    "version":1.5
+    "version": 1.5
   },
-  "Znak50":{
-    "Stages":[
+  "Znak303": {
+    "name": "Znak303",
+    "mapTo": "Znak-303",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Znak40": {
+    "name": "Znak40",
+    "mapTo": "Znak40",
+    "class": "Material",
+    "persistentId": "c02f6d7e-f444-4ae8-8efd-3cb598fb6309",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/Ograniczenie50_2.jpg",
-        "metallicFactor":0.522000015,
-        "opacityFactor":0.879000008
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/PredkoscMalaheh.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znak50",
-    "name":"Znak50",
-    "persistentId":"5433a795-7435-48e2-95d4-8433ac01c288",
-    "version":1.5
+    "version": 1.5
   },
-  "Znak60":{
-    "Stages":[
+  "Znak404": {
+    "name": "Znak404",
+    "mapTo": "Znakd6",
+    "class": "Material",
+    "persistentId": "bc5700ac-1694-40f8-9a1b-401ba18d7a9f",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D6.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.879000008,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "version": 1.5
+  },
+  "Znak50": {
+    "name": "Znak50",
+    "mapTo": "Znak50",
+    "class": "Material",
+    "persistentId": "5433a795-7435-48e2-95d4-8433ac01c288",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/Ograniczenie50_2.jpg",
+        "metallicFactor": 0.522000015,
+        "opacityFactor": 0.879000008,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "version": 1.5
+  },
+  "Znak60": {
+    "name": "Znak60",
+    "mapTo": "Znak60",
+    "class": "Material",
+    "persistentId": "127bc416-698f-4dfd-99a0-a9011f1f9ba5",
+    "Stages": [
+      {
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/Ograniczenie60.jpg",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.883000016,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/Ograniczenie60.jpg",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.883000016,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "dynamicCubemap":true,
-    "mapTo":"Znak60",
-    "name":"Znak60",
-    "persistentId":"127bc416-698f-4dfd-99a0-a9011f1f9ba5",
-    "version":1.5
+    "dynamicCubemap": true,
+    "version": 1.5
   },
-  "Znak70":{
-    "Stages":[
+  "Znak70": {
+    "name": "Znak70",
+    "mapTo": "Znak70",
+    "class": "Material",
+    "persistentId": "db141ae0-1e85-4418-825c-813928d8595f",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/PredkoscJakas.png",
-        "metallicFactor":0.508000016,
-        "roughnessFactor":0.79400003
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/PredkoscJakas.png",
+        "metallicFactor": 0.508000016,
+        "roughnessFactor": 0.79400003,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znak70",
-    "name":"Znak70",
-    "persistentId":"db141ae0-1e85-4418-825c-813928d8595f",
-    "version":1.5
+    "version": 1.5
   },
-  "Znak80":{
-    "Stages":[
+  "Znak80": {
+    "name": "Znak80",
+    "mapTo": "Znak80",
+    "class": "Material",
+    "persistentId": "1c03c9f4-1ff1-4f95-8dfa-6522a789dd21",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/OgraniczenieMniejsze.png",
-        "metallicFactor":0.492000014,
-        "roughnessFactor":0.866999984
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/OgraniczenieMniejsze.png",
+        "metallicFactor": 0.492000014,
+        "roughnessFactor": 0.866999984,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znak80",
-    "name":"Znak80",
-    "persistentId":"1c03c9f4-1ff1-4f95-8dfa-6522a789dd21",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka1":{
-    "Stages":[
+  "Znaka1": {
+    "name": "Znaka1",
+    "mapTo": "Znaka1",
+    "class": "Material",
+    "persistentId": "c4f34dad-40ff-40a2-9d3a-cec8eb076b4d",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A1.png",
-        "metallicFactor":0.492000014,
-        "roughnessFactor":0.897000015
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A1.png",
+        "metallicFactor": 0.492000014,
+        "roughnessFactor": 0.897000015,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka1",
-    "name":"Znaka1",
-    "persistentId":"c4f34dad-40ff-40a2-9d3a-cec8eb076b4d",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka10":{
-    "Stages":[
+  "Znaka10": {
+    "name": "Znaka10",
+    "mapTo": "Znaka10",
+    "class": "Material",
+    "persistentId": "d9c1d80a-49db-4b00-9a7f-134eaf2a4e23",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A10.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.870000005
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A10.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.870000005,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka10",
-    "name":"Znaka10",
-    "persistentId":"d9c1d80a-49db-4b00-9a7f-134eaf2a4e23",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka11a":{
-    "Stages":[
+  "Znaka11a": {
+    "name": "Znaka11a",
+    "mapTo": "Znaka11a",
+    "class": "Material",
+    "persistentId": "fdf755d6-c6a1-42ff-9477-b392af63d143",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A11a.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.879000008
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A11a.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.879000008,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka11a",
-    "name":"Znaka11a",
-    "persistentId":"fdf755d6-c6a1-42ff-9477-b392af63d143",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka16":{
-    "Stages":[
+  "Znaka16": {
+    "name": "Znaka16",
+    "mapTo": "Znaka16",
+    "class": "Material",
+    "persistentId": "49433769-f2a3-4fbc-88d6-dd4e27dd53c0",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A16.png",
-        "metallicFactor":0.499000013,
-        "roughnessFactor":0.870000005
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A16.png",
+        "metallicFactor": 0.499000013,
+        "roughnessFactor": 0.870000005,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka16",
-    "name":"Znaka16",
-    "persistentId":"49433769-f2a3-4fbc-88d6-dd4e27dd53c0",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka2":{
-    "Stages":[
+  "Znaka2": {
+    "name": "Znaka2",
+    "mapTo": "Znaka2",
+    "class": "Material",
+    "persistentId": "0c13f6a1-e6e6-4474-a53c-9f5b771e3a92",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A2.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.879000008
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A2.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.879000008,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka2",
-    "name":"Znaka2",
-    "persistentId":"0c13f6a1-e6e6-4474-a53c-9f5b771e3a92",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka22":{
-    "Stages":[
+  "Znaka22": {
+    "name": "Znaka22",
+    "mapTo": "Znaka22",
+    "class": "Material",
+    "persistentId": "ddb9d74c-ca7e-48a3-bfed-90acdf240e4d",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A22.jpg",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.874000013
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A22.jpg",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.874000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka22",
-    "name":"Znaka22",
-    "persistentId":"ddb9d74c-ca7e-48a3-bfed-90acdf240e4d",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka23":{
-    "Stages":[
+  "Znaka23": {
+    "name": "Znaka23",
+    "mapTo": "Znaka23",
+    "class": "Material",
+    "persistentId": "22739f8f-af46-4fd4-98ed-b89223c9f12c",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A23.png",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.851000011
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A23.png",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.851000011,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka23",
-    "name":"Znaka23",
-    "persistentId":"22739f8f-af46-4fd4-98ed-b89223c9f12c",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka24":{
-    "Stages":[
+  "Znaka24": {
+    "name": "Znaka24",
+    "mapTo": "Znaka24",
+    "class": "Material",
+    "persistentId": "c7357e30-98bf-4f81-9c2b-931c2f721075",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A24.png",
-        "metallicFactor":0.499000013,
-        "roughnessFactor":0.885999978
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A24.png",
+        "metallicFactor": 0.499000013,
+        "roughnessFactor": 0.885999978,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka24",
-    "name":"Znaka24",
-    "persistentId":"c7357e30-98bf-4f81-9c2b-931c2f721075",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka29":{
-    "Stages":[
+  "Znaka29": {
+    "name": "Znaka29",
+    "mapTo": "Znaka29",
+    "class": "Material",
+    "persistentId": "4fc71cbd-1714-4769-83d0-0ff44c753cfe",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A29.png",
-        "metallicFactor":0.486999989,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A29.png",
+        "metallicFactor": 0.486999989,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka29",
-    "name":"Znaka29",
-    "persistentId":"4fc71cbd-1714-4769-83d0-0ff44c753cfe",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka3":{
-    "Stages":[
+  "Znaka3": {
+    "name": "Znaka3",
+    "mapTo": "Znaka3",
+    "class": "Material",
+    "persistentId": "eff06635-47db-489b-8f54-f1dbfd402407",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A3.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.874000013
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A3.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.874000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka3",
-    "name":"Znaka3",
-    "persistentId":"eff06635-47db-489b-8f54-f1dbfd402407",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka31":{
-    "Stages":[
+  "Znaka31": {
+    "name": "Znaka31",
+    "mapTo": "Znaka31",
+    "class": "Material",
+    "persistentId": "916419fe-93c1-4660-9088-073a1dcb21bb",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A31.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.85799998
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A31.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.85799998,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka31",
-    "name":"Znaka31",
-    "persistentId":"916419fe-93c1-4660-9088-073a1dcb21bb",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka31L":{
-    "Stages":[
+  "Znaka31L": {
+    "name": "Znaka31L",
+    "mapTo": "Znaka31L",
+    "class": "Material",
+    "persistentId": "b067a885-c2d0-47dc-a70d-7b27bc49dbcf",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A31L.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.851000011
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A31L.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.851000011,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka31L",
-    "name":"Znaka31L",
-    "persistentId":"b067a885-c2d0-47dc-a70d-7b27bc49dbcf",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka4":{
-    "Stages":[
+  "Znaka4": {
+    "name": "Znaka4",
+    "mapTo": "Znaka4",
+    "class": "Material",
+    "persistentId": "eda0e6d9-d214-488d-b163-0b97bb017fa1",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A4.png",
-        "metallicFactor":0.513000011,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A4.png",
+        "metallicFactor": 0.513000011,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka4",
-    "name":"Znaka4",
-    "persistentId":"eda0e6d9-d214-488d-b163-0b97bb017fa1",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka6b":{
-    "Stages":[
+  "Znaka6b": {
+    "name": "Znaka6b",
+    "mapTo": "Znaka6b",
+    "class": "Material",
+    "persistentId": "61992ca3-1560-4912-ac9a-2b762307b878",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/a6b.jpg",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.875999987
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/a6b.jpg",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.875999987,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka6b",
-    "name":"Znaka6b",
-    "persistentId":"61992ca3-1560-4912-ac9a-2b762307b878",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka6c":{
-    "Stages":[
+  "Znaka6c": {
+    "name": "Znaka6c",
+    "mapTo": "Znaka6c",
+    "class": "Material",
+    "persistentId": "33583b64-cbe4-4195-88b3-755af06d283f",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/a6c.jpg",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.86500001
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/a6c.jpg",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.86500001,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka6c",
-    "name":"Znaka6c",
-    "persistentId":"33583b64-cbe4-4195-88b3-755af06d283f",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka7":{
-    "Stages":[
+  "Znaka7": {
+    "name": "Znaka7",
+    "mapTo": "Znaka7",
+    "class": "Material",
+    "persistentId": "8b79aa33-9b0a-4fb8-944a-9f8c5a46dc7c",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A7.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.883000016
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A7.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.883000016,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka7",
-    "name":"Znaka7",
-    "persistentId":"8b79aa33-9b0a-4fb8-944a-9f8c5a46dc7c",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaka9":{
-    "Stages":[
+  "Znaka9": {
+    "name": "Znaka9",
+    "mapTo": "Znaka9",
+    "class": "Material",
+    "persistentId": "b35a7d2a-3f0d-4ec6-a759-366c86b0175e",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A9.jpg",
-        "metallicFactor":0.508000016,
-        "roughnessFactor":0.851000011
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/A9.jpg",
+        "metallicFactor": 0.508000016,
+        "roughnessFactor": 0.851000011,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaka9",
-    "name":"Znaka9",
-    "persistentId":"b35a7d2a-3f0d-4ec6-a759-366c86b0175e",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb1":{
-    "Stages":[
+  "Znakb1": {
+    "name": "Znakb1",
+    "mapTo": "Znakb1",
+    "class": "Material",
+    "persistentId": "ead2a691-553b-413f-9d1e-b9a324520e8a",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B1.png",
-        "metallicFactor":0.49000001,
-        "roughnessFactor":0.860000014
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B1.png",
+        "metallicFactor": 0.49000001,
+        "roughnessFactor": 0.860000014,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb1",
-    "name":"Znakb1",
-    "persistentId":"ead2a691-553b-413f-9d1e-b9a324520e8a",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb2":{
-    "Stages":[
+  "Znakb2": {
+    "name": "Znakb2",
+    "mapTo": "Znakb2",
+    "class": "Material",
+    "persistentId": "9eddde84-ce3b-4727-be6e-61a669c0ac68",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B2.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B2.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb2",
-    "name":"Znakb2",
-    "persistentId":"9eddde84-ce3b-4727-be6e-61a669c0ac68",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb21":{
-    "Stages":[
+  "Znakb21": {
+    "name": "Znakb21",
+    "mapTo": "Znakb21",
+    "class": "Material",
+    "persistentId": "f5249730-aeb3-4150-a9b1-a8b4db0d5b83",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B21.png",
-        "metallicFactor":0.514999986,
-        "roughnessFactor":0.848999977
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B21.png",
+        "metallicFactor": 0.514999986,
+        "roughnessFactor": 0.848999977,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb21",
-    "name":"Znakb21",
-    "persistentId":"f5249730-aeb3-4150-a9b1-a8b4db0d5b83",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb22":{
-    "Stages":[
+  "Znakb22": {
+    "name": "Znakb22",
+    "mapTo": "Znakb22",
+    "class": "Material",
+    "persistentId": "885fe6ba-07f5-4217-90dc-acf4815a3816",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B22.png",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.883000016
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/428.png",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.883000016,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "version": 1.5
+  },
+  "Znakb23": {
+    "name": "Znakb23",
+    "mapTo": "Znakb23",
+    "class": "Material",
+    "persistentId": "110f3359-4282-4e28-a608-c362de448bee",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B23.png",
+        "metallicFactor": 0.493999988,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb22",
-    "name":"Znakb22",
-    "persistentId":"885fe6ba-07f5-4217-90dc-acf4815a3816",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb23":{
-    "Stages":[
+  "Znakb25": {
+    "name": "Znakb25",
+    "mapTo": "Znakb25",
+    "class": "Material",
+    "persistentId": "0fb0e2c6-f1e2-4f61-b6cc-55551e51e174",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B23.png",
-        "metallicFactor":0.493999988,
-        "roughnessFactor":0.871999979
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "mapTo":"Znakb23",
-    "name":"Znakb23",
-    "persistentId":"110f3359-4282-4e28-a608-c362de448bee",
-    "version":1.5
-  },
-  "Znakb25":{
-    "Stages":[
-      {
-        "baseColorFactor":[
+        "baseColorFactor": [
           1,
           0.999989986,
           0.999989986,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B25.png",
-        "metallicFactor":0.481000006,
-        "roughnessFactor":0.871999979,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B25.png",
+        "metallicFactor": 0.481000006,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb25",
-    "name":"Znakb25",
-    "persistentId":"0fb0e2c6-f1e2-4f61-b6cc-55551e51e174",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb31":{
-    "Stages":[
+  "Znakb31": {
+    "name": "Znakb31",
+    "mapTo": "Znakb31",
+    "class": "Material",
+    "persistentId": "b6f120c4-6142-40aa-850e-4c6c79a01f92",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B31.jpg",
-        "metallicFactor":0.499000013,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B31.jpg",
+        "metallicFactor": 0.499000013,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb31",
-    "name":"Znakb31",
-    "persistentId":"b6f120c4-6142-40aa-850e-4c6c79a01f92",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb35":{
-    "Stages":[
+  "Znakb35": {
+    "name": "Znakb35",
+    "mapTo": "Znakb35",
+    "class": "Material",
+    "persistentId": "11cc30d2-8d78-4e81-825f-535284802c4f",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B35.png",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.885999978
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B35.png",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.885999978,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb35",
-    "name":"Znakb35",
-    "persistentId":"11cc30d2-8d78-4e81-825f-535284802c4f",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb36":{
-    "Stages":[
+  "Znakb36": {
+    "name": "Znakb36",
+    "mapTo": "Znakb36",
+    "class": "Material",
+    "persistentId": "63a91c76-574a-4048-b76e-55a0cbb3c6a2",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B36.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.860000014
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B36.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.860000014,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakb36",
-    "name":"Znakb36",
-    "persistentId":"63a91c76-574a-4048-b76e-55a0cbb3c6a2",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakb42":{
-    "Stages":[
+  "Znakb42": {
+    "name": "Znakb42",
+    "mapTo": "Znakb42",
+    "class": "Material",
+    "persistentId": "b6f120c4-6142-40aa-850e-4c6c79a01f92",
+    "Stages": [
       {
-        "colorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B42.png"
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/B42.png"
       },
       {},
       {},
       {}
-    ],
-    "class":"Material",
-    "mapTo":"Znakb42",
-    "name":"Znakb42",
-    "persistentId":"b6f120c4-6142-40aa-850e-4c6c79a01f92"
+    ]
   },
-  "Znakc10":{
-    "Stages":[
+  "Znakc10": {
+    "name": "Znakc10",
+    "mapTo": "Znakc10",
+    "class": "Material",
+    "persistentId": "243e053b-9f0c-411f-b38f-ea5179b895f1",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorFactor": [
           0.905882001,
           0.952941,
           1,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C10.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.788999975,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C10.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.788999975,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc10",
-    "name":"Znakc10",
-    "persistentId":"243e053b-9f0c-411f-b38f-ea5179b895f1",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc12":{
-    "Stages":[
+  "Znakc2": {
+    "name": "Znakc2",
+    "mapTo": "Znakc2",
+    "class": "Material",
+    "persistentId": "698d963b-ce11-4adc-a871-588b820c717b",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C12.png",
-        "metallicFactor":0.493999988,
-        "roughnessFactor":0.866999984
-      },
-      {},
-      {},
-      {}
-    ],
-    "class":"Material",
-    "mapTo":"Znakc12",
-    "name":"Znakc12",
-    "persistentId":"be7ca19b-02f2-44ab-bdf4-c2fdffbc1afe",
-    "version":1.5
-  },
-  "Znakc2":{
-    "Stages":[
-      {
-        "baseColorFactor":[
+        "baseColorFactor": [
           0.785772979,
           0.870675027,
           0.955576003,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C2.png",
-        "metallicFactor":0.493999988,
-        "roughnessFactor":0.853999972,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C2.png",
+        "metallicFactor": 0.493999988,
+        "roughnessFactor": 0.853999972,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc2",
-    "name":"Znakc2",
-    "persistentId":"698d963b-ce11-4adc-a871-588b820c717b",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc4":{
-    "Stages":[
+  "Znakc4": {
+    "name": "Znakc4",
+    "mapTo": "Znakc4",
+    "class": "Material",
+    "persistentId": "9eca8de1-ff53-4b38-87b1-0ea005db1f68",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C4.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.883000016
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C4.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.883000016,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc4",
-    "name":"Znakc4",
-    "persistentId":"9eca8de1-ff53-4b38-87b1-0ea005db1f68",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc5":{
-    "Stages":[
+  "Znakc5": {
+    "name": "Znakc5",
+    "mapTo": "Znakc5",
+    "class": "Material",
+    "persistentId": "03695c40-8434-4cad-989b-57689d41e44b",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorFactor": [
           0.780349016,
           0.852199018,
           0.960511982,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C5.png",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.85799998,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C5.png",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.85799998,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc5",
-    "name":"Znakc5",
-    "persistentId":"03695c40-8434-4cad-989b-57689d41e44b",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc6":{
-    "Stages":[
+  "Znakc6": {
+    "name": "Znakc6",
+    "mapTo": "Znakc6",
+    "class": "Material",
+    "persistentId": "2e8b6978-f004-4781-af87-dc01d2693e0b",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C6.png",
-        "metallicFactor":0.50999999,
-        "roughnessFactor":0.862999976
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C6.png",
+        "metallicFactor": 0.50999999,
+        "roughnessFactor": 0.862999976,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc6",
-    "name":"Znakc6",
-    "persistentId":"2e8b6978-f004-4781-af87-dc01d2693e0b",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc7":{
-    "Stages":[
+  "Znakc7": {
+    "name": "Znakc7",
+    "mapTo": "Znakc7",
+    "class": "Material",
+    "persistentId": "14b4410d-4dba-4260-b7af-517559c91961",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C7.png",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.851000011
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C7.png",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.851000011,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc7",
-    "name":"Znakc7",
-    "persistentId":"14b4410d-4dba-4260-b7af-517559c91961",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc8":{
-    "Stages":[
+  "Znakc8": {
+    "name": "Znakc8",
+    "mapTo": "Znakc8",
+    "class": "Material",
+    "persistentId": "27f37861-62d2-48fe-aa06-35ed2f32c084",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C8.png",
-        "metallicFactor":0.493999988,
-        "roughnessFactor":0.870000005
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C8.png",
+        "metallicFactor": 0.493999988,
+        "roughnessFactor": 0.870000005,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc8",
-    "name":"Znakc8",
-    "persistentId":"27f37861-62d2-48fe-aa06-35ed2f32c084",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakc9":{
-    "Stages":[
+  "Znakc9": {
+    "name": "Znakc9",
+    "mapTo": "Znakc9",
+    "class": "Material",
+    "persistentId": "a2c1cb57-2052-4e22-bcf6-b137b02cea34",
+    "Stages": [
       {
-        "baseColorFactor":[
+        "baseColorFactor": [
           0.906215012,
           0.953108013,
           1,
           1
         ],
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C9.png",
-        "metallicFactor":0.499000013,
-        "metallicMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "roughnessFactor":0.776000023,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/C9.png",
+        "metallicFactor": 0.499000013,
+        "metallicMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
+        "roughnessFactor": 0.776000023,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakc9",
-    "name":"Znakc9",
-    "persistentId":"a2c1cb57-2052-4e22-bcf6-b137b02cea34",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd15":{
-    "Stages":[
+  "Znakd15": {
+    "name": "Znakd15",
+    "mapTo": "Znakd15",
+    "class": "Material",
+    "persistentId": "9b4ac0cf-4360-4c8d-a5ea-c802a9d18bf1",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D15.jpg",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.85799998
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D15.jpg",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.85799998,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd15",
-    "name":"Znakd15",
-    "persistentId":"9b4ac0cf-4360-4c8d-a5ea-c802a9d18bf1",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd18":{
-    "Stages":[
+  "Znakd18": {
+    "name": "Znakd18",
+    "mapTo": "Znakd18",
+    "class": "Material",
+    "persistentId": "1a01a32d-4dad-4b26-b762-dae5add19200",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D18.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.879000008
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D18.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.879000008,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd18",
-    "name":"Znakd18",
-    "persistentId":"1a01a32d-4dad-4b26-b762-dae5add19200",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd2":{
-    "Stages":[
+  "Znakd2": {
+    "name": "Znakd2",
+    "mapTo": "Znakd2",
+    "class": "Material",
+    "persistentId": "0ffd10ca-e11b-4ee8-a684-d781f74dc398",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D2.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.879000008
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D2.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.879000008,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd2",
-    "name":"Znakd2",
-    "persistentId":"0ffd10ca-e11b-4ee8-a684-d781f74dc398",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd21":{
-    "Stages":[
+  "Znakd21": {
+    "name": "Znakd21",
+    "mapTo": "Znakd21",
+    "class": "Material",
+    "persistentId": "df8d8b98-d517-42f0-b3c5-32a6e96697e0",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D21.jpg",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.796000004
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D21.jpg",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.796000004,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd21",
-    "name":"Znakd21",
-    "persistentId":"df8d8b98-d517-42f0-b3c5-32a6e96697e0",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd23":{
-    "Stages":[
+  "Znakd23": {
+    "name": "Znakd23",
+    "mapTo": "Znakd23",
+    "class": "Material",
+    "persistentId": "f1d8f3d6-9ca4-4c67-b47c-5dfb8374d2b5",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D23.png",
-        "metallicFactor":0.499000013,
-        "roughnessFactor":0.779999971
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D23.png",
+        "metallicFactor": 0.499000013,
+        "roughnessFactor": 0.779999971,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd23",
-    "name":"Znakd23",
-    "persistentId":"f1d8f3d6-9ca4-4c67-b47c-5dfb8374d2b5",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd3":{
-    "Stages":[
+  "Znakd3": {
+    "name": "Znakd3",
+    "mapTo": "Znakd3",
+    "class": "Material",
+    "persistentId": "c2aafbba-cfca-4241-9aea-fbeee2f99fc6",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D3.png",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.838
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D3.png",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.838,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd3",
-    "name":"Znakd3",
-    "persistentId":"c2aafbba-cfca-4241-9aea-fbeee2f99fc6",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd30":{
-    "Stages":[
+  "Znakd30": {
+    "name": "Znakd30",
+    "mapTo": "Znakd30",
+    "class": "Material",
+    "persistentId": "bfd79edc-69f5-4b83-a021-a024e65753e5",
+    "Stages": [
       {
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D30.png",
-        "metallicFactor":0.503000021,
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D30.png",
+        "metallicFactor": 0.503000021,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd30",
-    "name":"Znakd30",
-    "persistentId":"bfd79edc-69f5-4b83-a021-a024e65753e5",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd32":{
-    "Stages":[
+  "Znakd32": {
+    "name": "Znakd32",
+    "mapTo": "Znakd32",
+    "class": "Material",
+    "persistentId": "4fdbee97-2c83-4ee1-be48-f3589c5073bc",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D32.png",
-        "metallicFactor":0.492000014,
-        "roughnessFactor":0.874000013
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D32.png",
+        "metallicFactor": 0.492000014,
+        "roughnessFactor": 0.874000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd32",
-    "name":"Znakd32",
-    "persistentId":"4fdbee97-2c83-4ee1-be48-f3589c5073bc",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd40":{
-    "Stages":[
+  "Znakd40": {
+    "name": "Znakd40",
+    "mapTo": "Znakd40",
+    "class": "Material",
+    "persistentId": "5b306ffb-c6a3-4c18-bc22-a48122ae931f",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D40.png",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.874000013
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D40.png",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.874000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd40",
-    "name":"Znakd40",
-    "persistentId":"5b306ffb-c6a3-4c18-bc22-a48122ae931f",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd41":{
-    "Stages":[
+  "Znakd41": {
+    "name": "Znakd41",
+    "mapTo": "Znakd41",
+    "class": "Material",
+    "persistentId": "c8c70535-4202-4b77-b947-968a0f976c08",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D41.jpg",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D41.jpg",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd41",
-    "name":"Znakd41",
-    "persistentId":"c8c70535-4202-4b77-b947-968a0f976c08",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd6":{
-    "Stages":[
+  "Znakd6b": {
+    "name": "Znakd6b",
+    "mapTo": "Znakd6b",
+    "class": "Material",
+    "persistentId": "6cd1ef7e-303c-4aa3-bf87-454d797e06e2",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D6.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.879000008
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D6b.png",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd6",
-    "name":"Znakd6",
-    "persistentId":"bc5700ac-1694-40f8-9a1b-401ba18d7a9f",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakd6b":{
-    "Stages":[
+  "Znakg1a": {
+    "name": "Znakg1a",
+    "mapTo": "Znakg1a",
+    "class": "Material",
+    "persistentId": "ce5eb3b6-02ee-4f68-b732-f09a311e46f8",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/D6b.png",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1A.jpg",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.796000004,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakd6b",
-    "name":"Znakd6b",
-    "persistentId":"6cd1ef7e-303c-4aa3-bf87-454d797e06e2",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakg1a":{
-    "Stages":[
+  "Znakg1b": {
+    "name": "Znakg1b",
+    "mapTo": "Znakg1b",
+    "class": "Material",
+    "persistentId": "d67ef54a-e3b2-4854-b245-21b259ec6c64",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1A.jpg",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.796000004
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1b.png",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.771000028,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakg1a",
-    "name":"Znakg1a",
-    "persistentId":"ce5eb3b6-02ee-4f68-b732-f09a311e46f8",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakg1b":{
-    "Stages":[
+  "Znakg1c": {
+    "name": "Znakg1c",
+    "mapTo": "Znakg1c",
+    "class": "Material",
+    "persistentId": "856aada1-d611-45ad-85a2-642cda5551f6",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1b.png",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.771000028
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1c.png",
+        "metallicFactor": 0.503000021,
+        "roughnessFactor": 0.763999999,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakg1b",
-    "name":"Znakg1b",
-    "persistentId":"d67ef54a-e3b2-4854-b245-21b259ec6c64",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakg1c":{
-    "Stages":[
+  "Znakg1d": {
+    "name": "Znakg1d",
+    "mapTo": "Znakg1d",
+    "class": "Material",
+    "persistentId": "b0954773-3e31-4102-96ba-439e2b1ca94b",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1c.png",
-        "metallicFactor":0.503000021,
-        "roughnessFactor":0.763999999
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1d.jpg",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.79400003,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakg1c",
-    "name":"Znakg1c",
-    "persistentId":"856aada1-d611-45ad-85a2-642cda5551f6",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakg1d":{
-    "Stages":[
+  "Znakg1e": {
+    "name": "Znakg1e",
+    "mapTo": "Znakg1e",
+    "class": "Material",
+    "persistentId": "d0abbb42-e9fc-4d50-9627-6b31fb454cdb",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1d.jpg",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.79400003
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/g1e.jpg",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.779999971,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakg1d",
-    "name":"Znakg1d",
-    "persistentId":"b0954773-3e31-4102-96ba-439e2b1ca94b",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakg1e":{
-    "Stages":[
+  "Znakg1f": {
+    "name": "Znakg1f",
+    "mapTo": "Znakg1f",
+    "class": "Material",
+    "persistentId": "b19f4641-b8ff-4614-82bc-6823453d5025",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/g1e.jpg",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.779999971
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1f.png",
+        "metallicFactor": 0.485000014,
+        "roughnessFactor": 0.788999975,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakg1e",
-    "name":"Znakg1e",
-    "persistentId":"d0abbb42-e9fc-4d50-9627-6b31fb454cdb",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakg1f":{
-    "Stages":[
+  "Znakt6b": {
+    "name": "Znakt6b",
+    "mapTo": "Znakt6b",
+    "class": "Material",
+    "persistentId": "f43e9f87-4211-4994-b87e-14d6c973262f",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/G1f.png",
-        "metallicFactor":0.485000014,
-        "roughnessFactor":0.788999975
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/T6b.png",
+        "metallicFactor": 0.500999987,
+        "roughnessFactor": 0.874000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakg1f",
-    "name":"Znakg1f",
-    "persistentId":"b19f4641-b8ff-4614-82bc-6823453d5025",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakt6b":{
-    "Stages":[
+  "Znakt6b2": {
+    "name": "Znakt6b2",
+    "mapTo": "Znakt6b2",
+    "class": "Material",
+    "persistentId": "41a8fa2c-3a6a-4a86-9fff-7969d6affa67",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/T6b.png",
-        "metallicFactor":0.500999987,
-        "roughnessFactor":0.874000013
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/TB6Inny.jpg",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.871999979,
+        "roughnessMap": "/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakt6b",
-    "name":"Znakt6b",
-    "persistentId":"f43e9f87-4211-4994-b87e-14d6c973262f",
-    "version":1.5
+    "version": 1.5
   },
-  "Znakt6b2":{
-    "Stages":[
+  "Znaku3a": {
+    "name": "Znaku3a",
+    "mapTo": "Znaku3a",
+    "class": "Material",
+    "persistentId": "87033d35-94c7-4323-b691-ebc46073c26b",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_V2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/TB6Inny.jpg",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.871999979
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/U3A.png",
+        "metallicFactor": 0.497000009,
+        "roughnessFactor": 0.897000015,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/chodnik_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znakt6b2",
-    "name":"Znakt6b2",
-    "persistentId":"41a8fa2c-3a6a-4a86-9fff-7969d6affa67",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaku3a":{
-    "Stages":[
+  "Znaku3b": {
+    "name": "Znaku3b",
+    "mapTo": "Znaku3b",
+    "class": "Material",
+    "persistentId": "19321d2c-ae81-43b8-ad72-30fcfcbcf6c3",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/chodnik_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/U3A.png",
-        "metallicFactor":0.497000009,
-        "roughnessFactor":0.897000015
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/U3B.png",
+        "metallicFactor": 0.505999982,
+        "roughnessFactor": 0.897000015,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/chodnik_r.png"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaku3a",
-    "name":"Znaku3a",
-    "persistentId":"87033d35-94c7-4323-b691-ebc46073c26b",
-    "version":1.5
+    "version": 1.5
   },
-  "Znaku3b":{
-    "Stages":[
+  "znak-303": {
+    "name": "znak-303",
+    "mapTo": "znak-303",
+    "class": "Material",
+    "persistentId": "49320054-fa6c-4028-ac78-922317168609",
+    "Stages": [
       {
-        "roughnessMap":"/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/chodnik_r.png",
-        "baseColorMap":"/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/U3B.png",
-        "metallicFactor":0.505999982,
-        "roughnessFactor":0.897000015
+        "baseColorFactor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_d.dds",
+        "detailNormalMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
+        "detailNormalMapStrength": 3,
+        "metallicFactor": 0.505999982,
+        "normalMap": "/levels/polish_roads_v2/From_italy/italy_bld_metal_n.dds",
+        "normalMapStrength": 3,
+        "roughnessFactor": 0.911000013,
+        "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/eca_bld_cleanmetal_r.dds"
       },
       {},
       {},
       {}
     ],
-    "class":"Material",
-    "mapTo":"Znaku3b",
-    "name":"Znaku3b",
-    "persistentId":"19321d2c-ae81-43b8-ad72-30fcfcbcf6c3",
-    "version":1.5
+    "dynamicCubemap": true,
+    "version": 1.5
   }
 }
