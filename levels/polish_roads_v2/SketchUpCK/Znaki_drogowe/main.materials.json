@@ -168,7 +168,9 @@
     "mapTo": "Sign-104",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_104.png"
+      },
       {},
       {},
       {}
