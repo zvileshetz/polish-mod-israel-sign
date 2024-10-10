@@ -129,7 +129,9 @@
     "mapTo": "Sign-101",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_101-1.png"
+      },
       {},
       {},
       {}
@@ -140,7 +142,9 @@
     "mapTo": "Sign-102",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_102.png"
+      },
       {},
       {},
       {}
@@ -151,7 +155,9 @@
     "mapTo": "Sign-103",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_103.png"
+      },
       {},
       {},
       {}
@@ -349,7 +355,9 @@
     "mapTo": "Sign-122",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_122.png"
+      },
       {},
       {},
       {}
@@ -360,7 +368,9 @@
     "mapTo": "Sign-123",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/123.png"
+      },
       {},
       {},
       {}
@@ -371,7 +381,9 @@
     "mapTo": "Sign-124",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/124.png"
+      },
       {},
       {},
       {}
@@ -437,7 +449,9 @@
     "mapTo": "Sign-129",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/129.png"
+      },
       {},
       {},
       {}
@@ -503,7 +517,9 @@
     "mapTo": "Sign-135",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/135.png"
+      },
       {},
       {},
       {}
@@ -547,7 +563,9 @@
     "mapTo": "Sign-140",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/140.png"
+      },
       {},
       {},
       {}
@@ -591,7 +609,9 @@
     "mapTo": "Sign-144",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/144.png"
+      },
       {},
       {},
       {}
@@ -713,7 +733,7 @@
     "class": "Material",
     "Stages": [
       {
-        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/104.png"
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_104.png"
       },
       {},
       {},
