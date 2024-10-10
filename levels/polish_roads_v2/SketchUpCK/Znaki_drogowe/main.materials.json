@@ -707,6 +707,370 @@
       {}
     ]
   },
+  "Sign-201": {
+    "name": "Sign-201",
+    "mapTo": "Sign-201",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_201.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-202": {
+    "name": "Sign-202",
+    "mapTo": "Sign-202",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_202.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-203": {
+    "name": "Sign-203",
+    "mapTo": "Sign-203",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_203.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-204": {
+    "name": "Sign-204",
+    "mapTo": "Sign-204",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_204.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-205": {
+    "name": "Sign-205",
+    "mapTo": "Sign-205",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_205.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-206": {
+    "name": "Sign-206",
+    "mapTo": "Sign-206",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_206.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-207": {
+    "name": "Sign-207",
+    "mapTo": "Sign-207",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_207.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-208": {
+    "name": "Sign-208",
+    "mapTo": "Sign-208",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_208.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-209": {
+    "name": "Sign-209",
+    "mapTo": "Sign-209",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_209.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-210": {
+    "name": "Sign-210",
+    "mapTo": "Sign-210",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_210.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-211": {
+    "name": "Sign-211",
+    "mapTo": "Sign-211",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_211.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-212": {
+    "name": "Sign-212",
+    "mapTo": "Sign-212",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_212.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-213": {
+    "name": "Sign-213",
+    "mapTo": "Sign-213",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_213.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-214": {
+    "name": "Sign-214",
+    "mapTo": "Sign-214",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_214.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-215": {
+    "name": "Sign-215",
+    "mapTo": "Sign-215",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_215.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-216": {
+    "name": "Sign-216",
+    "mapTo": "Sign-216",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_216.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-217": {
+    "name": "Sign-217",
+    "mapTo": "Sign-217",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_217.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-218": {
+    "name": "Sign-218",
+    "mapTo": "Sign-218",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_218.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-219": {
+    "name": "Sign-219",
+    "mapTo": "Sign-219",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_219.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-220": {
+    "name": "Sign-220",
+    "mapTo": "Sign-220",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_220.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-223": {
+    "name": "Sign-223",
+    "mapTo": "Sign-223",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_223.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-224": {
+    "name": "Sign-224",
+    "mapTo": "Sign-224",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_224.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-225": {
+    "name": "Sign-225",
+    "mapTo": "Sign-225",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_225.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-226": {
+    "name": "Sign-226",
+    "mapTo": "Sign-226",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_226.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-227": {
+    "name": "Sign-227",
+    "mapTo": "Sign-227",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_227.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-228": {
+    "name": "Sign-228",
+    "mapTo": "Sign-228",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_228.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-229": {
+    "name": "Sign-229",
+    "mapTo": "Sign-229",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_229.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-230_a": {
+    "name": "Sign-230_a",
+    "mapTo": "Sign-230_a",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_230a.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
   "Sign-303": {
     "name": "Sign-303",
     "mapTo": "Sign-303",
