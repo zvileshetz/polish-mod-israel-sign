@@ -124,6 +124,578 @@
     ],
     "version": 1.5
   },
+  "Sign-101": {
+    "name": "Sign-101",
+    "mapTo": "Sign-101",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-102": {
+    "name": "Sign-102",
+    "mapTo": "Sign-102",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-103": {
+    "name": "Sign-103",
+    "mapTo": "Sign-103",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-104": {
+    "name": "Sign-104",
+    "mapTo": "Sign-104",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-106": {
+    "name": "Sign-106",
+    "mapTo": "Sign-106",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-107": {
+    "name": "Sign-107",
+    "mapTo": "Sign-107",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-108": {
+    "name": "Sign-108",
+    "mapTo": "Sign-108",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-109": {
+    "name": "Sign-109",
+    "mapTo": "Sign-109",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-110": {
+    "name": "Sign-110",
+    "mapTo": "Sign-110",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-111": {
+    "name": "Sign-111",
+    "mapTo": "Sign-111",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-112": {
+    "name": "Sign-112",
+    "mapTo": "Sign-112",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-113": {
+    "name": "Sign-113",
+    "mapTo": "Sign-113",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-114": {
+    "name": "Sign-114",
+    "mapTo": "Sign-114",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-115": {
+    "name": "Sign-115",
+    "mapTo": "Sign-115",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-116": {
+    "name": "Sign-116",
+    "mapTo": "Sign-116",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-117": {
+    "name": "Sign-117",
+    "mapTo": "Sign-117",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-118": {
+    "name": "Sign-118",
+    "mapTo": "Sign-118",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-119": {
+    "name": "Sign-119",
+    "mapTo": "Sign-119",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-120": {
+    "name": "Sign-120",
+    "mapTo": "Sign-120",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-121": {
+    "name": "Sign-121",
+    "mapTo": "Sign-121",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-122": {
+    "name": "Sign-122",
+    "mapTo": "Sign-122",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-123": {
+    "name": "Sign-123",
+    "mapTo": "Sign-123",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-124": {
+    "name": "Sign-124",
+    "mapTo": "Sign-124",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-125": {
+    "name": "Sign-125",
+    "mapTo": "Sign-125",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-126": {
+    "name": "Sign-126",
+    "mapTo": "Sign-126",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-127": {
+    "name": "Sign-127",
+    "mapTo": "Sign-127",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-127_p": {
+    "name": "Sign-127_p",
+    "mapTo": "Sign-127_p",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-128": {
+    "name": "Sign-128",
+    "mapTo": "Sign-128",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-129": {
+    "name": "Sign-129",
+    "mapTo": "Sign-129",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-130": {
+    "name": "Sign-130",
+    "mapTo": "Sign-130",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-131": {
+    "name": "Sign-131",
+    "mapTo": "Sign-131",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-132": {
+    "name": "Sign-132",
+    "mapTo": "Sign-132",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-133": {
+    "name": "Sign-133",
+    "mapTo": "Sign-133",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-134": {
+    "name": "Sign-134",
+    "mapTo": "Sign-134",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-135": {
+    "name": "Sign-135",
+    "mapTo": "Sign-135",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-136": {
+    "name": "Sign-136",
+    "mapTo": "Sign-136",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-137": {
+    "name": "Sign-137",
+    "mapTo": "Sign-137",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-139": {
+    "name": "Sign-139",
+    "mapTo": "Sign-139",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-140": {
+    "name": "Sign-140",
+    "mapTo": "Sign-140",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-141": {
+    "name": "Sign-141",
+    "mapTo": "Sign-141",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-142": {
+    "name": "Sign-142",
+    "mapTo": "Sign-142",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-143": {
+    "name": "Sign-143",
+    "mapTo": "Sign-143",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-144": {
+    "name": "Sign-144",
+    "mapTo": "Sign-144",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-145": {
+    "name": "Sign-145",
+    "mapTo": "Sign-145",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-146": {
+    "name": "Sign-146",
+    "mapTo": "Sign-146",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-147": {
+    "name": "Sign-147",
+    "mapTo": "Sign-147",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-148": {
+    "name": "Sign-148",
+    "mapTo": "Sign-148",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-149": {
+    "name": "Sign-149",
+    "mapTo": "Sign-149",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-150": {
+    "name": "Sign-150",
+    "mapTo": "Sign-150",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-151": {
+    "name": "Sign-151",
+    "mapTo": "Sign-151",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-151_p": {
+    "name": "Sign-151_p",
+    "mapTo": "Sign-151_p",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-303": {
+    "name": "Sign-303",
+    "mapTo": "Sign-303",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
   "Znak-103": {
     "name": "Znak-103",
     "mapTo": "Znak-103",
