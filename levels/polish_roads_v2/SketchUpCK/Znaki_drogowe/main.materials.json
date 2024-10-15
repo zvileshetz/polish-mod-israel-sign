@@ -176,6 +176,19 @@
       {}
     ]
   },
+  "Sign-105": {
+    "name": "Sign-105",
+    "mapTo": "Sign-105",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_105.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
   "Sign-106": {
     "name": "Sign-106",
     "mapTo": "Sign-106",
@@ -874,18 +887,6 @@
       {},
       {}
     ]
-  },  "Sign-105": {
-    "name": "Sign-105",
-    "mapTo": "Sign-105",
-    "class": "Material",
-    "Stages": [
-      {
-        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/1XX-Warning Signs/Israel_road_sign_105.png"
-      },
-      {},
-      {},
-      {}
-    ]
   },
   "Sign-210": {
     "name": "Sign-210",
@@ -894,19 +895,6 @@
     "Stages": [
       {
         "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_210.svg.png"
-      },
-      {},
-      {},
-      {}
-    ]
-  },
-  "Sign-221": {
-    "name": "Sign-221",
-    "mapTo": "Sign-221",
-    "class": "Material",
-    "Stages": [
-      {
-        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_221.svg.png"
       },
       {},
       {},
@@ -1069,6 +1057,32 @@
       {}
     ]
   },
+  "Sign-221": {
+    "name": "Sign-221",
+    "mapTo": "Sign-221",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_221.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-222": {
+    "name": "Sign-222",
+    "mapTo": "Sign-222",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/2XX-instructions signs/Israel_road_sign_222.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
   "Sign-223": {
     "name": "Sign-223",
     "mapTo": "Sign-223",
@@ -1176,6 +1190,502 @@
   "Sign-303": {
     "name": "Sign-303",
     "mapTo": "Sign-303",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-401": {
+    "name": "Sign-401",
+    "mapTo": "Sign-401",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_401.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-402": {
+    "name": "Sign-402",
+    "mapTo": "Sign-402",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_402.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-403": {
+    "name": "Sign-403",
+    "mapTo": "Sign-403",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_403.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-404": {
+    "name": "Sign-404",
+    "mapTo": "Sign-404",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_404.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-405": {
+    "name": "Sign-405",
+    "mapTo": "Sign-405",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_405.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-406": {
+    "name": "Sign-406",
+    "mapTo": "Sign-406",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-408": {
+    "name": "Sign-408",
+    "mapTo": "Sign-408",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_408.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-409": {
+    "name": "Sign-409",
+    "mapTo": "Sign-409",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_409.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-410": {
+    "name": "Sign-410",
+    "mapTo": "Sign-410",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_410.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-411": {
+    "name": "Sign-411",
+    "mapTo": "Sign-411",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_411.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-412": {
+    "name": "Sign-412",
+    "mapTo": "Sign-412",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_412.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-413": {
+    "name": "Sign-413",
+    "mapTo": "Sign-413",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_413.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-414": {
+    "name": "Sign-414",
+    "mapTo": "Sign-414",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_414.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-415": {
+    "name": "Sign-415",
+    "mapTo": "Sign-415",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_415.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-416": {
+    "name": "Sign-416",
+    "mapTo": "Sign-416",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_416.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-417": {
+    "name": "Sign-417",
+    "mapTo": "Sign-417",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_417.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-418": {
+    "name": "Sign-418",
+    "mapTo": "Sign-418",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_418.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-419": {
+    "name": "Sign-419",
+    "mapTo": "Sign-419",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_419.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-420": {
+    "name": "Sign-420",
+    "mapTo": "Sign-420",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_420.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-421": {
+    "name": "Sign-421",
+    "mapTo": "Sign-421",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_421.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-424": {
+    "name": "Sign-424",
+    "mapTo": "Sign-424",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_424.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-30": {
+    "name": "Sign-426-30",
+    "mapTo": "Sign-426-30",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-30.jpg"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-40": {
+    "name": "Sign-426-40",
+    "mapTo": "Sign-426-40",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-40.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-60": {
+    "name": "Sign-426-60",
+    "mapTo": "Sign-426-60",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-60.jpg"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-70": {
+    "name": "Sign-426-70",
+    "mapTo": "Sign-426-70",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-70.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-80": {
+    "name": "Sign-426-80",
+    "mapTo": "Sign-426-80",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-80.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-90": {
+    "name": "Sign-426-90",
+    "mapTo": "Sign-426-90",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },  
+  "Sign-425": {
+    "name": "Sign-425",
+    "mapTo": "Sign-425",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_425.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-100": {
+    "name": "Sign-426-100",
+    "mapTo": "Sign-426-100",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-100.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-426-50": {
+    "name": "Sign-426-50",
+    "mapTo": "Sign-426-50",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_426-50.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-427-50": {
+    "name": "Sign-427-50",
+    "mapTo": "Sign-427-50",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-428": {
+    "name": "Sign-428",
+    "mapTo": "Sign-428",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-429": {
+    "name": "Sign-429",
+    "mapTo": "Sign-429",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-430": {
+    "name": "Sign-430",
+    "mapTo": "Sign-430",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-431": {
+    "name": "Sign-431",
+    "mapTo": "Sign-431",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-432": {
+    "name": "Sign-432",
+    "mapTo": "Sign-432",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-433": {
+    "name": "Sign-433",
+    "mapTo": "Sign-433",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-434": {
+    "name": "Sign-434",
+    "mapTo": "Sign-434",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-437": {
+    "name": "Sign-437",
+    "mapTo": "Sign-437",
+    "class": "Material",
+    "Stages": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-439": {
+    "name": "Sign-439",
+    "mapTo": "Sign-439",
     "class": "Material",
     "Stages": [
       {},
@@ -1867,9 +2377,18 @@
         "roughnessFactor": 0.879000008,
         "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
-      {},
-      {},
-      {}
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "metallicFactor": null,
+        "roughnessFactor": null
+      }
     ],
     "version": 1.5
   },
@@ -2319,21 +2838,25 @@
     "persistentId": "885fe6ba-07f5-4217-90dc-acf4815a3816",
     "Stages": [
       {
-        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/428.png",
-        "metallicFactor": 0.503000021,
-        "roughnessFactor": 0.883000016,
+        "baseColorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_428.svg.png",
+        "metallicFactor": 0.411000013,
+        "opacityFactor": 0.866999984,
+        "roughnessFactor": 0.179000005,
         "roughnessMap": "/levels/polish_roads_v2/From_east_coast_usa/shapes/buildings/universal_strogner_r.png"
       },
       {
         "metallicFactor": null,
+        "opacityFactor": null,
         "roughnessFactor": null
       },
       {
         "metallicFactor": null,
+        "opacityFactor": null,
         "roughnessFactor": null
       },
       {
         "metallicFactor": null,
+        "opacityFactor": null,
         "roughnessFactor": null
       }
     ],
