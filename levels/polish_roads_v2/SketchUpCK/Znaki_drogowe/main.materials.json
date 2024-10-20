@@ -1179,7 +1179,126 @@
     "mapTo": "Sign-303",
     "class": "Material",
     "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_303.svg.png"
+      },
       {},
+      {},
+      {}
+    ]
+  },
+  "Sign-304": {
+    "name": "Sign-304",
+    "mapTo": "Sign-304",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_304.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-304_down": {
+    "name": "Sign-304_down",
+    "mapTo": "Sign-304_down",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_304.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-305": {
+    "name": "Sign-305",
+    "mapTo": "Sign-305",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_305.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-305_down": {
+    "name": "Sign-305_down",
+    "mapTo": "Sign-305_down",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_305.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-306": {
+    "name": "Sign-306",
+    "mapTo": "Sign-306",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_306.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-307": {
+    "name": "Sign-307",
+    "mapTo": "Sign-307",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_307.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-308": {
+    "name": "Sign-308",
+    "mapTo": "Sign-308",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_308.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-309": {
+    "name": "Sign-309",
+    "mapTo": "Sign-309",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_309.svg.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Sign-310": {
+    "name": "Sign-310",
+    "mapTo": "Sign-310",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/3XX-Give way signs/Israel_road_sign_310.svg.png"
+      },
       {},
       {},
       {}
