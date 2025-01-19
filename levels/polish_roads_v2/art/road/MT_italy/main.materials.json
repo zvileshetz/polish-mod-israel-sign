@@ -1,0 +1,2266 @@
+{
+  "m_asphalt_pothole_decal": {
+    "name": "m_asphalt_pothole_decal",
+    "mapTo": "m_asphalt_pothole_decal",
+    "class": "Material",
+    "persistentId": "857b3680-7724-4d7f-b878-850886be21cc",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_pothole_decal_ao.data.png",
+        "baseColorMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_pothole_decal_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_pothole_decal_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_pothole_decal_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_pothole_decal_r.data.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "beamng",
+    "materialTag1": "decal",
+    "materialTag2": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_asphalt_repair_patch_decal": {
+    "name": "m_asphalt_repair_patch_decal",
+    "mapTo": "m_asphalt_repair_patch_decal",
+    "class": "Material",
+    "persistentId": "756e6bc2-767f-4e8f-8a0e-a9cc1898bd95",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_repair_patch_decal_ao.data.png",
+        "baseColorFactor": [
+          0.883816004,
+          0.883807003,
+          0.883807003,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_repair_patch_decal_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailScale": [
+          4,
+          4
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_repair_patch_decal_nm.normal.png",
+        "opacityFactor": 0.949999988,
+        "opacityMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_repair_patch_decal_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_asphalt_repair_patch_decal_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "alphaRef": 255,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "cubemap": "cubemap_road_sky_reflection",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "decal",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "Road_01_tracks_large_decal_01": {
+    "name": "Road_01_tracks_large_decal_01",
+    "mapTo": "Road_01_tracks_large_decal_01",
+    "class": "Material",
+    "persistentId": "e5880077-d85b-4271-adb5-4feb9a1c0d01",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_dirt_traces_decal_ao.data.png",
+        "baseColorMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_dirt_traces_decal_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_dirt_traces_decal_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_dirt_traces_decal_o.data.png",
+        "roughnessFactor": 0.750792801,
+        "roughnessMap": "/levels/polish_roads_v2/art/decals/mt_italy/t_dirt_traces_decal_r.data.png"
+      },
+      {
+        "roughnessFactor": null
+      },
+      {
+        "roughnessFactor": null
+      },
+      {
+        "roughnessFactor": null
+      }
+    ],
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "beamng",
+    "materialTag1": "decal",
+    "materialTag2": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "dirt_road_edge_grassy_d": {
+    "name": "dirt_road_edge_grassy_d",
+    "mapTo": "dirt_road_edge_grassy_d",
+    "class": "Material",
+    "persistentId": "cc74d88b-bfe8-4376-abae-8f861e478110",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_02_ao.data.png",
+        "baseColorFactor": [
+          1,
+          0.999998987,
+          0.999989986,
+          0.899999976
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_02_b.color.png",
+        "detailMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_edge_brake_up_03_detail.data.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_edge_brake_up_03_nm.normal.png",
+        "detailNormalMapStrength": 0,
+        "detailScale": [
+          0.5,
+          0.5
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_02_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_02_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_02_r.data.png",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "GRASS",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_asphalt_overlay_light": {
+    "name": "italy_asphalt_overlay_light",
+    "mapTo": "italy_asphalt_overlay_light",
+    "class": "Material",
+    "persistentId": "39836210-4682-4be4-901a-13d13488bc6f",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_02_ao.data.png",
+        "baseColorFactor": [
+          1,
+          0.999989986,
+          0.999989986,
+          0.800000012
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_02_b.color.png",
+        "detailNormalMapStrength": 10,
+        "detailScale": [
+          3,
+          30
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_02_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_02_o.data.png",
+        "roughnessFactor": 0.469999999,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_02_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "cubemap": "cubemap_italy_reflection",
+    "groundType": "ASPHALT_OLD",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_asphalt_road_break": {
+    "name": "italy_asphalt_road_break",
+    "mapTo": "italy_asphalt_road_break",
+    "class": "Material",
+    "persistentId": "d60ae607-1a1d-451e-803e-e28853faa388",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/road/mt_italy/italy_asphalt_road_break_d.dds",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/italy_asphalt_road_break_n.dds",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.847059011,
+          0.847059011,
+          0.847059011,
+          1
+        ],
+        "useAnisotropic": true
+      },
+      {
+        "scrollSpeed": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "scrollSpeed": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "scrollSpeed": null,
+        "specular": null,
+        "useAnisotropic": null
+      }
+    ],
+    "annotation": "ASPHALT",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "italy_concrete_sidewalk_decalroad": {
+    "name": "italy_concrete_sidewalk_decalroad",
+    "mapTo": "italy_concrete_sidewalk_decalroad",
+    "class": "Material",
+    "persistentId": "33bfd2a6-286d-49a4-b250-d088ef400790",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/shapes/buildings/mt_italy/italy_concrete_sidewalk_d.dds",
+        "diffuseColor": [
+          1,
+          1,
+          0.987999976,
+          1
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/shapes/buildings/mt_italy/italy_concrete_sidewalk_n.dds",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ],
+        "specularMap": "/levels/polish_roads_v2/art/shapes/buildings/mt_italy/italy_concrete_sidewalk_s.dds",
+        "useAnisotropic": true
+      },
+      {
+        "diffuseColor": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ],
+        "useAnisotropic": true
+      },
+      {
+        "diffuseColor": null,
+        "specular": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "specular": null,
+        "useAnisotropic": null
+      }
+    ],
+    "annotation": "SIDEWALK",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "italy_leaf_litter": {
+    "name": "italy_leaf_litter",
+    "mapTo": "italy_leaf_litter",
+    "class": "Material",
+    "persistentId": "7b761f98-0e7d-4b31-a2a3-0fd831f0ac20",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_leaf_litter_ao.data.png",
+        "baseColorFactor": [
+          1,
+          1,
+          0.987999976,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_leaf_litter_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_leaf_litter_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_leaf_litter_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_leaf_litter_r.data.png",
+        "specular": [
+          0.313725501,
+          0.313725501,
+          0.313725501,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "pixelSpecular": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "pixelSpecular": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "pixelSpecular": null,
+        "specular": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_cracks": {
+    "name": "italy_road_cracks",
+    "mapTo": "italy_road_cracks",
+    "class": "Material",
+    "persistentId": "12294d0d-1b91-472e-b361-75715c60d4a2",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_decayed_ao.data.png",
+        "baseColorFactor": [
+          0.958993971,
+          0.958993971,
+          0.958984017,
+          0.861791015
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_decayed_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailScale": [
+          2,
+          10
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_decayed_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_decayed_o.data.png",
+        "roughnessFactor": 0.981000006,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_decayed_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "roughnessFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "groundType": "ASPHALT_OLD",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_darkside": {
+    "name": "italy_road_darkside",
+    "mapTo": "italy_road_darkside",
+    "class": "Material",
+    "persistentId": "4c61d3bc-ae77-4c57-8323-5f3847613a72",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_dark_ao.data.png",
+        "baseColorFactor": [
+          1,
+          1,
+          0.987999976,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_dark_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          1,
+          4
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_dark_nm.normal.png",
+        "opacityFactor": 0.750999987,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_dark_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_dark_r.data.png",
+        "specular": [
+          0.313725501,
+          0.313725501,
+          0.313725501,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "specular": null
+      }
+    ],
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_dirt_ruts": {
+    "name": "italy_road_dirt_ruts",
+    "mapTo": "italy_road_dirt_ruts",
+    "class": "Material",
+    "persistentId": "bd621571-8ecf-4361-8212-aa279f799578",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_ao.data.png",
+        "baseColorFactor": [
+          0.887233019,
+          0.887233019,
+          0.887224972,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_dirt_road_gravels_02_nm.normal.png",
+        "detailNormalMapStrength": 5,
+        "detailScale": [
+          2,
+          16
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_nm.normal.png",
+        "normalMapStrength": 0.5,
+        "opacityFactor": 0.700999975,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.992156982,
+          0.992156982,
+          0.992156982,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null,
+        "opacityFactor": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null,
+        "opacityFactor": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "normalMapStrength": null,
+        "opacityFactor": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_edge_concrete": {
+    "name": "italy_road_edge_concrete",
+    "mapTo": "italy_road_edge_concrete",
+    "class": "Material",
+    "persistentId": "98332192-eee5-4ec6-b610-dcfe86539c23",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_concrete_ao.data.png",
+        "baseColorFactor": [
+          1,
+          1,
+          0.987999976,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_concrete_b.color.png",
+        "detailNormalMapStrength": 10,
+        "detailScale": [
+          1,
+          0.100000001
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_concrete_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_concrete_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_concrete_r.data.png",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      }
+    ],
+    "annotation": "ASPHALT",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_edge_damage": {
+    "name": "italy_road_edge_damage",
+    "mapTo": "italy_road_edge_damage",
+    "class": "Material",
+    "persistentId": "3baed1d2-b6e8-4d16-b76a-a922f1aae8fc",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_damage_ao.data.png",
+        "baseColorFactor": [
+          1,
+          1,
+          0.987999976,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_damage_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailScale": [
+          0.25,
+          2
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_damage_nm.normal.png",
+        "opacityFactor": 0.860000014,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_damage_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_italy_road_edge_damage_r.data.png",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "specular": null
+      }
+    ],
+    "annotation": "ASPHALT",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_edge_damage_minor": {
+    "name": "italy_road_edge_damage_minor",
+    "mapTo": "italy_road_edge_damage_minor",
+    "class": "Material",
+    "persistentId": "f81ac208-0219-4091-9914-5b47fc14f9b3",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_thin_damaged_edge_ao.data.png",
+        "baseColorFactor": [
+          0.962410986,
+          0.938449979,
+          0.883481979,
+          0.5
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_thin_damaged_edge_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_thin_damaged_edge_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_thin_damaged_edge_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_thin_damaged_edge_r.data.png",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "specular": null
+      }
+    ],
+    "annotation": "ASPHALT",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_edge_damage_wide": {
+    "name": "italy_road_edge_damage_wide",
+    "mapTo": "italy_road_edge_damage_wide",
+    "class": "Material",
+    "persistentId": "57c59077-5fd6-46f1-ace3-b551f1f867ae",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_eca_asphalt_dirt_edge_02_ao.data.png",
+        "baseColorFactor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_eca_asphalt_dirt_edge_02_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_edge_brake_up_01_nm.normal.png",
+        "detailNormalMapStrength": 3,
+        "detailScale": [
+          1,
+          0.0625
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_eca_asphalt_dirt_edge_02_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_eca_asphalt_dirt_edge_02_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_eca_asphalt_dirt_edge_02_r.data.png",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_edge_damage_wide_grassy": {
+    "name": "italy_road_edge_damage_wide_grassy",
+    "mapTo": "italy_road_edge_damage_wide_grassy",
+    "class": "Material",
+    "persistentId": "fe46c4a5-0244-4270-951f-823d4ec47f8f",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_ao.data.png",
+        "baseColorFactor": [
+          1,
+          0.999998987,
+          0.999989986,
+          0.899999976
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_b.color.png",
+        "detailMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_edge_brake_up_03_detail.data.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_edge_brake_up_03_nm.normal.png",
+        "detailNormalMapStrength": 10,
+        "detailScale": [
+          0.5,
+          0.200000003
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_road_edge_grass_r.data.png",
+        "specular": [
+          0.545098007,
+          0.545098007,
+          0.545098007,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": [
+          0.521569014,
+          0.521569014,
+          0.521569014,
+          0.00800000038
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "specular": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "GRASS",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_center_line_broken_white": {
+    "name": "italy_road_markings_center_line_broken_white",
+    "mapTo": "italy_road_markings_center_line_broken_white",
+    "class": "Material",
+    "persistentId": "07bef73e-ab5f-4e95-8506-66daeabb3426",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_dashed_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_dashed_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_dashed_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_dashed_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "SOLID_LINE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_line_thick": {
+    "name": "italy_road_markings_line_thick",
+    "mapTo": "italy_road_markings_line_thick",
+    "class": "Material",
+    "persistentId": "d7d49962-ebad-4e19-840e-bf7500cf90fe",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_large_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_large_nm.normal.png",
+        "opacityFactor": 0.699999988,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_large_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_large_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "SOLID_LINE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_line_thin": {
+    "name": "italy_road_markings_line_thin",
+    "mapTo": "italy_road_markings_line_thin",
+    "class": "Material",
+    "persistentId": "c28b918b-7ebd-45fa-b363-6f682ac553ef",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "SOLID_LINE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_line_thin_blue": {
+    "name": "italy_road_markings_line_thin_blue",
+    "mapTo": "italy_road_markings_line_thin_blue",
+    "class": "Material",
+    "persistentId": "3154c30b-0073-43c6-aa80-69fa4c31a703",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.180391997,
+          0.607842982,
+          0.929412007,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "SOLID_LINE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_line_thin_mesh": {
+    "name": "italy_road_markings_line_thin_mesh",
+    "mapTo": "italy_road_markings_line_thin_mesh",
+    "class": "Material",
+    "persistentId": "a19e1e8c-6e8e-4d4e-ab46-ef8560cc2cbb",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/road/mt_italy/italy_road_markings_line_thin_d.dds",
+        "diffuseColor": [
+          0.988235354,
+          0.988235354,
+          0.988235354,
+          1
+        ],
+        "pixelSpecular": true,
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.992156923,
+          0.992156923,
+          0.992156923,
+          1
+        ],
+        "useAnisotropic": true,
+        "vertColor": true
+      },
+      {
+        "diffuseColor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null,
+        "useAnisotropic": null,
+        "vertColor": null
+      },
+      {
+        "diffuseColor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null,
+        "useAnisotropic": null,
+        "vertColor": null
+      },
+      {
+        "diffuseColor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null,
+        "useAnisotropic": null,
+        "vertColor": null
+      }
+    ],
+    "annotation": "SOLID_LINE",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "italy_road_markings_line_thin_yellow": {
+    "name": "italy_road_markings_line_thin_yellow",
+    "mapTo": "italy_road_markings_line_thin_yellow",
+    "class": "Material",
+    "persistentId": "2eef6a12-a657-43a5-998e-ed44e194c963",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.890196025,
+          0.647059023,
+          0.168626994,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_white_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "baseColorFactor": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "baseColorFactor": null,
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "SOLID_LINE",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_triangles": {
+    "name": "italy_road_markings_triangles",
+    "mapTo": "italy_road_markings_triangles",
+    "class": "Material",
+    "persistentId": "f105165b-46df-4e28-9559-59478075027f",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_triangles_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_triangles_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_triangles_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_triangles_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "DRIVING_INSTRUCTIONS",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_zebra": {
+    "name": "italy_road_markings_zebra",
+    "mapTo": "italy_road_markings_zebra",
+    "class": "Material",
+    "persistentId": "b2707437-5a0b-4900-91e3-0e0be434defa",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_crossing_white_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_crossing_white_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_crossing_white_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_line_crossing_white_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "ZEBRA_CROSSING",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "materialTag3": "decal",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "italy_road_markings_zebra_diagonal": {
+    "name": "italy_road_markings_zebra_diagonal",
+    "mapTo": "italy_road_markings_zebra_diagonal",
+    "class": "Material",
+    "persistentId": "c1683ab6-c106-4da9-8b45-13303c40c2a5",
+    "Stages": [
+      {
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_slash_white_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_slash_white_nm.normal.png",
+        "opacityFactor": 0.75,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_slash_white_o.data.png",
+        "pixelSpecular": true,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_marking_slash_white_r.data.png",
+        "scrollSpeed": 4.11800003,
+        "specular": [
+          0.274509996,
+          0.274509996,
+          0.274509996,
+          1
+        ]
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      },
+      {
+        "opacityFactor": null,
+        "pixelSpecular": null,
+        "scrollSpeed": null,
+        "specular": null
+      }
+    ],
+    "annotation": "RESTRICTED_STREET",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "markings",
+    "materialTag3": "decal",
+    "specularStrength0": "0.490196",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_asphalt_damaged_01": {
+    "name": "m_asphalt_damaged_01",
+    "mapTo": "m_asphalt_damaged_01",
+    "class": "Material",
+    "persistentId": "6276b183-40bd-4edc-a87d-189f0e207c95",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_01_ao.data.png",
+        "baseColorFactor": [
+          0.709541023,
+          0.709537983,
+          0.709533989,
+          0.600000024
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_01_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailNormalMapStrength": 3,
+        "detailScale": [
+          1.5,
+          6
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_01_nm.normal.png",
+        "opacityFactor": 0.810000002,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_01_o.data.png",
+        "roughnessFactor": 0.832000017,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_01_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_asphalt_damaged_02": {
+    "name": "m_asphalt_damaged_02",
+    "mapTo": "m_asphalt_damaged_02",
+    "class": "Material",
+    "persistentId": "1e0daf19-1287-4d90-bc2b-edbfb56aade1",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_02_ao.data.png",
+        "baseColorFactor": [
+          0.728518009,
+          0.728514016,
+          0.728510976,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_02_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          1.5,
+          6
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_02_nm.normal.png",
+        "opacityFactor": 0.813000023,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_02_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_damaged_02_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_asphalt_trackwear": {
+    "name": "m_asphalt_trackwear",
+    "mapTo": "m_asphalt_trackwear",
+    "class": "Material",
+    "persistentId": "a79a5713-91dc-4923-9c75-dbc1934293dc",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_trackwear_ao.data.png",
+        "baseColorFactor": [
+          0.988235354,
+          0.988235354,
+          0.988235354,
+          0.699999988
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_trackwear_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailNormalMapStrength": 0.5,
+        "detailScale": [
+          3,
+          3
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_trackwear_nm.normal.png",
+        "opacityFactor": 0.476999998,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_trackwear_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_trackwear_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "alphaRef": 80,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "Industrial",
+    "specularStrength0": "1.37255",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_road_gravels": {
+    "name": "m_dirt_road_gravels",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "de243ec6-2515-4804-a261-0966177714e2",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_road_gravels_ao.data.png",
+        "baseColorFactor": [
+          0.870845973,
+          0.844811976,
+          0.783366024,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_road_gravels_b.color.png",
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_road_gravels_nm.normal.png",
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_road_gravels_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_road_gravels_r.data.png"
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      },
+      {
+        "baseColorFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_tiretracks": {
+    "name": "m_dirt_tiretracks",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "d12813c9-9a7b-43d9-8f71-7885fc25b634",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_ao.data.png",
+        "baseColorFactor": [
+          0.890650988,
+          0.890641987,
+          0.890641987,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_detail_nm.normal.png",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          2,
+          4
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_nm.normal.png",
+        "opacityFactor": 0.596000016,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_tiretracks_02": {
+    "name": "m_dirt_tiretracks_02",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "165f2bc0-d6bd-4614-9164-c48a21de618a",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_02_ao.data.png",
+        "baseColorFactor": [
+          0.880398989,
+          0.880398989,
+          0.856330991,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_02_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_detail_nm.normal.png",
+        "detailScale": [
+          2,
+          4
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_02_nm.normal.png",
+        "opacityFactor": 0.755999982,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_02_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_02_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_variation_01": {
+    "name": "m_dirt_variation_01",
+    "mapTo": "m_dirt_variation_01",
+    "class": "Material",
+    "persistentId": "91649d8e-69c9-4998-8517-a44330b6dc34",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_01_ao.data.png",
+        "baseColorFactor": [
+          0.798386991,
+          0.798386991,
+          0.752007008,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_01_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_dirt_road_gravels_02_nm.normal.png",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          4,
+          32
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_01_nm.normal.png",
+        "opacityFactor": 0.699999988,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_01_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_01_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_variation_02": {
+    "name": "m_dirt_variation_02",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "4d953f9e-1c30-40fb-b98d-fd7a8c9ca544",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_ao.data.png",
+        "baseColorFactor": [
+          0.829141974,
+          0.829141974,
+          0.829132974,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_normal_detail_02_nm.normal.png",
+        "detailNormalMapStrength": 4,
+        "detailScale": [
+          2,
+          8
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_nm.normal.png",
+        "opacityFactor": 0.735000014,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_02_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_variation_03": {
+    "name": "m_dirt_variation_03",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "c7f6b4a2-b331-4f12-b5bb-fe5609e74d14",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_03_ao.data.png",
+        "baseColorFactor": [
+          0.764652014,
+          0.738534987,
+          0.676867008,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_03_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_normal_detail_02_nm.normal.png",
+        "detailNormalMapStrength": 10,
+        "detailScale": [
+          2,
+          8
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_03_nm.normal.png",
+        "opacityFactor": 0.540000021,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_03_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_03_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_dirt_variation_04": {
+    "name": "m_dirt_variation_04",
+    "mapTo": "m_dirt_variation_04",
+    "class": "Material",
+    "persistentId": "0d939f0c-a18c-418b-a8e8-896e25b21944",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_04_ao.data.png",
+        "baseColorFactor": [
+          1,
+          0.999997973,
+          0.999989986,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_04_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_tiretracks_normal_detail_nm.normal.png",
+        "detailNormalMapStrength": 1.5,
+        "detailScale": [
+          4,
+          16
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_04_nm.normal.png",
+        "opacityFactor": 0.598999977,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_04_o.data.png",
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_dirt_variation_04_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null
+      }
+    ],
+    "annotation": "NATURE",
+    "materialTag0": "RoadAndPath",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_road_variation_01": {
+    "name": "m_road_variation_01",
+    "mapTo": "m_road_variation_01",
+    "class": "Material",
+    "persistentId": "990babde-4027-4069-9ecc-f693b5aa617b",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_01_ao.data.png",
+        "baseColorFactor": [
+          0.842809975,
+          0.842801988,
+          0.842801988,
+          0.800000012
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_01_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_03_nm.normal.png",
+        "detailNormalMapStrength": 10,
+        "detailScale": [
+          4,
+          64
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_01_nm.normal.png",
+        "opacityFactor": 0.550000012,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_01_o.data.png",
+        "roughnessFactor": 0.229000002,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_01_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailNormalMapStrength": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "cubemap": "cubemap_italy_reflection",
+    "groundType": "ASPHALT_OLD",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_tread_marks_clean": {
+    "name": "m_tread_marks_clean",
+    "mapTo": "m_tread_marks_clean",
+    "class": "Material",
+    "persistentId": "346ab114-ef2d-450e-b83d-640d2f7c6622",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_clean_ao.data.png",
+        "baseColorFactor": [
+          0.999989986,
+          0.999996006,
+          1,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_clean_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_asphalt_variation_01_nm.normal.png",
+        "detailNormalMapStrength": 0.300000012,
+        "detailScale": [
+          2,
+          0.25
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_clean_nm.normal.png",
+        "opacityFactor": 0.805999994,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_clean_o.data.png",
+        "roughnessFactor": 0.400000006,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_clean_r.data.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 0,
+    "alphaTest": true,
+    "annotation": "SOLID_LINE",
+    "castShadows": false,
+    "cubemap": "cubemap_italy_reflection",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_tread_marks_damaged": {
+    "name": "m_tread_marks_damaged",
+    "mapTo": "m_tread_marks_damaged",
+    "class": "Material",
+    "persistentId": "733b04c7-9e01-449d-9e12-df7a35d88e3a",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_damaged_ao.data.png",
+        "baseColorFactor": [
+          0.614989996,
+          0.614983976,
+          0.614983976,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_damaged_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_03_nm.normal.png",
+        "detailScale": [
+          1,
+          4
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_damaged_nm.normal.png",
+        "opacityFactor": 0.763000011,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_damaged_o.data.png",
+        "roughnessFactor": 0.904999971,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_damaged_r.data.png"
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      },
+      {
+        "baseColorFactor": null,
+        "detailScale": null,
+        "opacityFactor": null,
+        "roughnessFactor": null
+      }
+    ],
+    "alphaRef": 0,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "m_tread_marks_worn": {
+    "name": "m_tread_marks_worn",
+    "mapTo": "m_tread_marks_worn",
+    "class": "Material",
+    "persistentId": "f130019a-2ece-4614-b2cf-37e31f82df01",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_worn_ao.data.png",
+        "baseColorFactor": [
+          0.698894978,
+          0.698898017,
+          0.698902011,
+          1
+        ],
+        "baseColorMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_worn_b.color.png",
+        "detailNormalMap": "/levels/polish_roads_v2/art/road/detailed_normals/mt_italy/t_asphalt_detail_02_nm.normal.png",
+        "detailScale": [
+          1.5,
+          6
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_worn_nm.normal.png",
+        "opacityFactor": 0.838999987,
+        "opacityMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_worn_o.data.png",
+        "roughnessFactor": 0.764999986,
+        "roughnessMap": "/levels/polish_roads_v2/art/road/mt_italy/t_tread_marks_worn_r.data.png"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 0,
+    "annotation": "SOLID_LINE",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "Natural",
+    "materialTag3": "Natural",
+    "materialTag4": "east_coast_usa",
+    "specularStrength0": "0",
+    "translucent": true,
+    "translucentRecvShadows": true,
+    "translucentZWrite": true,
+    "version": 1.5
+  },
+  "road_invisible": {
+    "name": "road_invisible",
+    "mapTo": "road_invisible",
+    "class": "Material",
+    "persistentId": "5982413a-176a-4181-8f7f-510c13cec9a4",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/shapes/roads/mt_italy/invisible.dds",
+        "specularPower": 1,
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef": 127,
+    "alphaTest": true,
+    "annotation": "STREET",
+    "castShadows": false,
+    "cubemap": "cubemap_road_sky_reflection",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0"
+  },
+  "skidmarks_01": {
+    "name": "skidmarks_01",
+    "mapTo": "skidmarks_01",
+    "class": "Material",
+    "persistentId": "73585583-edc6-4224-bb95-3624fb4de328",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/road/mt_italy/skidmarks_01_d.color.png",
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          0.738390028
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/skidmarks_01_n.normal.png",
+        "specularMap": "/levels/polish_roads_v2/art/road/mt_italy/skidmarks_01_s.color.png",
+        "useAnisotropic": true
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      }
+    ],
+    "alphaRef": 255,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "decal",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "skidmarks_02": {
+    "name": "skidmarks_02",
+    "mapTo": "skidmarks_02",
+    "class": "Material",
+    "persistentId": "f63d81db-b2e4-4ba8-9841-ab51c2520df6",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/road/mt_italy/skidmarks_02_d.color.png",
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          0.608390033
+        ],
+        "normalMap": "/levels/polish_roads_v2/art/road/mt_italy/skidmarks_02_n.normal.png",
+        "specularMap": "/levels/polish_roads_v2/art/road/mt_italy/skidmarks_02_s.color.png",
+        "useAnisotropic": true
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      },
+      {
+        "diffuseColor": null,
+        "useAnisotropic": null
+      }
+    ],
+    "alphaRef": 255,
+    "annotation": "ASPHALT",
+    "castShadows": false,
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "materialTag2": "decal",
+    "translucent": true,
+    "translucentZWrite": true
+  },
+  "wood_01": {
+    "name": "wood_01",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "7aace615-3cec-4eed-a080-ab151c4b48ca",
+    "Stages": [
+      {
+        "colorMap": "levels/polish_roads_v2/art/shapes/buildings/mt_italy/wood_01_d.dds",
+        "detailMap": "levels/polish_roads_v2/art/shapes/buildings/mt_italy/wood_01_overlay.dds",
+        "detailScale": [
+          0.1000000014901161,
+          0.1000000014901161
+        ],
+        "diffuseColor": [
+          0.9960780143737792,
+          0.9960780143737792,
+          0.9960780143737792,
+          1
+        ],
+        "normalMap": "levels/polish_roads_v2/art/shapes/buildings/mt_italy/wood_01_n.dds",
+        "specular": [
+          0.9960780143737792,
+          0.9960780143737792,
+          0.9960780143737792,
+          1
+        ],
+        "specularMap": "levels/polish_roads_v2/art/shapes/buildings/mt_italy/wood_01_s.dds",
+        "specularPower": 19
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "groundType": "WOOD",
+    "materialTag0": "RoadAndPath",
+    "materialTag1": "beamng",
+    "specularStrength0": "0.490196",
+    "translucentBlendOp": "None"
+  },
+  "a_asphalt_01_a": {
+    "name": "a_asphalt_01_a",
+    "mapTo": "asphalt_01_a",
+    "class": "Material",
+    "persistentId": "9818d383-c902-437d-b030-3107d274e96f",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/art/shapes/misc/mt_italy/asphalt_01_a_d.dds",
+        "diffuseColor": [
+          0.803921998,
+          0.803921998,
+          0.803921998,
+          1
+        ],
+        "specularMap": "/levels/polish_roads_v2/art/shapes/misc/mt_italy/asphalt_01_a_s.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "groundType": "ASPHALT_OLD",
+    "materialTag0": "beamng",
+    "materialTag1": "RoadAndPath",
+    "translucentBlendOp": "None"
+  },
+  "Cave_01a_terrain_rock": {
+    "name": "Cave_01a_terrain_rock",
+    "mapTo": "unmapped_mat",
+    "class": "Material",
+    "persistentId": "3e7d01ce-a8d6-4ff6-96d2-b08f4ecc9a3b",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.800000012,
+          0.800000012,
+          0.800000012,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "groundType": "ROCK",
+    "materialTag0": "RoadAndPath",
+    "translucentBlendOp": "None"
+  }
+}

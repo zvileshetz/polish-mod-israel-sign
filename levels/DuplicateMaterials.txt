@@ -1,0 +1,530 @@
+cubemap_eca_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_eca_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_eca_reflection\main.materials.json
+eca_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_eca_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_eca_reflection\main.materials.json
+cubemap_ocean_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_ocean_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_ocean_reflection\main.materials.json
+ocean_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_ocean_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_ocean_reflection\main.materials.json
+cubemap_river_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_river_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_river_reflection\main.materials.json
+river_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_river_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_river_reflection\main.materials.json
+cubemap_road_sky_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_road_sky_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_road_sky_reflection\main.materials.json
+road_sky_reflection (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\cubemaps\cubemap_road_sky_reflection\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\cubemaps\cubemap_road_sky_reflection\main.materials.json
+BNG_Sky_02 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\skies\BNG_Sky_02\ckconverted.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\skies\main.materials.json
+Asphalt_OLD (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Asphalt_broken (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Bruk (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Bruk1 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Grass-b278fb81-7a48-4903-9f51-2a0dfc8bdcf9 (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain_v2\main.materials.json
+Grass_15pbr (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+GrassPBR (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+GrassPBR0 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Kamienie3 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Kostka0 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+NewMaterial (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+Piasek0 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+broken (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+polish_roads_v2TerrainMaterialTextureSet (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+zepsute (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\art\terrains\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\terrain\main.materials.json
+cladding_zinc (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_automation\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+glass_transparent (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_automation\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah\main.materials.json
+metal_galvanized (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_automation\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\roads\main.materials.json
+rooftiles (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_automation\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+vertexColor_glow (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_automation\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\roads\main.materials.json
+weatherboards (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_automation\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+italy_mesh_fence (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_derby\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\industrial\main.materials.json
+race_arrowtexture (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_derby\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\industrial\main.materials.json
+ut_graffiti (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_derby\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\industrial\main.materials.json
+vertcolor_glow (Duplicates: 6)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_derby\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\industrial\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+catchfence (Duplicates: 6)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+solar_panel (Duplicates: 5)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+vertexColor_shadeless (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects2\main.materials.json
+barrierfence (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_driver_training\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+italy_road_edge_damage_minor (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+line_white (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\road\main.materials.json
+m_asphalt_damaged_01 (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_damaged_02 (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_variation_04 (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+road_invisible (Duplicates: 5)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_industrial\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+lod_vertcol (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\buildings\main.materials.json
+busstop (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+busstop_windows (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+italy_bld_glass_transparent (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\buildings\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+floodlight (Duplicates: 5)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\misc\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\industrial\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+leaves_strong (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_industrial\shapes\trees\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\shapes\trees\main.materials.json
+leaves_thin (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_industrial\shapes\trees\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\shapes\trees\main.materials.json
+generibush_leaves (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\ECA_coast_bush\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\trees_italy\main.materials.json
+cypress (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\trees_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\shapes\trees\trees_italy\main.materials.json
+tall_plant_vegetation (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\trees_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_east_coast_usa\shapes\trees\tree_italy\main.materials.json
+boom_lift (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+hr_tirewall (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+roadworks_objects (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+wca_objects_construction (Duplicates: 4)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_hirochi_raceway\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+italy_bld_ind_windows (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\main.materials.json
+italy_bld_light_glow (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah\main.materials.json
+italy_bld_metal (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\main.materials.json
+italy_bld_object_atlas (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\main.materials.json
+italy_poles_lights_etc (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\main.materials.json
+m_asphalt_trackwear (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_road_gravels (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_tiretracks (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_tiretracks_02 (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_variation_02 (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_variation_03 (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_tread_marks_clean (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_tread_marks_damaged (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_italy\road\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+road2_concrete (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\industrial\main.materials.json
+highrise (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_stacja_bloki\blocks\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+architraves (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+canal (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+construction (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+stone_brick_regular (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+stucco1_white (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+tent (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+vertexColor (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+walls_transparent (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\From_Utah_2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\buildings\main.materials.json
+billboards (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+chainlink (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+filmset (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+power_cables (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+roadsigns (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+shock_absorber (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+barrier_plastic (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+fencewire (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+m_metal_new_01 (Duplicates: 3)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\main.materials.json
+wirefence (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\objects2\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\trafficlights\main.materials.json
+sidewalk1 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\from_west_coast_usa\art\shapes\roads\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\garage\structure\main.materials.json
+lidl_Color_C07 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\SketchUpCK\Biedra\ckconverted.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\SketchUpCK\Lidl\ckconverted.materials.json
+lidl___DimGray_ (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\SketchUpCK\Biedra\ckconverted.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\SketchUpCK\Lidl\ckconverted.materials.json
+lidl___LightGray_1 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\SketchUpCK\Biedra\ckconverted.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\SketchUpCK\Lidl\ckconverted.materials.json
+m_asphalt_decayed (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_dirt_edge (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_repair_joint_01 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_repair_joint_02 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_repair_joint_03 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_skidmarks_01 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_skidmarks_02 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_variation_01 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_asphalt_variation_02 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_bank_erosion (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_road_flows (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_dirt_variation_01 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_line_white (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_line_white_damaged_01 (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_line_yellow_discontinue (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_line_yellow_double_discontinue (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_mud_furrows (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_mud_large (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_mud_tiretracks (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_sand_tiretracks (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_thin_damaged_edge (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
+m_tread_marks_used (Duplicates: 2)
+Duplicates found in:
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\decalroad\main.materials.json
+C:\Users\Lenovo\Desktop\backup\unpacked\polish_roads_v2\levels\polish_roads_v2\Valley\teren\main.materials.json
