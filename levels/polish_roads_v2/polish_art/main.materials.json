@@ -1,0 +1,15 @@
+{
+  "sidewalk_curb-black_white": {
+    "name": "sidewalk_curb-black_white",
+    "mapTo": "sidewalk_curb-black_white",
+    "class": "Material",
+    "Stages": [
+      {
+        "colorMap": "/levels/polish_roads_v2/polish_art/sidewalk_curb-black_white.png"
+      },
+      {},
+      {},
+      {}
+    ]
+  }
+}
