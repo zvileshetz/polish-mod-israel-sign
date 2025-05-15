@@ -1,0 +1,16 @@
+{
+  "Israel_road_sign_631_svg": {
+    "name": "Israel_road_sign_631_svg",
+    "mapTo": "Israel_road_sign_631.svg",
+    "class": "material",
+    "Stages": [
+      {
+        "colorMap": "Israel_road_sign_631.svg"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}
