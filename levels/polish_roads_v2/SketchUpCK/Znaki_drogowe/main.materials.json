@@ -1831,7 +1831,9 @@
     "mapTo": "Sign-437",
     "class": "Material",
     "Stages": [
-      {},
+      {
+        "colorMap": "/levels/polish_roads_v2/SketchUpCK/Znaki_drogowe/tex/4XX-Prohibitions and restrictions signs/Israel_road_sign_437.svg.png"
+      },
       {},
       {},
       {}
